@@ -1,0 +1,47 @@
+{
+	"seo": {
+		"title": "DAO Forum For You — Communicate, Decide, Choose",
+		"description": "Choise.com DAO is a decentralized autonomous organization that will give all users an opportunity make their impact on the ecosystem development."
+	},
+	"main": {
+		"title": "dao. your choise to make an impact",
+		"description": "Choise.com DAO is a decentralized autonomous organization that will give all users an opportunity make their impact on the ecosystem development.",
+		"label": "Think big and join DAO ",
+		"title_span": "let’s make our future worth writing about",
+		"link_a": "Join DAO"
+	},
+	"information": {
+		"array" : [
+			{
+				"title": "why dao?",
+				"description": ["The DAO mission is to provide everybody with equal opportunities to earn on crypto assets in a risk free environment regardless of the level of crypto expertise."],
+				"image": "/pic/dao/dao-information-1.png",
+				"width": 198,
+				"height": 209
+			},
+			{
+				"title": "what is dao forum?",
+				"description": ["In our journey to a fully fledged Choise.com DAO, we launched DAO Forum.", "Forum is the essential part of the DAO and the main communication channel where the Choise.com community will have the freedom of speech."],
+				"image": "/pic/dao/dao-information-2.png",
+				"width": 201,
+				"height": 257
+			}
+		]
+	},
+	"banner": {
+		"array" : [
+			{
+				"title": "each voice is important",
+				"description": "The Choise.com DAO members will assist us in sorting out our priorities."
+			},
+			{
+				"image": true
+			},
+			{
+				"title": "common decision",
+				"description": "Provide collective decisions, and we will accept them so far as they may be implemented financially, legally or technically."
+			}
+		],
+		"link_a": "Start making an impact"
+	}
+}

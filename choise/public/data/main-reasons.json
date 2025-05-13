@@ -1,0 +1,348 @@
+[
+	{
+		"title": "Your ultimate crypto App",
+		"description": "We aggregated the safest and easiest ways to buy, sell, cash out and earn crypto.",
+		"button": "Get the App",
+		"slug": "https://crypterium.onelink.me/jtmZ/choisesiteheader",
+		"target": true,
+		"color": "#FFFB1F"
+	},
+	{
+		"title": "Insure the price of BTC or ETH not to lose",
+		"description": "If the price of a given crypto is less than the insurance price at expiry, Choise.com will cover the losses.",
+		"button": "Start now",
+		"slug": "/price-insurance",
+		"target": false,
+		"color": "#D1FB4F"
+	},
+	{
+		"title": "Buy crypto with a bank card, instantly and with zero fee",
+		"description": "Choise.com charges a 0% commission on your first crypto purchase. Buy BTC, ETH and 30+ other coins instantly.",
+		"button": "Buy now",
+		"slug": "https://app.crypterium.com/transfer/payin",
+		"target": true,
+		"color": "#3BFF91"
+	},
+	{
+		"title": "Spend crypto anywhere, anytime with Crypterium Card",
+		"description": "Withdraw from ATMs in 200+ countries and shop in over 42 million retailers.",
+		"button": "Order the Card",
+		"slug": "/cards",
+		"target": false,
+		"color": "#FFE0BF"
+	},
+	{
+		"title": "Cash out crypto to VISA or Mastercard — the choise is yours",
+		"description": "Use Choise.com to send crypto straight to your Mastercard and Visa in seconds.",
+		"button": "Cash out",
+		"slug": "/wallet/cashout",
+		"target": false,
+		"color": "#FFFCBF"
+	},
+	{
+		"title": "Don't need to be a pro to buy and sell crypto",
+		"description": "Exchange your digital holdings for fiat or other cryptos, without worrying that you overpay for mediation.",
+		"button": "Exchange now",
+		"slug": "https://app.crypterium.com/operation/exchange",
+		"target": true,
+		"color": "#BFFFEC"
+	},
+	{
+		"title": "Open an interest account and get full APY immediately",
+		"description": "NFTs, luxury cars, electronics, exclusive tours instantly after deposit.",
+		"button": "Deposit",
+		"slug": "#",
+		"target": false,
+		"color": "#EBBFFF",
+		"disabled": true
+	},
+	{
+		"title": "Lambo, space flight, high-priced NFTs for the deposit",
+		"description": "Achieve your goals by deposit in CHO.",
+		"button": "Deposit",
+		"slug": "#",
+		"target": false,
+		"color": "#FFBFBF",
+		"disabled": true
+	},
+	{
+		"title": "Hedge your risks and feel safe while going crypto",
+		"description": "Price Insurance is an option to fix a guaranteed minimum price when buying BTC or ETH.",
+		"button": "Insure now",
+		"slug": "/price-insurance",
+		"target": false,
+		"color": "#FFF853"
+	},
+	{
+		"title": "Dual Currency Interest Accounts for BTC and ETH",
+		"description": "Receive high returns through an income generation yield strategy based on a dual currency interest account pricing.",
+		"button": "Learn more",
+		"slug": "/dual-currency-interest-account",
+		"target": false,
+		"color": "#FFBFBF"
+	},
+	{
+		"title": "First-ever NFT interest accounts",
+		"description": "Receive a unique NFT with the interest account characteristics to your MetaMask wallet and exchange it at the expiry for the amount of your interest account plus interest.",
+		"button": "Mint a token",
+		"slug": "/nft/fend",
+		"target": false,
+		"color": "#FFFCBF"
+	},
+	{
+		"title": "Innovative DeFi services aggregator",
+		"description": "Enjoy single entrance point for the variety of DeFi protocols and blockchain networks.",
+		"button": "Try Charism",
+		"slug": "https://defi.choise.com/earn",
+		"target": true,
+		"color": "#FFE0BF"
+	},
+	{
+		"title": "Best bridges across 10 chains",
+		"description": "Enjoy extreme simplicity and attractive rates in one unified interface.",
+		"button": "Bridge now",
+		"slug": "https://defi.choise.com/bridge",
+		"target": true,
+		"color": "#D1FB4F"
+	},
+	{
+		"title": "Swap with the lowest rates",
+		"description": "Avoid excessive commissions and swap digital assets being sure of the lowest slippage and high-liquidity DEXes.",
+		"button": "Start swapping",
+		"slug": "https://defi.choise.com/swap",
+		"target": true,
+		"color": "#EBBFFF"
+	},
+	{
+		"title": "6-year success story",
+		"description": "From a neo bank for crypto to a full-scale crypto financial services platform uniting CeFi and DeFi solutions into a single MetaFi concept.",
+		"button": "Learn more",
+		"slug": "/rebranding",
+		"target": false,
+		"color": "#BFFFF7"
+	},
+	{
+		"title": "Compliance with the European legislation",
+		"description": "EU license 305964183 for providing a virtual asset operations",
+		"button": "Learn more",
+		"slug": "https://rekvizitai.vz.lt/imone/stilgeka/juridinis-asmuo/",
+		"target": true,
+		"color": "#CCFFBF"
+	},
+	{
+		"title": "Choise.com is in the top 100 FinTech companies",
+		"description": "Included in the Fintech100 Report by H2VENTURES and KPMG, named among the top crypto wallets by BENZINGA and Investing.com, received the ICMA Elan Award of Excellence.",
+		"button": "Discover more",
+		"slug": "/rebranding",
+		"target": false,
+		"color": "#3BFF91"
+	},
+	{
+		"title": "High transaction processing speed",
+		"description": "You don't have to wait decades for your transactions to be processed – it happens instantly.",
+		"button": "Try now",
+		"slug": "/dashboard",
+		"target": false,
+		"color": "#FFF853"
+	},
+	{
+		"title": "Great instant support 24/7",
+		"description": "We work full time, ready to answer any question and deal with issues of any kind.",
+		"button": "Discover more",
+		"slug": "/help",
+		"target": false,
+		"color": "#52EAFF"
+	},
+	{
+		"title": "Easy access to a high yield",
+		"description": "Try earn, swap and bridge aggregators, a transaction builder and Web 3.0 interest accounts with a super simple UI.",
+		"button": "Try now",
+		"slug": "/charism",
+		"target": false,
+		"color": "#DFFFBF"
+	},
+	{
+		"title": "Few clicks to get your free virtual card",
+		"description": "Get your card in a matter of minutes: activate it with a single click and start spending.",
+		"button": "Get a virtual card",
+		"slug": "https://app.crypterium.com/cards",
+		"target": true,
+		"color": "#FFBFFC"
+	},
+	{
+		"title": "30+ most popular cryptocurrencies available",
+		"description": "Buy any crypto with your bank card instantly and enjoy low fees.",
+		"button": "Buy crypto",
+		"slug": "https://app.crypterium.com/transfer/payin",
+		"target": true,
+		"color": "#C0BFFF"
+	},
+	{
+		"title": "0% fee for the first crypto purchase",
+		"description": "Zero commission on your first crypto purchase when paying with USD, EUR or any other fiat.",
+		"button": "Try now",
+		"slug": "https://app.crypterium.com/transfer/payin",
+		"target": true,
+		"color": "#F0D8CE"
+	},
+	{
+		"title": "The easiest way to earn passive income",
+		"description": "A full range of earning products to offer you attractive returns with less risk.",
+		"button": "Download the App",
+		"slug": "https://crypterium.onelink.me/jtmZ/deposits?app_screen=deposits",
+		"target": true,
+		"color": "#FFE9BF"
+	},
+	{
+		"title": "Practical for both newbies and pro",
+		"description": "Choose the solution that suits you best.",
+		"button": "Start earning",
+		"slug": "https://crypterium.onelink.me/jtmZ/deposits?app_screen=deposits",
+		"target": true,
+		"color": "#BFFFF7"
+	},
+	{
+		"title": "Seamless transition between CeFi and DeFi wallets",
+		"description": "No more need to install endless applications to bridge the gap between centralized and decentralized finance.",
+		"button": "Get a free wallet",
+		"slug": "https://crypterium.onelink.me/jtmZ/choisesiteheader",
+		"target": true,
+		"color": "#FFDEBF"
+	},
+	{
+		"title": "Hassle-free access to DeFi assets",
+		"description": "Exchange tokens at attractive prices, efficiently transfer assets between different networks, analyze investments, yield and risks, enter the chosen products – all that through a super friendly UX.",
+		"button": "Start exploring",
+		"slug": "/charism",
+		"target": false,
+		"color": "#FF93A6"
+	},
+	{
+		"title": "Outpace traditional market yields by using our high-yield interest accounts",
+		"description": "Enjoy outstanding rates for USDT, USDC, DAI, CRPT, BTC, ETH.",
+		"button": "Open an interest account",
+		"slug": "https://crypterium.onelink.me/jtmZ/deposits?app_screen=deposits",
+		"target": true,
+		"color": "#FCFF53"
+	},
+	{
+		"title": "Price prediction service with accuracy rate of above 80% and 1-year history",
+		"description": "Put the chances on your side with daily AI-powered price predictions for over 150 digital currencies.",
+		"button": "Start now",
+		"slug": "https://crypterium.onelink.me/jtmZ/predictions?app_screen=predictions",
+		"target": true,
+		"color": "#97C1FF"
+	},
+	{
+		"title": "Daily crypto market analytics",
+		"description": "Stay updated with our daily reviews and crypto news compilations.",
+		"button": "Discover now",
+		"slug": "/news/dailyanalysis",
+		"target": false,
+		"color": "#BFFFC9"
+	},
+	{
+		"title": "Great fundamentals and well-developed tokenomics",
+		"description": "CHO tokenomics is based on cutting-edge industry practices and is presented by a deflationary model with the total tokens supply capped at 1 billion subject to be burned over the time.",
+		"button": "Learn more",
+		"slug": "/tokenomics",
+		"target": false,
+		"color": "#BFF3FF"
+	},
+	{
+		"title": "Complete range of products",
+		"description": "From simple wallets to Visa and Mastercatrd, mass payments, savings and earning products.",
+		"button": "Try now",
+		"slug": "https://app.crypterium.com/dashboard",
+		"target": true,
+		"color": "#FFBFC7"
+	},
+	{
+		"title": "Top-notch security",
+		"description": "Rest assured: your account is protected by a 3-layer security and an anti-fraud protocol.",
+		"button": null,
+		"slug": null,
+		"target": false,
+		"color": "#FFBFDE"
+	},
+	{
+		"title": "NFT collection on BNB Chain",
+		"description": "The CHO NFT Collection is built on BNB Chain implying low gas fees, a lightning transactions speed and a high security.",
+		"button": "Learn more",
+		"slug": "/nft",
+		"target": false,
+		"color": "#EEFFBF"
+	},
+	{
+		"title": "White label software",
+		"description": "With a powerful SDK and an API integration, any company can become a crypto company.",
+		"button": "Learn more",
+		"slug": "https://crypterium.com/business",
+		"target": true,
+		"color": "#EBFF72"
+	},
+	{
+		"title": "CHO price has increased 35x",
+		"description": "Since the launch, Choise.com native token price has increased by more than 3500%, from $0.03 to $1.20, with the total diluted capitalization of the CHO token exceeding $1B.",
+		"button": "Buy CHO",
+		"slug": "https://app.crypterium.com/transfer/payin",
+		"target": true,
+		"color": "#BFFFC9"
+	},
+	{
+		"title": "Receive up to 26% APY in CHO ",
+		"description": "Try interest accounts in CHO token.",
+		"button": "Open an interest account",
+		"slug": "/earn",
+		"target": false,
+		"color": "#ACFF6B"
+	},
+	{
+		"title": "CHO is backed by 24 crypto funds",
+		"description": "The CHO token has received backing from 24 crypto funds, with all pre-sale round fully sold out and community involvement reaching over 100,000 users.",
+		"button": "Buy CHO",
+		"slug": "https://app.crypterium.com/transfer/payin",
+		"target": true,
+		"color": "#F8FB4F"
+	},
+	{
+		"title": "Access to governance opportunities",
+		"description": "Join the Choise.com DAO to get an opportunity to influence the development of the project.",
+		"button": "Start making an impact",
+		"slug": "https://dao.choise.com/",
+		"target": true,
+		"color": "#BFFFD9"
+	},
+	{
+		"title": "Earn 25% of friends commissions",
+		"description": "Invite friends using your referral link and earn $5 + 25% of their commissions for a whole year.",
+		"button": "Learn more",
+		"slug": "/wallet/referral",
+		"target": false,
+		"color": "#C3C6FF"
+	},
+	{
+		"title": "Huge and like-minded Choise community",
+		"description": "Communicate with other people and ask Choise.com any questions on your mind.",
+		"button": "Learn and join",
+		"slug": "https://discord.gg/GQbcNbRWSm",
+		"target": true,
+		"color": "#B8FFCC"
+	},
+	{
+		"title": "Full-scale Ambassador program",
+		"description": "Identify your talents and develop them into full-scale core skills.",
+		"button": "Become an Ambassador",
+		"slug": "/ambassador",
+		"target": false,
+		"color": "#C9E3EE"
+	},
+	{
+		"title": "Crypto inclusion for everybody",
+		"description": "The only cryptobanking platform to support both direct retail users and business customers equally for both banking and earning solutions.",
+		"button": "Get started",
+		"slug": "https://crypterium.onelink.me/jtmZ/choisesiteheader",
+		"target": true,
+		"color": "#FFBB95"
+	}
+]

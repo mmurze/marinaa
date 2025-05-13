@@ -1,0 +1,90 @@
+{
+	"seo": {
+		"title": "crypterium card",
+		"description": "Getting a card in just minutes? Yes! Apply for a virtual Crypterium Card and experience the fastest card issuance ever. Top it up straight from your Wallet, connect to Apple Pay and get ready to pay anywhere, anytime."
+	},
+	"main":{
+		"title": "crypterium card",
+		"description": "Getting a card in just minutes? Yes! Apply for a virtual Crypterium Card and experience the fastest card issuance ever. Top it up straight from your Wallet, connect to Apple Pay and get ready to pay anywhere, anytime.",
+		"wallet_deep_link": "Order now"
+	},
+	"lists": {
+		"list":[
+			{
+				"image": "/pic/cards/card-list-1.png",
+				"title": "Get a free virtual card in just minutes, not days"
+			},
+			{
+				"image": "/pic/cards/card-list-2.png",
+				"title": "Top up with BTC, LTC, ETH & many other assets"
+			},
+			{
+				"image": "/pic/cards/card-list-3.png",
+				"title": "Withdraw cash from ATMs in 200+ countries"
+			},
+			{
+				"image": "/pic/cards/card-list-4.png",
+				"title": "Shop online & offline in over 42 million retailers"
+			}
+		]
+	},
+	"benefits": {
+		"description_1": "cards issued and counting...",
+		"description_2": "transactions processed monthly",
+		"description_3": "european countries available for order"
+	},
+	"plasticCard": {
+		"title": "crypterium plastic card",
+		"list":[
+			{
+				"title": "worry-free spending",
+				"description": "Swipe, tap, or chip — pay with Crypterium Card in over 42 million physical and online retailers worldwide. Spend up to €5 000/mo"
+			},
+			{
+				"title": "instant withdrawals",
+				"description": "Turning your digital assets into cash just got easier and faster than ever before. Withdraw up to €2 500/mo from Visa-compatible ATMs"
+			},
+			{
+				"title": "free card & tiny fees",
+				"description": "Crypterium Card is free, with express delivery starting at €14.99. Could it be any better? Yes, load it with €299 every month and pay ZERO monthly maintenance (€2.99/mo)"
+			}
+		]
+	},
+	"banner": {
+		"title_1": "crypterium virtual card",
+		"description_1":"Your virtual Crypterium Card is all about saving you time. Submit your application and get your details in under 20 minutes. Less waiting, more fun!",
+		"title_2": "get it instantly and for free",
+		"description_2":"Just like the plastic Crypterium Card, the issuance is on us. If you have both a plastic and a virtual card, you still pay a single fee of €2,99/mo."
+	},
+	"safe": {
+		"title": "stay digital, stay safe",
+		"description_1":"3D Secure is an additional security layer for all your online transactions. A simple, yet effective way to protect yourself against \"oops\"",
+		"description_2":"With an SMS code and a secret phrase verification, your funds are always safe. Want more? Lock your card straight from your Wallet"
+	},
+	"diego": {
+		"title": "meet diego",
+		"description":"A few weeks after launching the Crypterium Card service, we asked some of our customers to share their experience with this payment solution for digital assets. Today, we’re kicking off a short series of community stories with Diego — a 27-y.o. developer from Barcelona",
+		"link": "Read Diego’s story"
+	},
+	"steps": {
+		"title": "easy steps to get your card",
+		"list":[
+			{
+				"content": "Create your Wallet"
+			},
+			{
+				"content": "Select your preferred card type"
+			},
+			{
+				"content": "Fill in your details & pay for the delivery",
+				"description": "plastic version only"
+			},
+			{
+				"content": "Verify your identity & get approved in minutes"
+			},
+			{
+				"content": "Activate your Card & go shopping!"
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Circular-BookItalic';
+  src: url('Circular-BookItalic.eot');
+  src: url('Circular-BookItalic.eot?#iefix') format('embedded-opentype'),
+       url('Circular-BookItalic.svg#Circular-BookItalic') format('svg'),
+       url('Circular-BookItalic.ttf') format('truetype'),
+       url('Circular-BookItalic.woff') format('woff'),
+       url('Circular-BookItalic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

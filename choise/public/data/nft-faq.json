@@ -1,0 +1,34 @@
+[
+	{
+		"title": "How to mint a CHO MetaFi NFT?",
+		"description": "<ol><li>Start by going on the Choise.com website, click on “Connect MetaMask” and complete your MetaMask login action.</li><li><div>Now that your MetaMask is connected, make sure to be on BNB Chain. <a href=\"https://www.youtube.com/watch?v=vLZblFUcf00&t=1s\" target=\"_blank\">Here is a link to instructions on how to install MetaMask and BNB Chain.</a></div></li><li><div>Next, choose the amount of NFTs you wish to mint and click on “Mint”.</div></li><li><div>Confirm the transaction on MetaMask.</div></li><li><div>You will be redirected back onto Choise.com to see which NFT you have minted.</div></li><li><div>Done! Go back onto your profile page to see the minted NFT!</div></li><li><div><div>Congratulations!</div></div></li></ol>"
+	},
+	{
+		"title": "How to install MetaMask and BNB Chain?",
+		"description": "<p>For instructions on how to install MetaMask and BNB Chain, watch this <a href=\"https://www.youtube.com/watch?v=vLZblFUcf00&t=1s\" target=\"_blank\">YouTube video</a></p>"
+	},
+	{
+		"title": "How do I trade or transfer my CHO NFT?",
+		"description": "<p>Unfortunately, it will not be possible to trade CHO NFT on any marketplace or send it to another wallet. However, it will be possible to transfer the reserved CHO tokens, once they are released from the NFT. Check the traits of the minted NFT for more information.</p>"
+	},
+	{
+		"title": "Who can participate in this sale?",
+		"description": "<p>For more information on who can/cannot participate in this sale, please refer to the <a href=\"/pdf/terms-of-cho-token-sale.pdf\" target=\"_blank\">Terms and Conditions.</a></p>"
+	},
+	{
+		"title": "How do I claim my CHO tokens after minting?",
+		"description": "<ol><li>Download and install Crypterium App.</li><li>Fill out the form on your Choise.com profile page with your telephone number and the email connected to your Crypterium account.</li><li>Once all the previous steps are done, click on the minted CHO NFT and click on “Claim”.</li><li>CHO tokens will appear in your Crypterium wallet within 24 hours after claiming. Congratulations!</li></ol>"
+	},
+	{
+		"title": "When is the Token Generation Event?",
+		"description": "The Token Generation Event will be announced on our community channels. Stay tuned!"
+	},
+	{
+		"title": "Why does my mint transaction fail?",
+		"description": "<p>If your minting transaction fails, it is most likely due to too little gas fees for the transaction on your MetaMask. Not to worry! This is easily solvable. Once you click on “Mint” and you are redirected onto MetaMask, click on “Edit” where the estimated gas fee is and simply increase the Gas Price (GWEI) by 1 value (for example from 5 GWEI to 6 GWEI). This will increase your gas fees, but only by a small amount (a couple of cents).</p>"
+	},
+	{
+		"title": "How do I contact support?",
+		"description": "<p>If you have any questions, contact support by sending an email to <a href=\"mailto:support@choise.com\">support@choise.com</a>. We will make sure to reply to you as soon as possible.</p>"
+	}
+]

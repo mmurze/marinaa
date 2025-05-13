@@ -1,0 +1,42 @@
+[
+	{
+		"title": "excellent market price",
+		"description": "The system dynamically monitors crypto prices across leading online exchanges allowing you to compare and choose a good rate for your transactions. Purchasing crypto with Choise.com is always fair and transparent"
+	},
+	{
+		"image": "/pic/wallet/wallet-buy-description-1.jpg",
+		"alt": "excellent market price"
+	},
+	{
+		"image": "/pic/wallet/wallet-buy-description-2.jpg",
+		"alt": "0% fee for the first purchase"
+	},
+	{
+		"title": "0% fee for the first purchase",
+		"description": "The wallet charges a 0% commission on your first crypto purchase when you pay with USD, EUR, or any other fiat from your Visa or MasterCard. And all subsequent purchases incur an incredibly tiny commission"
+	},
+	{
+		"title": "buy crypto from €2",
+		"description": "You can purchase 30+ digital currencies having as little as €2. Once you confirm the transaction, the purchased assets will instantly drop on your wallet balance"
+	},
+	{
+		"image": "/pic/wallet/wallet-buy-description-3.jpg"
+	},
+	{
+		"image": "/pic/wallet/wallet-buy-description-4.jpg"
+	},
+	{
+		"title": "instant delivery to the wallet",
+		"description": "Tokens appear on your wallet balance the moment you complete the purchase transaction"
+	},
+	{
+		"title": "learn how to buy crypto",
+		"description": "It's never too late to learn something awesome. Watch this video or read our tutorial to find out why this feature rocks!",
+		"link": "/news/buy-crypto/how-to-buy-cryptocurrency-with-a-debit-card-or-credit-card",
+		"linkTitle": "Read the guide"
+	},
+	{
+		"youtube": "CGv-as9NnSM",
+		"youtubeImage": "/pic/wallet/buy-video.jpg"
+	}
+]

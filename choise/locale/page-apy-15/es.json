@@ -1,0 +1,116 @@
+{
+	"seo": {
+		"title": "Cuenta de ahorro con alto interés (15% APY) en criptomonedas",
+		"description": "Choise.com ofrece la oportunidad única de obtener hasta un 15% APY en USDT, una de las tasas más atractivas en los mercados financiero y de criptomonedas."
+	},
+	"main":{
+		"title": "cuenta de interés - hasta un 15% APY",
+		"description": "Choise.com ofrece la oportunidad única de obtener hasta un 15% APY en USDT, una de las tasas más atractivas en los mercados financiero y de criptomonedas.",
+		"link": "Comenzar a ganar",
+		"wallet_deep_link": "Abrir ahora"
+	},
+	"rates": {
+		"array": [
+			{
+				"title": "hasta un 15% APY",
+				"image": "/pic/apy15/rates-1.png",
+				"width": 337,
+				"height": 200
+			},
+			{
+				"title": "más de 100 USDT/año",
+				"image": "/pic/apy15/rates-2.png",
+				"width": 303,
+				"height": 180
+			},
+			{
+				"title": "1 año o más",
+				"image": "/pic/apy15/rates-3.png",
+				"width": 385,
+				"height": 196
+			}
+		],
+		"title": "una de las tasas de interés más atractivas",
+		"link": "Abrir ahora"
+	},
+	"exchanges": {
+		"title": "CHO crece frente al mercado y continúa ingresando a nuevos exchanges",
+		"description": "¡Celebremos el gran rendimiento del primer token MetaFi!",
+		"total": "$5 000 000",
+		"pool": "Pool de celebración de CHO",
+		"pool_title": "Apresúrate antes de que se acabe el pool",
+		"pool_description": "Haz que tus criptomonedas trabajen para ti",
+		"link_account": "Abrir una cuenta de interés"
+	},
+	"terms": {
+		"array": [
+			{
+				"description": "El interés se paga una vez al final del período",
+				"icon": "/pic/apy15/terms-icon-1.jpg"
+			},
+			{
+				"description": "No es posible retirar fondos de la cuenta de interés antes de tiempo",
+				"icon": "/pic/apy15/terms-icon-2.jpg"
+			},
+			{
+				"description": "La cuenta de interés no se puede recargar",
+				"icon": "/pic/apy15/terms-icon-3.jpg"
+			},
+			{
+				"description": "Si la promoción aún no ha terminado y el usuario desea aumentar la cantidad de fondos depositados, debe abrir una nueva cuenta de interés",
+				"icon": "/pic/apy15/terms-icon-4.jpg"
+			},
+			{
+				"description": "El número de cuentas de interés por usuario está limitado a 10",
+				"icon": "/pic/apy15/terms-icon-5.jpg"
+			},
+			{
+				"description": "El tamaño de un depósito único no tiene límite",
+				"icon": "/pic/apy15/terms-icon-6.jpg"
+			},
+			{
+				"description": "El depósito mínimo es de 500 USD",
+				"icon": "/pic/apy15/terms-icon-7.jpg"
+			}
+		]
+	},
+	"content": {
+		"array": [
+			{
+				"title": "¿Por qué invertir en Tether (USDT)?",
+				"description": ["Stablecoin confiable", "Alto rendimiento de inversión", "Sin riesgo", "A corto plazo"],
+				"image": "/pic/apy15/content-image-1.jpg",
+				"slug": "https://choise.com/news/comprar-criptomonedas/por-que-invertir-en-criptomonedas"
+			},
+			{
+				"title": "viajar con dividendos",
+				"description": ["Viaja con los ingresos de tu cuenta de interés. Descubre las posibilidades ilimitadas del mundo y no te preocupes por gastar.", "3 razones para abrir una cuenta de interés para tu hijo"],
+				"image": "/pic/apy15/content-image-2.jpg",
+				"slug": "https://choise.com/news/ganar/cuenta-de-ahorros-para-quienes-desean-disfrutar-la-vida"
+			},
+			{
+				"title": "consejos para aquellos que abren la primera cuenta de interés",
+				"description": ["Ahorra fácilmente y anticípate a la inflación de manera segura"],
+				"image": "/pic/apy15/content-image-3.jpg",
+				"slug": "https://choise.com/news/comprar-criptomonedas/como-comprar-usdt-guia-definitiva-para-comprar-tether-en-linea-y-fuera-de-linea"
+			}
+		],
+		"link_more": "más"
+	},
+	"faq": {
+		"array": [
+			{
+				"title": "¿El tamaño del depósito está limitado?",
+				"description": "<p>El tamaño de un depósito único debe ser superior a 100 USD</p>"
+			},
+			{
+				"title": "¿Con qué frecuencia se paga el interés?",
+				"description": "<p>El interés se paga una vez al final del período</p>"
+			},
+			{
+				"title": "¿Es posible retirar fondos antes de tiempo?",
+				"description": "<p>No es posible retirar fondos de la cuenta de interés antes de tiempo</p>"
+			}
+		]
+	}
+}

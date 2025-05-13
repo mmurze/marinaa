@@ -1,0 +1,68 @@
+{
+	"seo": {
+		"title": "cuentas de interés en criptomonedas para ganar hasta un 13.5% APY",
+		"description": "Abre una cuenta de interés y obtén un APY rentable en tus activos digitales. Disfruta de tasas sobresalientes para USDT, USDC, BUSD, DAI, CHO, CRPT, BTC, ETH."
+	},
+	"main": {
+		"title": "cuentas de interés en criptomonedas para ganar hasta un 13.5% APY",
+		"description": "Abre una cuenta de interés y obtén un APY rentable en tus activos digitales. Disfruta de tasas sobresalientes para USDT, USDC, BUSD, DAI, CHO, CRPT, BTC, ETH.",
+		"link_a": "Comienza a ganar",
+		"description_fast": "Supera los rendimientos del mercado tradicional con Choise.com"
+	},
+	"savingsAccount": {
+		"title": "seguro y protegido",
+		"description_1": "Somos una institución financiera con licencia y totalmente regulada en la Unión Europea.",
+		"description_2": "Ofrecemos las mejores cuentas de interés en criptomonedas que están protegidas con un protocolo de seguridad de 3 capas y un sistema anti-fraude."
+	},
+	"benefits": {
+		"array" :[
+			{
+				"image": "/pic/deposits/benefits-1.png",
+				"title": "cuenta de ahorro sin saldo mínimo",
+				"description": "Siéntete cómodo mientras ganas con la cuenta de interés de Choise.com sin saldo mínimo",
+				"content": "Utiliza la cantidad de criptomonedas que desees y obtén hasta un 13.5% APY al final del período",
+				"width": 159,
+				"height": 142
+			},
+			{
+				"image": "/pic/deposits/benefits-2.png",
+				"title": "gana intereses: sin preocupaciones por cargos adicionales",
+				"description": "Olvídate de los cargos adicionales",
+				"content": "No te preocupes por costos adicionales al abrir tu cuenta de interés. Simplemente elige la criptomoneda y comienza a obtener ganancias",
+				"width": 159,
+				"height": 142
+			},
+			{
+				"image": "/pic/deposits/benefits-3.png",
+				"title": "opciones flexibles y fijas",
+				"description": "Administra tu cuenta de interés como desees",
+				"content": "Retira en cualquier momento con nuestras cuentas de interés flexibles, o obtén un mayor rendimiento y más variedad de plazos con las cuentas fijas.",
+				"width": 265,
+				"height": 156
+			}
+		]
+	},
+	"steps": {
+		"array" : [
+			{
+				"image": "/pic/deposits/slider-1.png",
+				"title": "registrarse en la aplicación Choise.com",
+				"description": "Inicia la aplicación Choise.com. Ve a la sección 'Ganar' y haz clic en 'Cuentas de interés'",
+				"children": true
+			},
+			{
+				"image": "/pic/deposits/slider-2.png",
+				"title": "selecciona un activo",
+				"description": "Verifica la lista de activos disponibles y las tasas según su duración y TAE. Elige la criptomoneda que mejor se adapte a tus objetivos y estima su tasa de interés en función de tu depósito",
+				"children": true
+			},
+			{
+				"image": "/pic/deposits/slider-3.png",
+				"title": "abre la cuenta de interés",
+				"description": "Puedes cerrar el depósito en cualquier momento y recuperar tu depósito sin intereses acumulados. Todos los intereses ganados no se calcularán",
+				"children": true
+			}
+		],
+		"link_a": "Comienza a ganar"
+	}
+}

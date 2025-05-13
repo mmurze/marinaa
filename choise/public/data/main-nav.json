@@ -1,0 +1,201 @@
+[
+	{
+		"title": "Earn",
+		"array": [
+			{
+				"title": "\uD83D\uDE80 Bitdriven",
+				"description": "Earn on BTC driven portfolio. Exclusively at Choise.com!",
+				"label": "up to 1200%",
+				"label_color": "yellow",
+				"slug": "/bitdriven"
+			},
+			{
+				"title": "\uD83D\uDD25 Dual-currency interest accounts",
+				"description": "Highest income rates",
+				"slug": "/dual-currency-interest-account",
+				"label": "up to 50% APY",
+				"label_color": "black"
+			},
+			{
+				"title": "Web 3.0 interest accounts",
+				"description": "Stake and earn on in-house DeFi platform",
+				"slug": "/earn",
+				"label": "up to 10.7% APY",
+				"label_color": "black"
+			},
+			{
+				"title": "Interest accounts",
+				"description": "Get passive income with your crypto, easy",
+				"slug": "/interest-accounts",
+				"label": "up to 13.5% APY",
+				"label_color": "black"
+			},
+			{
+				"title": "NFT interest account",
+				"description": "Mint your NFT and start earning",
+				"slug": "/nft/fend"
+			},
+			{
+				"title": "AI Price predictions",
+				"description": "Prefer daily trading? Predict prices and win big",
+				"slug": "/predictions"
+			},
+			{
+				"title": "Price insurance",
+				"description": "Hedge against BTC and ETH price fall",
+				"slug": "/price-insurance"
+			}
+		]
+	},
+	{
+		"title": "Explore",
+		"array": [
+			{
+				"title": "Wallet",
+				"description": "All-in-one multi-coin wallet",
+				"array": [
+					{
+						"title": "About wallet",
+						"description": "Ultimate crypto wallet",
+						"slug": "/wallet"
+					},
+					{
+						"title": "Buy crypto",
+						"description": "Visa, Mastercard",
+						"slug": "/wallet/buy"
+					},
+					{
+						"title": "Exchange",
+						"description": "Enjoy best rates",
+						"slug": "/wallet/exchange"
+					},
+					{
+						"title": "Cashout",
+						"description": "Withdaw funds to bank cards",
+						"slug": "/wallet/cashout"
+					},
+					{
+						"title": "Send",
+						"description": "Use free international money transfers",
+						"slug": "/wallet/send"
+					},
+					{
+						"title": "Spend",
+						"description": "Pay with VISA cards, plastic and virtual",
+						"slug": "/wallet/spend"
+					}
+				]
+			},
+			{
+				"title": "VISA card",
+				"description": "Plastic & Virtual",
+				"slug": "/cards"
+			},
+			{
+				"title": "Charism platform",
+				"description": "Earn with the top DeFi products",
+				"slug": "/charism"
+			},
+			{
+				"title": "NFT",
+				"description": "Choise.com collections",
+				"array": [
+					{
+						"title": "\uD83D\uDD25 NFT interest account",
+						"description": "CHO, DAI, USDC and USDT",
+						"slug": "/nft/fend",
+						"label": "Up to 25%",
+						"label_color": "yellow"
+					},
+					{
+						"title": "NFT for beta testers",
+						"description": "Exclusive offer for Charism testers",
+						"slug": "/charism/beta"
+					},
+					{
+						"title": "CHO NFT Collection",
+						"description": "First in space NFT token sale",
+						"slug": "/nft"
+					}
+				]
+			},
+			{
+				"title": "DAO",
+				"description": "Your voice matters",
+				"slug": "/dao"
+			}
+		]
+	},
+	{
+		"title": "Tokens",
+		"array": [
+			{
+				"title": "Tokenomics",
+				"description": "Use MetaFi tokens to the maximum",
+				"slug": "/tokenomics"
+			},
+			{
+				"title": "CHO",
+				"array": [
+					{
+						"title": "About CHO",
+						"description": "Choise.com token",
+						"slug": "/cho"
+					},
+					{
+						"title": "CHO markets",
+						"description": "Listed on top exchanges",
+						"slug": "/cho/exchanges"
+					}
+				]
+			},
+			{
+				"title": "CRPT",
+				"slug": "/crpt"
+			},
+			{
+				"title": "\uD83D\uDD25 Win $1,000,000 for 1 tweet",
+				"slug": "/million4cho",
+				"description": "Literally, just publish 1 single tweet"
+			}
+		]
+	},
+	{
+		"title": "Business",
+		"slug": "/business"
+	},
+	{
+		"title": "About",
+		"array": [
+			{
+				"title": "Blog",
+				"description": "Know as much as our CEO",
+				"slug": "/news"
+			},
+			{
+				"title": "Rebranding",
+				"description": "6 years of success",
+				"slug": "/rebranding"
+			},
+			{
+				"title": "Referral program",
+				"description": "Invite friends and earn with us",
+				"slug": "/wallet/referral"
+			},
+			{
+				"title": "Ambassador program",
+				"description": "Invest effort and be rewarded",
+				"slug": "/ambassador"
+			},
+			{
+				"title": "Security",
+				"description": "Keeping your assets safe",
+				"slug": "/security"
+			}
+		]
+	},
+	{
+		"title": "Support",
+		"slug": "/help"
+	}
+]

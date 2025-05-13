@@ -1,0 +1,42 @@
+[
+	{
+		"pieces": 30,
+		"tokenType": 5,
+		"traits": {
+			"token_category": "Silver",
+			"lockup": 9,
+			"totalcho": 1500,
+			"vesting": 3
+		}
+	},
+	{
+		"pieces": 50,
+		"tokenType": 6,
+		"traits": {
+			"token_category": "Silver",
+			"lockup": 9,
+			"totalcho": 1500,
+			"vesting": 6
+		}
+	},
+	{
+		"pieces": 80,
+		"tokenType": 7,
+		"traits": {
+			"token_category": "Silver",
+			"lockup": 9,
+			"totalcho": 1500,
+			"vesting": 9
+		}
+	},
+	{
+		"pieces": 110,
+		"tokenType": 8,
+		"traits": {
+			"token_category": "Silver",
+			"lockup": 9,
+			"totalcho": 1500,
+			"vesting": 12
+		}
+	}
+]

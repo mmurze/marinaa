@@ -1,0 +1,53 @@
+{
+	"seo": {
+		"title": "exchange de criptomonedas en el que puedes confiar",
+		"description": "Nuestra billetera te permite intercambiar tus activos digitales por dinero fiat u otras criptomonedas, sin preocuparte de pagar de más por intermediarios. Choise.com se integra con las 10 principales casas de cambio de criptomonedas del mundo para que puedas elegir una tarifa justa para tu transacción"
+	},
+	"wallet_main_heading": {
+		"title": "exchange de criptomonedas en el que puedes confiar",
+		"description": "Nuestra billetera te permite intercambiar tus activos digitales por dinero fiat u otras criptomonedas, sin preocuparte de pagar de más por intermediarios. Choise.com se integra con las 10 principales casas de cambio de criptomonedas del mundo para que puedas elegir una tarifa justa para tu transacción",
+		"linkTitle": "Intercambia ahora"
+	},
+	"array": [
+		{
+			"title": "más de 200 pares de intercambio para más de 30 monedas",
+			"description": "La billetera Choise.com está equipada con un motor de coincidencia de oferta y demanda exclusivo, impulsado por inteligencia artificial. El sistema monitorea continuamente los tipos de cambio para más de 200 pares de criptomonedas"
+		},
+		{
+			"image": "/pic/wallet/wallet-exchange-description-1.jpg",
+			"alt": "más de 200 pares de intercambio para más de 30 monedas"
+		},
+		{
+			"image": "/pic/wallet/wallet-exchange-description-2.jpg",
+			"alt": "tarifas asequibles con comisiones bajas"
+		},
+		{
+			"title": "tarifas asequibles con comisiones bajas",
+			"description": "Además de ofrecer tarifas moderadas en criptomonedas, Choise.com cobra comisiones pequeñas en transacciones con fondos electrónicos. Compra criptomonedas, conviértelas en efectivo en tu tarjeta bancaria, sin importar cómo utilices tus activos digitales, hazlo con tarifas justas"
+		},
+		{
+			"title": "predicciones de precios para el comercio",
+			"description": [
+				"La billetera incluye predicciones de precios diarias impulsadas por IA para más de 140 criptomonedas. Puedes identificar fácilmente oportunidades de inversión lucrativas y comerciar con una precisión cercana al 95%.",
+				"¿No quieres simplemente mantener tus tokens hasta la próxima subida de precios? ¡Haz que tus finanzas digitales trabajen para ti ahora mismo! Puedes configurar una cuenta de ahorro en criptomonedas directamente desde la billetera y obtener un APR del 15.6% en tus fondos electrónicos. Con Choise.com, puedes convertir tus tokens virtuales en un poderoso vehículo de inversión y gastar tus ganancias con la misma facilidad que el efectivo"
+			]
+		},
+		{
+			"description": [
+				"La billetera incluye predicciones de precios diarias impulsadas por IA para más de 140 criptomonedas. Puedes identificar fácilmente oportunidades de inversión lucrativas y comerciar con una precisión cercana al 95%.",
+				"La función de predicción de precios presenta un motor sofisticado que captura, analiza y procesa datos del mercado mediante más de 100 métricas de las casas de cambio de criptomonedas más confiables, brindándote un pronóstico claro e intuitivo sobre el activo de tu interés.",
+				"Puedes identificar instantáneamente los mejores rendimientos entre las criptomonedas, explorar su historial de precios y tomar medidas apropiadas directamente desde la billetera Choise.com. Todo con ejecución de operaciones instantánea y las mejores tasas de intercambio de la industria."
+			]
+		},
+		{
+			"title": "aprende cómo intercambiar criptomonedas",
+			"description": "Nunca es demasiado tarde para aprender algo increíble. ¡Mira este video o lee nuestro tutorial para descubrir por qué esta función es genial!",
+			"link": "/news/buy-crypto/how-to-exchange-crypto-with-best-rates",
+			"linkTitle": "Lee la guía"
+		},
+		{
+			"youtube": "4EOHbvMhcqA",
+			"youtubeImage": "/pic/wallet/exchange-video.jpg"
+		}
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"seo": {
+		"title": "Cryptocurrency Affiliate Platform",
+		"description": "Become a trusted Choise.com partner and earn with one of the world’s most profitable CPA platforms!"
+	},
+	"main": {
+		"title": "Crypto currency <span><p>Affiliate</p></span> Platform",
+		"description": "Become a trusted Choise.com partner and earn with one of the world’s most profitable CPA platforms!",
+		"join": "Join",
+		"alt": "Cryptocurrency Affiliate Platform"
+	},
+	"benefits": {
+		"title": "Benefit while using Choise.com CPA",
+		"sub_title": "Bitcoin and crypto affiliate programs are a powerful way to monetize your client experience by attracting specific audience to using a given product or service.",
+		"description": "Check out the strengths of our affiliate platform and work with a team you are sure of.",
+		"array": [
+			{
+				"image": "/pic/cpa/cpa-benefits-1.png",
+				"description": "In-house team of webmasters that ensures a stable volume of traffic"
+			},
+			{
+				"image": "/pic/cpa/cpa-benefits-2.png",
+				"description": "Leads on B2B partners and additional monetization by selling separate CPA and referral blocks"
+			},
+			{
+				"image": "/pic/cpa/cpa-benefits-3.png",
+				"description": "10 years of experience and all necessary tools to go CPA"
+			},
+			{
+				"image": "/pic/cpa/cpa-benefits-4.png",
+				"description": "Offline network of 600.000 agents with a high potential to hit 1 million people"
+			},
+			{
+				"image": "/pic/cpa/cpa-benefits-5.png",
+				"description": "No dependence on third-party decisions"
+			}
+		]
+	},
+	"solution": {
+		"title": "Our affiliate solution offers:",
+		"array": [
+			"CPA platform",
+			"Loyalty program",
+			"Auction mechanics",
+			"Bonus mechanics",
+			"Multi-level referral program",
+			"In-house tracker"
+		]
+	},
+	"advantages": {
+		"title": "Advantages for affiliates",
+		"sub_title": "The platform provides the partner with access to the database and educational content, as well as to the establishment of personal rates for offers.",
+		"description": "Now, we can see a steady demand for cryptocurrencies from the affiliates which fully justifies the need for creating such a platform.",
+		"array": [
+			{
+				"image": "/pic/cpa/advantages-1.jpg",
+				"width": 385,
+				"height": 375,
+				"title": "Out-of-the-box and one-of-a-kind solution for affiliates"
+			},
+			{
+				"image": "/pic/cpa/advantages-2.jpg",
+				"width": 385,
+				"height": 375,
+				"title": "The decision-making process is completely independent"
+			},
+			{
+				"image": "/pic/cpa/advantages-3.jpg",
+				"width": 385,
+				"height": 426,
+				"title": "Rewarding clients for attracted referrals who used the company's products",
+				"link": "#",
+				"link_title": "Give it a shot"
+			}
+		]
+	},
+	"how_works": {
+		"title": "How it works",
+		"list": [
+			{
+				"title": "partner",
+				"array": ["Advertiser"]
+			},
+			{
+				"title": "we",
+				"array": ["As an Affiliate Platform, we charge a 20-40% commission"]
+			},
+			{
+				"title": "executor",
+				"array": ["Agents", "Webmasters", "Media buyers", "Influence's"]
+			},
+			{
+				"title": "the target audience",
+				"array": ["Customer", "Customer", "Customer", "Customer", "Customer", "Customer"]
+			}
+		]
+	},
+	"register": "Register in Сhoise affiliate program"
+}

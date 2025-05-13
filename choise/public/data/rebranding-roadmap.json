@@ -1,0 +1,182 @@
+[
+	{
+		"year": "2017",
+		"background": "#E1FFAF",
+		"logo": "/pic/rebranding/crypterium-logo.svg",
+		"array": [
+			{
+				"month": "dec",
+				"description": "Crypterium ICO"
+			}
+		]
+	},
+	{
+		"year": "2018",
+		"background": "#FFFEDD",
+		"array": [
+			{
+				"month": "jan",
+				"description": "CRPT tokens activated"
+			},
+			{
+				"month": "mar",
+				"description": "CRPT on first CEX"
+			},
+			{
+				"month": "may",
+				"description": "coins added: BTC, ETH, LTC, CRPT"
+			},
+			{
+				"month": "aug",
+				"description": "top up mobile with crypto"
+			},
+			{
+				"month": "aug",
+				"description": "free money transfers by phone number"
+			},
+			{
+				"month": "aug",
+				"description": "crypto bank transfers via BPAY"
+			},
+			{
+				"month": "sept",
+				"description": "buy crypto with fiat"
+			},
+			{
+				"month": "oct",
+				"description": "crypto bank transfers via IBAN"
+			},
+			{
+				"month": "oct",
+				"description": "⭐️ Crypterium in Fintech100 Report by H2Ventures & KPMG"
+			},
+			{
+				"month": "oct",
+				"description": "⭐️ crpt among \"Top 5 Coins to Watch in 2018\""
+			}
+		]
+	},
+	{
+		"year": "2019",
+		"background": "#FFFEA1",
+		"array": [
+			{
+				"month": "feb",
+				"description": "Crypterium Card UnionPay"
+			},
+			{
+				"month": "mar",
+				"description": "referral program"
+			},
+			{
+				"month": "may",
+				"description": "cash out to regular bank cards"
+			},
+			{
+				"month": "june",
+				"description": "buy crypto with regular bank cards"
+			},
+			{
+				"month": "july",
+				"description": "MLP program"
+			},
+			{
+				"month": "aug",
+				"description": "coins added: XRP, BCH, USDC"
+			}
+		]
+	},
+	{
+		"year": "2020",
+		"background": "#CFF3E0",
+		"array": [
+			{
+				"month": "mar",
+				"description": "Crypterium VISA Card"
+			},
+			{
+				"month": "apr",
+				"description": "coins added: USDT, MKR, QASH, LINK, REP, OMG, BAT, ZRX, DAI"
+			},
+			{
+				"month": "aug",
+				"description": "loans"
+			},
+			{
+				"month": "oct",
+				"description": "ai-backed Price Predictions"
+			},
+			{
+				"month": "dec",
+				"description": "interest accounts"
+			}
+		]
+	},
+	{
+		"year": "2021",
+		"background": "#CFEAF3",
+		"array": [
+			{
+				"month": "apr",
+				"description": "over 1 000 000 CRPT burned"
+			},
+			{
+				"month": "june",
+				"description": "iban accounts"
+			},
+			{
+				"month": "dec",
+				"description": "buy crypto with Skrill"
+			},
+			{
+				"month": "dec",
+				"description": "⭐ Crypterium VISA metal card gets ICMA Élan Awards of Excellence"
+			}
+		]
+	},
+	{
+		"year": "2022",
+		"background": "linear-gradient(265.34deg, #5CEE9C -6.96%, #FFFB1F 98.73%)",
+		"logo": "/pic/rebranding/choise-logo.svg",
+		"array": [
+			{
+				"month": "jan",
+				"description": "buy crypto with Advcash"
+			},
+			{
+				"month": "jan",
+				"description": "coins added: BNB, SOL, DOGE, TRX, MANA, AVAX, UNI, ALGO, SHIB, GALA, SAND, MATIC"
+			}
+		],
+		"choise": [
+			{
+				"month": "may",
+				"description": "CHO NFT Collection sold out"
+			},
+			{
+				"month": "june",
+				"description": "CHO on first DEXs"
+			},
+			{
+				"month": "june",
+				"description": "CHO on first CEXs"
+			},
+			{
+				"month": "june",
+				"description": "Charism Beta Test launch"
+			},
+			{
+				"month": "june",
+				"description": "Crypto Price Insurance beta test"
+			},
+			{
+				"month": "june",
+				"description": "CHO among ‘top 5 coins to explode’ by fxstreet"
+			},
+			{
+				"month": "july",
+				"description": "grand rebranding to Choise.com"
+			}
+		]
+	}
+]

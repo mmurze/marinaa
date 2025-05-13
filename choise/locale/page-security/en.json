@@ -1,0 +1,100 @@
+{
+	"seo": {
+		"title": "сhoise.com regulated, certified and licensed",
+		"description": "Choise.com is a licensed, fully regulated financial institution in the EU. We have successfully passed all regular audit procedures and are certified in accordance with PCI DSS international standard."
+	},
+	"main": {
+		"label": "Your crypto — your choise",
+		"title": "сhoise.com regulated, certified and licensed",
+		"description": "Choise.com is a licensed, fully regulated financial institution in the EU. We have successfully passed all regular audit procedures and are certified in accordance with PCI DSS international standard.",
+		"array": ["ISO 27001", "EU licensed", "Fintech", "Audited", "Fully regulated", "Insured"]
+	},
+	"assets_safe": {
+		"title": "keeping <span>your assets safe</span> is our top priority",
+		"description": "Choise.com sticks to high standards of risk management, security and transparancy",
+		"array": [
+			{
+				"title": "your funds are insured",
+				"description": ["Choise.com has a comprehensive network of insurance providers, such as BitGo and Ledger Vault.", "We also use Chainalysis - global crypto investigation and transaction monitoring solution - for withdrawal protection."],
+				"image": "/pic/security/assets-safe-1.jpg"
+			},
+			{
+				"title": "regularly and successfully audited",
+				"description": ["Choise.com passed all auditing procedures and license review in 2022.", "We’ve been successfully checked by PCI DSS auditor Compliance Control Ltd."],
+				"image": "/pic/security/assets-safe-2.jpg"
+			},
+			{
+				"title": "under multi-stage security system",
+				"description": ["Choise.com implements various methods of protection: KMS storage manager, self-written functions, partners' APIs, etc.", "An organized system of policies and rules (privacy, accounting policy, etc.) and weekly security training meetings keep the team abreast of the latest market movements.", "Choise.com uses the BitGo partner application, which is an internationally recognized secure tool for managing wallets (including users).", "We apply SSL, SOC2 and ISO/IEC 27001 security standards."],
+				"image": "/pic/security/assets-safe-3.jpg"
+			}
+		]
+	},
+	"benefits": {
+		"title": "full compliance with global and local regulations and standards",
+		"description": "Choise.com is fully licensed for providing a virtual asset operations.",
+		"description_link": "Reference No. 305964183",
+		"sub_description": "Financial services, Providing a virtual asset operations",
+		"link_more": "Learn more",
+		"item_title": "choise.com joins FinTech Alliance",
+		"item_description": "Choise.com is proud to announce that the company joined FinTech Alliance, a community-driven platform for companies in the FinTech sector."
+	},
+	"features": {
+		"title": "best-in-class security features with Choise.com App",
+		"array":  [
+			{
+				"title": "We stick to Secure Software Development",
+				"description": "Security is baked into our coding lifecycle. Our software is peer-reviewed and uses a combination of static and dynamic source code analysis",
+				"image": "/pic/security/s-sl-1.jpg"
+			},
+			{
+				"title": "We use 2-Factor Authentication (2FA)",
+				"description": "Transactions are protected by 2FA, which includes password, Face ID/ Touch ID, email, phone",
+				"image": "/pic/security/s-sl-2.jpg"
+			},
+			{
+				"title": "We ensure withdrawal protection",
+				"description": "We use Chainalysis — an international standard used by banking and exchange systems — so that you can be calm about your funds and know that we are not associated with \"dirty\" transactions. Chain analysis has more than 1 billion addresses that provide the necessary security and compliance with regulatory requirements",
+				"image": "/pic/security/s-sl-3.jpg"
+			},
+			{
+				"title": "We provide 24/7 live customer support",
+				"description": "Assisting you in making the most of your Choise.com experience is among our top priorities",
+				"image": "/pic/security/s-sl-4.jpg"
+			}
+		]
+	},
+	"risk_managment": {
+		"title": "prudent risk management",
+		"descriptions": [
+			"Your digital assets are safe and secure at сhoise.com because of market-neutral strategies and very high diversification (we never allocate more than 5% of our funds in any single instrument). This allows us to maintain a strong liquidity position while generating sizeable revenues for our customers. Choise.com uses both VC and capitalization on our innovative financial products for funding.",
+			"Moreover, СHO and CRPT tokens represent less than 10% of assets."
+		],
+		"link_more": "Learn more"
+	},
+	"market_video": {
+		"title": "Vladimir Gorbunov",
+		"description": "CEO & Founder",
+		"link": "Watch video",
+		"label": "Interview",
+		"content_title": "transparency and risk management in the current crypto market",
+		"list": [
+			"What was the cause of the recent market turmoil?",
+			"What was the actual reaction of the market?",
+			"Proof of reserves: is it really significant?",
+			"Too good to be true? High interest rates and risk management strategies",
+			"DeFi and its role in managing risks",
+			"Vladimir's thoughts on trust and future of Choise.com"
+		]
+	},
+	"list_certificates": {
+		"title": "list of our certificates",
+		"certificates": ["BitGo", "EU licensed", "Ledger Vault", "FinTech Alliance (UK)", "ISO/IEC", "Compliance Control Ltd.", "SSL", "SOC2", "PCI DSS", "Chainanalysis"]
+	},
+	"banner": {
+		"title": "bugcrowd Bug Bounty",
+		"description": "Choise.com recognises the importance of security researchers in helping to keep our community safe. We encourage responsible disclosure of security vulnerabilities via our external bug bounty program with bugcrowd.com",
+		"label": "Rewards paid to white hat",
+		"pool": "Reward Pool"
+	}
+}

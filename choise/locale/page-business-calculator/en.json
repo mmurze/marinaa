@@ -1,0 +1,30 @@
+{
+	"business_calculator": {
+		"title_button_1": "Earn",
+		"text": "or",
+		"title_button_2": "Borrow"
+	},
+	"earn": {
+		"title_coinSelectValue": "Choose amount",
+		"duration_information": "Choose duration",
+		"flexible_heading_1": "Make it flexible",
+		"flexible_heading_2": "Take profit at any time you want",
+		"total_label_1": "Amount for the entire period",
+		"total_label_2": "Your profit",
+		"link": "Open a business account"
+	},
+	"borrow": {
+		"title_coinSelectValue": "How much you want to borrow",
+		"label_coins": "Collateral currency",
+		"span_coins": "Collateral currency is a digital asset that is held by the lender to provide security for the loan. To proceed with the loan application, please choose the collateral currency you would like to use to secure the loan.",
+		"label_duration": "Choose duration",
+		"label_loans": "Loan to value",
+		"span_loans" : "The LTV ratio is the amount of the loan compared to the value of the collateral currency that is being used to secure the loan. A higher LTV percentage may result in a higher interest rate. Please choose the LTV percentage that best suits your needs and financial situation.",
+		"title_total_1": "Total loan amount",
+		"title_total_2": "Total interest",
+		"title_total_3": "Margin call",
+		"total_description": "If Ethereum will go ",
+		"span": " you need to top up with current margin call",
+		"title_button": "Apply now"
+	}
+}

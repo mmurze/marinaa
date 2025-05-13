@@ -1,0 +1,28 @@
+<svg width="1066" height="963" viewBox="0 0 1066 963" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<g filter="url(#filter0_f_10928_77533)">
+		<path d="M450.82 387.674C319.433 475.168 391.605 527.095 331.964 574.538C274.056 607.971 243.947 556.477 239.904 527.315C235.862 498.153 245.696 447.303 305.9 397.653C392.503 335.01 486.885 363.658 450.82 387.674Z" fill="#ED21FF"/>
+	</g>
+	<g filter="url(#filter1_f_10928_77533)">
+		<path d="M482.129 330.439C688.295 350.794 658.16 238.064 758.168 239.456C844.772 253.636 832.546 330.962 812.412 363.939C792.278 396.917 740.021 440.386 637.605 440.768C497.58 432.401 425.538 324.852 482.129 330.439Z" fill="#5B21FF"/>
+	</g>
+	<g filter="url(#filter2_f_10928_77533)">
+		<path d="M787.451 715.991C646.35 564.302 594.346 668.762 520.288 601.538C464.741 533.598 525.077 483.714 561.995 472.313C598.913 460.913 666.856 462.902 743.894 530.389C843.339 629.322 826.182 757.628 787.451 715.991Z" fill="#FD027A"/>
+	</g>
+	<defs>
+		<filter id="filter0_f_10928_77533" x="0.167282" y="120.861" width="697.486" height="703.515" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="119.471" result="effect1_foregroundBlur_10928_77533"/>
+		</filter>
+		<filter id="filter1_f_10928_77533" x="223.812" y="0.5009" width="842.097" height="679.209" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="119.471" result="effect1_foregroundBlur_10928_77533"/>
+		</filter>
+		<filter id="filter2_f_10928_77533" x="258.861" y="228.087" width="798.054" height="734.91" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="119.471" result="effect1_foregroundBlur_10928_77533"/>
+		</filter>
+	</defs>
+</svg>

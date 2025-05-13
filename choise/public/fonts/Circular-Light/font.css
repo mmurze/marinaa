@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Circular-Light';
+  src: url('Circular-Light.eot');
+  src: url('Circular-Light.eot?#iefix') format('embedded-opentype'),
+       url('Circular-Light.svg#Circular-Light') format('svg'),
+       url('Circular-Light.ttf') format('truetype'),
+       url('Circular-Light.woff') format('woff'),
+       url('Circular-Light.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

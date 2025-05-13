@@ -1,0 +1,702 @@
+[
+	{
+		"coin": "USDT",
+		"type": 1,
+		"amount": 100,
+		"apy": 15,
+		"period": 12,
+		"profit": 15,
+		"from": 1,
+		"to": 10000
+	},
+	{
+		"coin": "USDT",
+		"type": 2,
+		"amount": 250,
+		"apy": 15,
+		"period": 12,
+		"profit": 37.5,
+		"from": 10001,
+		"to": 20000
+	},
+	{
+		"coin": "USDT",
+		"type": 3,
+		"amount": 500,
+		"apy": 15,
+		"period": 12,
+		"profit": 75,
+		"from": 20001,
+		"to": 30000
+	},
+	{
+		"coin": "USDT",
+		"type": 4,
+		"amount": 1000,
+		"apy": 15,
+		"period": 12,
+		"profit": 150,
+		"from": 30001,
+		"to": 40000
+	},
+	{
+		"coin": "USDT",
+		"type": 5,
+		"amount": 1500,
+		"apy": 15,
+		"period": 12,
+		"profit": 225,
+		"from": 40001,
+		"to": 50000
+	},
+	{
+		"coin": "USDT",
+		"type": 6,
+		"amount": 2000,
+		"apy": 15,
+		"period": 12,
+		"profit": 300,
+		"from": 50001,
+		"to": 60000
+	},
+	{
+		"coin": "USDT",
+		"type": 7,
+		"amount": 5000,
+		"apy": 15,
+		"period": 12,
+		"profit": 750,
+		"from": 60001,
+		"to": 70000
+	},
+	{
+		"coin": "USDT",
+		"type": 8,
+		"amount": 10000,
+		"apy": 15,
+		"period": 12,
+		"profit": 1500,
+		"from": 70001,
+		"to": 80000
+	},
+	{
+		"coin": "USDT",
+		"type": 9,
+		"amount": 15000,
+		"apy": 15,
+		"period": 12,
+		"profit": 2250,
+		"from": 80001,
+		"to": 90000
+	},
+	{
+		"coin": "USDT",
+		"type": 10,
+		"amount": 25000,
+		"apy": 15,
+		"period": 12,
+		"profit": 3750,
+		"from": 90001,
+		"to": 100000
+	},
+	{
+		"coin": "USDT",
+		"type": 11,
+		"amount": 50000,
+		"apy": 15,
+		"period": 12,
+		"profit": 7500,
+		"from": 100001,
+		"to": 110000
+	},
+	{
+		"coin": "USDT",
+		"type": 12,
+		"amount": 100000,
+		"apy": 15,
+		"period": 12,
+		"profit": 15000,
+		"from": 110001,
+		"to": 120000
+	},
+	{
+		"coin": "USDT",
+		"type": 13,
+		"amount": 250000,
+		"apy": 15,
+		"period": 12,
+		"profit": 37500,
+		"from": 120001,
+		"to": 130000
+	},
+	{
+		"coin": "USDT",
+		"type": 14,
+		"amount": 500000,
+		"apy": 15,
+		"period": 12,
+		"profit": 75000,
+		"from": 130001,
+		"to": 140000
+	},
+	{
+		"coin": "USDT",
+		"type": 15,
+		"amount": 100,
+		"apy": 16,
+		"period": 24,
+		"profit": 32,
+		"from": 140001,
+		"to": 150000
+	},
+	{
+		"coin": "USDT",
+		"type": 16,
+		"amount": 250,
+		"apy": 16,
+		"period": 24,
+		"profit": 80,
+		"from": 150001,
+		"to": 160000
+	},
+	{
+		"coin": "USDT",
+		"type": 17,
+		"amount": 500,
+		"apy": 16,
+		"period": 24,
+		"profit": 160,
+		"from": 160001,
+		"to": 170000
+	},
+	{
+		"coin": "USDT",
+		"type": 18,
+		"amount": 1000,
+		"apy": 16,
+		"period": 24,
+		"profit": 320,
+		"from": 170001,
+		"to": 180000
+	},
+	{
+		"coin": "USDT",
+		"type": 19,
+		"amount": 1500,
+		"apy": 16,
+		"period": 24,
+		"profit": 480,
+		"from": 180001,
+		"to": 190000
+	},
+	{
+		"coin": "USDT",
+		"type": 20,
+		"amount": 2000,
+		"apy": 16,
+		"period": 24,
+		"profit": 640,
+		"from": 190001,
+		"to": 200000
+	},
+	{
+		"coin": "USDT",
+		"type": 21,
+		"amount": 5000,
+		"apy": 16,
+		"period": 24,
+		"profit": 1600,
+		"from": 200001,
+		"to": 210000
+	},
+	{
+		"coin": "USDT",
+		"type": 22,
+		"amount": 10000,
+		"apy": 16,
+		"period": 24,
+		"profit": 3200,
+		"from": 210001,
+		"to": 220000
+	},
+	{
+		"coin": "USDT",
+		"type": 23,
+		"amount": 15000,
+		"apy": 16,
+		"period": 24,
+		"profit": 4800,
+		"from": 220001,
+		"to": 230000
+	},
+	{
+		"coin": "USDT",
+		"type": 24,
+		"amount": 25000,
+		"apy": 16,
+		"period": 24,
+		"profit": 8000,
+		"from": 230001,
+		"to": 2400000
+	},
+	{
+		"coin": "USDT",
+		"type": 25,
+		"amount": 50000,
+		"apy": 16,
+		"period": 24,
+		"profit": 16000,
+		"from": 240001,
+		"to": 250000
+	},
+	{
+		"coin": "USDT",
+		"type": 26,
+		"amount": 100000,
+		"apy": 16,
+		"period": 24,
+		"profit": 32000,
+		"from": 250001,
+		"to": 260000
+	},
+	{
+		"coin": "USDT",
+		"type": 27,
+		"amount": 250000,
+		"apy": 16,
+		"period": 24,
+		"profit": 80000,
+		"from": 260001,
+		"to": 270000
+	},
+	{
+		"coin": "USDT",
+		"type": 28,
+		"amount": 500000,
+		"apy": 16,
+		"period": 24,
+		"profit": 160000,
+		"from": 270001,
+		"to": 280000
+	},
+	{
+		"coin": "DAI",
+		"type": 1,
+		"amount": 100,
+		"apy": 15,
+		"period": 12,
+		"profit": 15,
+		"from": 1,
+		"to": 10000
+	},
+	{
+		"coin": "DAI",
+		"type": 2,
+		"amount": 250,
+		"apy": 15,
+		"period": 12,
+		"profit": 37.5,
+		"from": 10001,
+		"to": 20000
+	},
+	{
+		"coin": "DAI",
+		"type": 3,
+		"amount": 500,
+		"apy": 15,
+		"period": 12,
+		"profit": 75,
+		"from": 20001,
+		"to": 30000
+	},
+	{
+		"coin": "DAI",
+		"type": 4,
+		"amount": 1000,
+		"apy": 15,
+		"period": 12,
+		"profit": 150,
+		"from": 30001,
+		"to": 40000
+	},
+	{
+		"coin": "DAI",
+		"type": 5,
+		"amount": 1500,
+		"apy": 15,
+		"period": 12,
+		"profit": 225,
+		"from": 40001,
+		"to": 50000
+	},
+	{
+		"coin": "DAI",
+		"type": 6,
+		"amount": 2000,
+		"apy": 15,
+		"period": 12,
+		"profit": 300,
+		"from": 50001,
+		"to": 60000
+	},
+	{
+		"coin": "DAI",
+		"type": 7,
+		"amount": 5000,
+		"apy": 15,
+		"period": 12,
+		"profit": 750,
+		"from": 60001,
+		"to": 70000
+	},
+	{
+		"coin": "DAI",
+		"type": 8,
+		"amount": 10000,
+		"apy": 15,
+		"period": 12,
+		"profit": 1500,
+		"from": 70001,
+		"to": 80000
+	},
+	{
+		"coin": "DAI",
+		"type": 9,
+		"amount": 15000,
+		"apy": 15,
+		"period": 12,
+		"profit": 2250,
+		"from": 80001,
+		"to": 90000
+	},
+	{
+		"coin": "DAI",
+		"type": 10,
+		"amount": 25000,
+		"apy": 15,
+		"period": 12,
+		"profit": 3750,
+		"from": 90001,
+		"to": 100000
+	},
+	{
+		"coin": "DAI",
+		"type": 11,
+		"amount": 50000,
+		"apy": 15,
+		"period": 12,
+		"profit": 7500,
+		"from": 100001,
+		"to": 110000
+	},
+	{
+		"coin": "DAI",
+		"type": 12,
+		"amount": 100000,
+		"apy": 15,
+		"period": 12,
+		"profit": 15000,
+		"from": 110001,
+		"to": 120000
+	},
+	{
+		"coin": "DAI",
+		"type": 13,
+		"amount": 250000,
+		"apy": 15,
+		"period": 12,
+		"profit": 37500,
+		"from": 120001,
+		"to": 130000
+	},
+	{
+		"coin": "DAI",
+		"type": 14,
+		"amount": 500000,
+		"apy": 15,
+		"period": 12,
+		"profit": 75000,
+		"from": 130001,
+		"to": 140000
+	},
+	{
+		"coin": "USDC",
+		"type": 1,
+		"amount": 100,
+		"apy": 15,
+		"period": 12,
+		"profit": 15,
+		"from": 1,
+		"to": 10000
+	},
+	{
+		"coin": "USDC",
+		"type": 2,
+		"amount": 250,
+		"apy": 15,
+		"period": 12,
+		"profit": 37.5,
+		"from": 10001,
+		"to": 20000
+	},
+	{
+		"coin": "USDC",
+		"type": 3,
+		"amount": 500,
+		"apy": 15,
+		"period": 12,
+		"profit": 75,
+		"from": 20001,
+		"to": 30000
+	},
+	{
+		"coin": "USDC",
+		"type": 4,
+		"amount": 1000,
+		"apy": 15,
+		"period": 12,
+		"profit": 150,
+		"from": 30001,
+		"to": 40000
+	},
+	{
+		"coin": "USDC",
+		"type": 5,
+		"amount": 1500,
+		"apy": 15,
+		"period": 12,
+		"profit": 225,
+		"from": 40001,
+		"to": 50000
+	},
+	{
+		"coin": "USDC",
+		"type": 6,
+		"amount": 2000,
+		"apy": 15,
+		"period": 12,
+		"profit": 300,
+		"from": 50001,
+		"to": 60000
+	},
+	{
+		"coin": "USDC",
+		"type": 7,
+		"amount": 5000,
+		"apy": 15,
+		"period": 12,
+		"profit": 750,
+		"from": 60001,
+		"to": 70000
+	},
+	{
+		"coin": "USDC",
+		"type": 8,
+		"amount": 10000,
+		"apy": 15,
+		"period": 12,
+		"profit": 1500,
+		"from": 70001,
+		"to": 80000
+	},
+	{
+		"coin": "USDC",
+		"type": 9,
+		"amount": 15000,
+		"apy": 15,
+		"period": 12,
+		"profit": 2250,
+		"from": 80001,
+		"to": 90000
+	},
+	{
+		"coin": "USDC",
+		"type": 10,
+		"amount": 25000,
+		"apy": 15,
+		"period": 12,
+		"profit": 3750,
+		"from": 90001,
+		"to": 100000
+	},
+	{
+		"coin": "USDC",
+		"type": 11,
+		"amount": 50000,
+		"apy": 15,
+		"period": 12,
+		"profit": 7500,
+		"from": 100001,
+		"to": 110000
+	},
+	{
+		"coin": "USDC",
+		"type": 12,
+		"amount": 100000,
+		"apy": 15,
+		"period": 12,
+		"profit": 15000,
+		"from": 110001,
+		"to": 120000
+	},
+	{
+		"coin": "USDC",
+		"type": 13,
+		"amount": 250000,
+		"apy": 15,
+		"period": 12,
+		"profit": 37500,
+		"from": 120001,
+		"to": 130000
+	},
+	{
+		"coin": "USDC",
+		"type": 14,
+		"amount": 500000,
+		"apy": 15,
+		"period": 12,
+		"profit": 75000,
+		"from": 130001,
+		"to": 140000
+	},
+	{
+		"coin": "USDC",
+		"type": 15,
+		"amount": 100,
+		"apy": 16,
+		"period": 24,
+		"profit": 32,
+		"from": 140001,
+		"to": 150000
+	},
+	{
+		"coin": "USDC",
+		"type": 16,
+		"amount": 250,
+		"apy": 16,
+		"period": 24,
+		"profit": 80,
+		"from": 150001,
+		"to": 160000
+	},
+	{
+		"coin": "USDC",
+		"type": 17,
+		"amount": 500,
+		"apy": 16,
+		"period": 24,
+		"profit": 160,
+		"from": 160001,
+		"to": 170000
+	},
+	{
+		"coin": "USDC",
+		"type": 18,
+		"amount": 1000,
+		"apy": 16,
+		"period": 24,
+		"profit": 320,
+		"from": 170001,
+		"to": 180000
+	},
+	{
+		"coin": "USDC",
+		"type": 19,
+		"amount": 1500,
+		"apy": 16,
+		"period": 24,
+		"profit": 480,
+		"from": 180001,
+		"to": 190000
+	},
+	{
+		"coin": "USDC",
+		"type": 20,
+		"amount": 2000,
+		"apy": 16,
+		"period": 24,
+		"profit": 640,
+		"from": 190001,
+		"to": 200000
+	},
+	{
+		"coin": "USDC",
+		"type": 21,
+		"amount": 5000,
+		"apy": 16,
+		"period": 24,
+		"profit": 1600,
+		"from": 200001,
+		"to": 210000
+	},
+	{
+		"coin": "USDC",
+		"type": 22,
+		"amount": 10000,
+		"apy": 16,
+		"period": 24,
+		"profit": 3200,
+		"from": 210001,
+		"to": 220000
+	},
+	{
+		"coin": "USDC",
+		"type": 23,
+		"amount": 15000,
+		"apy": 16,
+		"period": 24,
+		"profit": 4800,
+		"from": 220001,
+		"to": 230000
+	},
+	{
+		"coin": "USDC",
+		"type": 24,
+		"amount": 25000,
+		"apy": 16,
+		"period": 24,
+		"profit": 8000,
+		"from": 230001,
+		"to": 2400000
+	},
+	{
+		"coin": "USDC",
+		"type": 25,
+		"amount": 50000,
+		"apy": 16,
+		"period": 24,
+		"profit": 16000,
+		"from": 240001,
+		"to": 250000
+	},
+	{
+		"coin": "USDC",
+		"type": 26,
+		"amount": 100000,
+		"apy": 16,
+		"period": 24,
+		"profit": 32000,
+		"from": 250001,
+		"to": 260000
+	},
+	{
+		"coin": "USDC",
+		"type": 27,
+		"amount": 250000,
+		"apy": 16,
+		"period": 24,
+		"profit": 80000,
+		"from": 260001,
+		"to": 270000
+	},
+	{
+		"coin": "USDC",
+		"type": 28,
+		"amount": 500000,
+		"apy": 16,
+		"period": 24,
+		"profit": 160000,
+		"from": 270001,
+		"to": 280000
+	}
+]

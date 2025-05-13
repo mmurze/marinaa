@@ -1,0 +1,26 @@
+[
+	{
+		"title": "Main",
+		"slug": "main"
+	},
+	{
+		"title": "CHO NFT",
+		"slug": "cho"
+	},
+	{
+		"title": "Reviews",
+		"slug": "reviews"
+	},
+	{
+		"title": "Community",
+		"slug": "community"
+	},
+	{
+		"title": "Our team",
+		"slug": "team"
+	},
+	{
+		"title": "FAQ",
+		"slug": "faq"
+	}
+]

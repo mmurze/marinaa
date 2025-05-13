@@ -1,0 +1,105 @@
+{
+	"seo": {
+		"title": "CHO trading competition on Uniswap",
+		"description": "CHO token sale rounds were a huge success. We are moving on to the TGE stage and CHO token listings on leading DEX exchanges"
+	},
+	"main": {
+		"title": "CHO trading competition on Uniswap",
+		"link_a": "Go to Uniswap",
+		"link_a_1": "Read",
+		"text_1": "or ",
+		"link_a_2": "watch",
+		"text_2": "how to trade",
+		"description_img": "CHO token sale rounds were a huge success. We are moving on to the TGE stage and CHO token listings on leading DEX exchanges"
+	},
+	"manual": {
+		"title_1": "Trade CHO here:",
+		"link_a_1": "Trade here",
+		"title_pair": "Trading pair: ",
+		"title_span": "CHO/USDT",
+		"title_follow_1": "Follow the chart on DEX Screener:",
+		"link_a_2": "Follow",
+		"title_margin": "Cannot find the token?",
+		"title_follow_2": "Follow the instruction:",
+		"link_a_3": "How to trade",
+		"title_smart": "ERC20 Smart Contract:"
+	},
+	"banner": {
+		"title": "Get in the Top 50 CHO traders and share a substantial reward of $40 000 in CHO tokens",
+		"description": "Additionally, 250 random participants will share a 50 000 CHO prize pool",
+		"link": "Join the Competition"
+	},
+	"information": {
+		"title_1": "what is choise.com?",
+		"array" : [
+			{
+				"title": "Crypterium",
+				"description": "CeFi crypto wallet",
+				"list": [
+					"Custodial wallet",
+					"CEX",
+					"Buy crypto",
+					"Cash out",
+					"Cards",
+					"Predictions",
+					"Business accounts",
+					"SDK"
+				]
+			},
+			{
+				"center": true,
+				"description": "We have combined our crypterium cefi and charism defi solutions in the Choise.com product to make DeFi adoption much easier for 100 million users worldwide"
+			},
+			{
+				"title": "CharismBeta",
+				"description": "DeFi protocol that unites services",
+				"list": [
+					"Non-custodial multi-chain wallet",
+					"DEX",
+					"TRX builder",
+					"DeFi protocols aggregator",
+					"Staking/Yield farming aggregator",
+					"DeFi price insurance",
+					"DeFi launchpad",
+					"NFT",
+					"DeFi derivatives",
+					"Cross-chain swaps"
+				]
+			}
+		],
+		"title_2": "choise.com ecosystem will be governed by a DAO, which operates based on the CHO token",
+		"link": "Join the Competition"
+	},
+	"form": {
+		"title_1": "buy or sell CHO on Uniswap between ",
+		"title_span": "June 7 and June 21",
+		"title_2": " and check the Leaderboard",
+		"title_success": "you are in!",
+		"description_success": "Start trading CHO on Uniswap and get among TOP 50 traders. Good luck!",
+		"link_a_1": "Start trading",
+		"link_a_2": "How to trade CHO",
+		"title_form": "fill in the form to confirm your participation:",
+		"title_button": "I am in",
+		"link_a_3": "Terms of Participation",
+		"trade_link": "Participating already?",
+		"link_a_4": "Start trading",
+		"link_a_5": "How to trade CHO"
+	},
+	"steps": {
+		"title": "the more transactions with CHO you make - the higher your chances",
+		"array" : [
+			"Fill in the form above to confirm your participation",
+			"Buy or sell CHO on Uniswap between June 7 and June 21",
+			"Check the Leaderboard below for updates on the top traders, and be sure to make smart trades along the way!"
+		],
+		"text": "Step"
+	},
+	"list": {
+		"title": "CHO Uniswap trading leaderboard",
+		"title_span_1": "Rank",
+		"title_span_2": "Wallet address on Uniswap",
+		"title_span_3": "Number of trades",
+		"title_button": "Show more",
+		"link_a": "Start trading"
+	}
+}

@@ -1,0 +1,119 @@
+{
+	"seo": {
+		"title": "сrypterium (crpt) token",
+		"description": "CRPT es uno de los actores clave dentro del ecosistema de Choise.com, asegurando transferencias de valor rápidas y seguras mientras mantiene transacciones de cripto a fiat. Cada vez que aparece una transacción de este tipo en la Cartera Choise.com, se cobra y quema una comisión de gas del 0.5% en tokens CRPT mensualmente."
+	},
+	"main": {
+		"title": "сrypterium (crpt) token",
+		"description": "CRPT es uno de los actores clave dentro del ecosistema de Choise.com, asegurando transferencias de valor rápidas y seguras mientras mantiene transacciones de cripto a fiat. Cada vez que aparece una transacción de este tipo en la Cartera Choise.com, se cobra y quema una comisión de gas del 0.5% en tokens CRPT mensualmente.",
+		"link": "Más información",
+		"wallet_deep_link": "Comprar ahora"
+	},
+	"data": {
+		"total_price": "precio actual",
+		"total_supply": "suministro total",
+		"current_supply": "suministro actual",
+		"top_label": "hasta 12 meses",
+		"frozen": "congelado en depósitos"
+	},
+	"markets": {
+		"title": "mercados de crypterium <img src=\"/pic/decor/round-arrow-right.svg\" alt=\"CRPT markets\"/>"
+	},
+	"burn_it": {
+		"title": "nos encanta,<br/>pero lo quemamos",
+		"description": "Cada vez que aparece una transacción de cripto a fiat en la Cartera Choise.com, se cobra y quema una comisión de gas del 0.5% en tokens CRPT mensualmente.",
+		"total_crpt": "CRPT total quemado",
+		"transaction": "combustible de transacción"
+	},
+	"token": {
+		"title": "сrypterium (crpt) token"
+	},
+	"purchases_banner": {
+		"title": "0% de comisión en todas las compras de CRPT",
+		"wallet_deep_link": "Comprar ahora"
+	},
+	"holding": {
+		"title": "¿Por qué hodlear CRPT?",
+		"array": [
+			{
+				"title": "deposita CRPT y gana hasta un 7.2% anual",
+				"description": "Mantén tus tokens CRPT en cuentas de interés y obtén más CRPT. Una estrategia de bajo riesgo que ayuda a aumentar tus ganancias por intereses"
+			},
+			{
+				"title": "siempre en demanda",
+				"description": "El token CRPT es uno de los actores clave dentro de nuestro ecosistema. Dado que las transacciones de cripto a fiat se realizan con este token, Choise.com quema CRPT mensualmente, aumentando la demanda"
+			},
+			{
+				"title": "suministro limitado",
+				"description": "Los tokens CRPT no pueden ser impresos ni incautados. El número total de tokens está en constante disminución, lo cual tiene un impacto positivo en los fundamentos de la tokenomía"
+			}
+		]
+	},
+	"steps": {
+		"title": "cómo comprar CRPT sin comisión del 0%",
+		"link": "Comprar CRPT",
+		"array": [
+			{
+				"image": "/pic/crpt/crpt-step-1.png",
+				"title": "inicia sesión en la Cartera Choise.com",
+				"description": "Abre tu Cartera Choise.com. Presiona 'Recargar' en la parte superior del Panel de control y continúa",
+				"children": true
+			},
+			{
+				"image": "/pic/crpt/crpt-step-2.png",
+				"title": "compra cripto",
+				"description": "Presiona 'Comprar cripto' para adquirir de forma segura el token CRPT con una tarjeta bancaria y obtener tus tokens al instante",
+				"children": true
+			},
+			{
+				"image": "/pic/crpt/crpt-step-3.png",
+				"title": "selecciona la cantidad",
+				"description": "Ingresa los detalles de tu tarjeta y verifica. Luego, elige CRPT de la lista de monedas e ingresa la cantidad de CRPT que deseas obtener. Presiona 'Comprar' para confirmar",
+				"children": true
+			},
+			{
+				"image": "/pic/crpt/crpt-step-4.png",
+				"title": "obtén tus CRPT",
+				"description": "Nuestro sistema te ofrece la mejor tasa de cambio disponible y la comisión más baja del mercado. Tus CRPT se acreditarán en tu saldo en cuestión de segundos",
+				"children": true
+			}
+		]
+	},
+	"loyalty_program": {
+		"title": "programa de lealtad mensual (MLP)",
+		"list_level": [
+			"Diego Tores", "nivel <span>plata</span>"
+		],
+		"array": [
+			{
+				"title": "MLP total",
+				"value": "+318"
+			},
+			{
+				"title": "transacciones realizadas",
+				"value": 12
+			},
+			{
+				"title": "CRPT total",
+				"value": "6,482"
+			},
+			{
+				"title": "porcentaje MLP",
+				"value": "10%"
+			}
+		],
+		"title_content": "tu lealtad tiene recompensa",
+		"list_content": [
+			"Hasta el 30% de los ingresos transaccionales de cripto a fiat de la billetera se destina al fondo MLP y se distribuye entre los usuarios posteriormente.",
+			"La mitad del fondo MLP (50%) se distribuye entre los usuarios según el grupo de lealtad. Cada grupo de lealtad refleja qué porcentaje de tokens CRPT recibirás. Ten en cuenta que solo se tienen en cuenta los CRPT que se mantienen en la Cartera Choise.com.",
+			"Cuanto más transacciones realices, más CRPT irá al fondo MLP y mayor será tu reembolso en efectivo."
+		]
+	},
+	"banner": {
+		"title": "obtén hasta un 10% anual para tu cuenta de interés CRPT",
+		"link": "Depositar ahora"
+	},
+	"supported_services": {
+		"title": "servicios compatibles"
+	}
+}

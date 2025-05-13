@@ -1,0 +1,105 @@
+@import "fonts.css";
+@import "fix-footer.css";
+
+html, body{
+	padding: 0;
+	margin: 0;
+	font-weight: normal;
+	font-style: normal;
+	line-height: normal;
+	font-family: 'Circular', sans-serif;
+	color: #191B20;
+}
+
+.black_background{
+	background: #191B20;
+}
+
+*{
+	outline: none;
+	box-sizing: border-box;
+	-webkit-appearance: none;
+	padding: 0;
+	margin: 0;
+	letter-spacing: -0.03em;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	align-self: center;
+}
+
+img.align-self {
+	align-self: center;
+}
+
+input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+
+ul{
+	list-style: none;
+}
+
+input, textarea {
+	font-family: 'Circular', sans-serif;
+	width: 100%;
+	border: none;
+}
+
+form{
+	position: relative;
+}
+
+a{
+	cursor: pointer;
+	text-decoration: none;
+	color: #191B20;
+	transition: all .3s ease-in-out;
+}
+
+a:active{
+	transition: all 0.1s ease-in-out !important;
+}
+
+a:hover{
+	transition: all .3s ease-in-out;
+}
+
+button{
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin: 0;
+	border: none;
+	cursor: pointer;
+	font-family: 'Circular', sans-serif;
+	background: transparent;
+	transition: all .3s ease-in-out;
+	color: #191B20;
+}
+
+button:active{
+	transition: all 0.1s ease-in-out !important;
+}
+
+button:disabled{
+	cursor: default;
+}
+
+button:hover{
+	transition: all .3s ease-in-out;
+}
+
+::-webkit-input-placeholder {color:#B0B3C2;}
+::-moz-placeholder          {color:#B0B3C2;}
+:-moz-placeholder           {color:#B0B3C2;}
+:-ms-input-placeholder      {color:#B0B3C2;}
+
+button svg, a svg, button:hover svg, a:hover svg{
+	transition: .3s ease-in-out;
+}

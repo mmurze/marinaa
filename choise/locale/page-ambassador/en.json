@@ -1,0 +1,87 @@
+{
+	"seo": {
+		"title": "ambassador program",
+		"description": "Join Choise.com Ambassador Program and get rewarded for your efforts."
+	},
+	"main": {
+		"title": "ambassador program",
+		"description": "Join Choise.com Ambassador Program and get rewarded for your efforts.",
+		"your_ambassador": "Your Ambassador Profile",
+		"button_link": "Become an Ambassador",
+		"backquote": "Join the team of enthusiasts to create the crypto future and the build MetaFi ecosystem together"
+	},
+	"rewards": {
+		"title": "rewards",
+		"description": "Get CHO tokens and other rewards for completing tasks and scoring Points",
+		"array":  [
+			{
+				"description": "Register in <a href='https://crpt.onelink.me/WpQ0/nbx2nw6f?b=site_choise_com' target='_blank' rel='noreferrer'>Choise.com App</a>",
+				"image": "/pic/ambassador/ambassador-rewards-1.png"
+			},
+			{
+				"description": "Connect your wallet to the website and pass verification",
+				"image": "/pic/ambassador/ambassador-rewards-2.png"
+			},
+			{
+				"description": "Complete the tasks",
+				"image": "/pic/ambassador/ambassador-rewards-3.png"
+			},
+			{
+				"description": "Get rewarded and enjoy more opportunities to earn",
+				"image": "/pic/ambassador/ambassador-rewards-4.png"
+			}
+		],
+		"step": "step"
+	},
+	"task": {
+		"title": "available tasks",
+		"item": {
+			"ID": "ID",
+			"single": "One-time",
+			"tags_label": "Suits best:",
+			"reward": "Reward:",
+			"points": "Points",
+			"sign_up": "Sign up for a profile",
+			"connect_wallet": "Connect wallet"
+		}
+	},
+	"banner": {
+		"title": "ambassador club",
+		"description": "Join the channel to get in touch with our ambassadors from all over the globe"
+	},
+	"rewards_list": {
+		"title": "get rewards",
+		"description": "Exchange scored Points for worthy rewards",
+		"empty_block": "Nothing found. Check back later",
+		"item": {
+			"reward_modal": {
+				"ID": "ID",
+				"price": "Price",
+				"points": "points",
+				"balance_points": "Your balance",
+				"submit_button": "Confirm",
+				"error": "You don't have enough points",
+				"title": "Your request has been sent",
+				"modal_content": "Distribution of rewards occurs on the last working day of each month",
+				"modal_rewards_profile": "Check your reward status at",
+				"profile": "Profile",
+				"done": "Done"
+			},
+			"received": "Reward received",
+			"one_time": "One-time reward",
+			"ID": "ID",
+			"price": "Price:",
+			"points": "Points",
+			"reward": "Get reward",
+			"sign_up": "Sign up",
+			"connect_wallet": "Connect wallet"
+		}
+	},
+	"leader_board": {
+		"title": "leaderboard",
+		"description": "Top 5 Ambassadors of the month",
+		"array": ["Rank", "Name"],
+		"tasks": "Completed Tasks",
+		"points": "Points scored"
+	}
+}

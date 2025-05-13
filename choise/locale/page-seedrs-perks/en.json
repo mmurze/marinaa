@@ -1,0 +1,106 @@
+{
+	"seo": {
+		"title": "special seedrs perks for a special you",
+		"description": ""
+	},
+	"tables": {
+		"title": "special seedrs perks for a special you",
+		"hide_label": "label",
+		"description": "**max amount per year ",
+		"label": {
+			"amount_invested": "Amount invested",
+			"increase_fixes_deposits": "The increase by XX% to the standard rate for fixed deposits of any term in the App <sup>1</sup>",
+			"cho_cashback": "CHO cashback for your investment <sup>2</sup>",
+			"mystery_gift": "Welcome mystery gift",
+			"investor_badge": "Investor badge in the app",
+			"metal_cards": "Metal Cards with special Choise.com design <sup>3</sup>",
+			"vip_support": "VIP Support <sup>4</sup>",
+			"cashback_for": "Cashback for <sup>**5</sup>",
+			"masterclass": "Investment masterclass <sup>6</sup>",
+			"sponsorship_package": "Sponsorship package of your page-business <sup>7</sup>"
+		},
+	  "array" :[
+		  {
+			  "title": "Classic",
+			  "amount_invested": "< 250 eur",
+			  "increase_fixes_deposits": null,
+			  "cho_cashback": "2 CHO for 50 EUR",
+			  "mystery_gift": false,
+			  "investor_badge": false,
+			  "metal_cards": false,
+			  "vip_support": true,
+			  "cashback_for": null,
+			  "masterclass": false,
+			  "sponsorship_package": false
+		  },
+		  {
+			  "title": "Bronze",
+			  "amount_invested": "250 - 1000 eur",
+			  "increase_fixes_deposits": "5%",
+			  "cho_cashback": "2 CHO for 50 EUR",
+			  "mystery_gift": true,
+			  "investor_badge": true,
+			  "metal_cards": false,
+			  "vip_support": true,
+			  "cashback_for": "60 eur*",
+			  "masterclass": true,
+			  "sponsorship_package": false
+		  },
+		  {
+			  "title": "Silver",
+			  "amount_invested": "1000 - 10k eur",
+			  "increase_fixes_deposits": "10%",
+			  "cho_cashback": "5 CHO for 50 EUR",
+			  "mystery_gift": true,
+			  "investor_badge": true,
+			  "metal_cards": false,
+			  "vip_support": true,
+			  "cashback_for": "170 eur*",
+			  "masterclass": true,
+			  "sponsorship_package": false
+		  },
+		  {
+			  "title": "Gold",
+			  "amount_invested": "10k - 50k eur",
+			  "increase_fixes_deposits": "12%",
+			  "cho_cashback": "10 CHO for 50 EUR",
+			  "mystery_gift": true,
+			  "investor_badge": true,
+			  "metal_cards": true,
+			  "vip_support": true,
+			  "cashback_for": "420 eur*",
+			  "masterclass": true,
+			  "sponsorship_package": true
+		  },
+		  {
+			  "title": "Platinum",
+			  "amount_invested": ">50k eur",
+			  "increase_fixes_deposits": "15%",
+			  "cho_cashback": "15 CHO for 50 EUR",
+			  "mystery_gift": true,
+			  "investor_badge": true,
+			  "metal_cards": true,
+			  "vip_support": true,
+			  "cashback_for": "1 200 eur*",
+			  "masterclass": true,
+			  "sponsorship_package": true
+		  }
+	  ]
+	},
+	"description": {
+		"first_part_list": [
+			"(1) The increase by XX% to the standard rate for fixed deposits of any term in the app is available within 12-month after the round closes. We will increase the already attractive interest rates by XX% for the deposit amount not greater than the amount invested in equity. Higher interest in CHO will be credited to your wallet next month after the deposit with standard rate closes. This perk is available for 12-month after the closure of the campaign. ",
+			"(2) CHO cashback for your investment. CHO will be credited to your CHO wallet in the app and locked for 12-month at 0% rate next month after the round closes. From 50 EUR invested amount."
+		],
+		"link_with_desc": "(3) Metal Cards with special Choise.com design *** (Disclaimer - Countries where cards can be issued as well as fees for card usage can change over time. In case card issue is not available in your region, we will not compensate this perk. Cards' fees can be checked here",
+		"second_part_list": [
+			"(4) VIP customer support means our customers can get help and find answers to questions as soon as they come up—24/7 and in real-time. Response time on weekends may be longer than on weekdays.",
+			"(5) Reimbursement for Airbnb, Booking.com, NETFLIX or Spotify depending on the invested amount, will be done in CHO and will be credited to your wallet next month after you submit the documents confirming your purchase from Airbnb, Booking.com, NETFLIX or Spotify prividing us (either Banking statement confirmation or the receipt that the purchase was done). The Reimbursement will done with standard rate of the month end for CHO/EUR using coinmarketcap. This perk is available for 12-month after the closure of the campaign.",
+			"* Max amount of cashback of Netflix/Spotify/Airbnb/Booking . This perk is available for 12-month after the closure of the campaign.",
+			"(6) An Online workshop where our CCO Andrey Diyakonov will demonstrate how to use crypto investment tools with maximum impact. Using the example of Charism.",
+			"(7) We will tell our community about your business in our Twitter & Telegram 2 times in 12-month. Post includes image and up to 256 symbols."
+		],
+		"disclaimer_title": "Disclaimer:",
+		"disclaimer_description": "Our online products and services are subject to registration procedures and approvals, which we may accept or reject at our sole discretion. These online services are governed by separate terms and conditions (service terms) that are available on the relevant sections of this site where the online services are provided. In the event of conflict between these conditions and the service terms, the provisions of the service terms will apply. We may amend these conditions from time to time. By accessing you are bound to the version of the conditions published here at the time of any visit. We may modify, suspend or discontinue the site/application, whether temporarily or permanently, without notice. We may also impose limits or conditions on the right to certain services, features or functions and we may restrict access to parts of or all of the services or any perks. Our online products and services (including perks) are provided exclusively to individuals who have passed the verification procedure (KYC procedure) and who are not PEP (politically exposed person) or PEP (politically exposed person) family member, and are not on any international or national sanctions lists."
+	}
+}

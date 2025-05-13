@@ -1,0 +1,23 @@
+{
+	"seo": {
+		"title": "¿Estás listo para la venta de CHO?",
+		"description": "La venta de la comunidad CHO comienza el 5 de abril. No olvides completar el formulario de lista de espera en la página principal. También recomendamos registrarte y pasar el KYC en la aplicación Crypterium antes de completar el formulario."
+	},
+	"main": {
+		"title": "¿Estás listo para la venta de CHO?",
+		"items_title": "¿Ya te has registrado en la aplicación Crypterium?",
+		"registeredArray": ["Sí", "Lo haré"],
+		"item_title": "¿Qué asignación de CHO planeas reservar?",
+		"planArray": ["$10-100", "$100-$500", "más de $500"],
+		"send": "Enviar",
+		"content_list": [
+			"La venta de la comunidad CHO comienza el 5 de abril.",
+			"No olvides completar el formulario de lista de espera en la página principal. También recomendamos registrarte y pasar el KYC en la aplicación Crypterium antes de completar el formulario.",
+			"Estás a solo unos pasos de tu asignación tan esperada.",
+			"Consulta la Guía completa de <a rel=\"noreferrer nofollow\" href=\"https://choisecom.medium.com/complete-choise-com-launchpad-guide-d1c3501b1a1c\" target=\"_blank\">Choise.com Launchpad</a> para estar 100% listo para la venta y verte entre los afortunados poseedores de CHO."
+		],
+		"link": "Descarga la aplicación para unirte a la venta",
+		"thank": "¡Gracias por las respuestas!",
+		"link_back": "Volver a la página principal"
+	}
+}

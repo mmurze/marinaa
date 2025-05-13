@@ -1,0 +1,98 @@
+{
+	"seo": {
+		"title": "menos por hacer, más por ganar",
+		"description": "Apostar CHO y disfrutar de un aumento del APY de hasta el 28%. DeFi simple. Incluso para principiantes en cripto."
+	},
+	"main": {
+		"title": "menos por hacer, más por ganar",
+		"description": "Apostar CHO y disfrutar de un aumento del APY de hasta el 28%. DeFi simple. Incluso para principiantes en cripto.",
+		"link": "Apostar CHO"
+	},
+	"stakeIt": {
+		"title": "simplemente apuéstalo",
+		"description": "Apostar CHO implica bloquear tokens CHO al colocarlos en un fondo de beneficios. Cuantos más CHO bloquees, más beneficios obtendrás. Cuanto más largo sea el período de bloqueo, mayor será el APY que recibirás.",
+		"list": [
+			{
+				"title": "Elige la cantidad de CHO para apostar",
+				"icon": "/pic/chostaking/icon-1.svg"
+			},
+			{
+				"title": "Elige el período de bloqueo",
+				"icon": "/pic/chostaking/icon-2.svg"
+			},
+			{
+				"title": "Envía la transacción de apuesta",
+				"icon": "/pic/chostaking/icon-3.svg"
+			},
+			{
+				"title": "Obtén tu APY de hasta el 28%",
+				"icon": "/pic/chostaking/icon-4.svg"
+			}
+		],
+		"link_a": "Ver tutorial completo aquí"
+	},
+	"why": {
+		"title": "¿por qué apostar CHO?",
+		"list": [
+			{
+				"title": "reclamación mensual",
+				"description": "Apostar CHO y obtener tus recompensas cada mes. Fácil de empezar. Sólido como una roca.",
+				"image": "/pic/chostaking/chostaking-item-1.png",
+				"width": 191,
+				"height": 122
+			},
+			{
+				"title": "puedes vender tu bloqueo",
+				"description": "Todos tus bloqueos CHO son NFT que puedes vender en cualquier momento.",
+				"image": "/pic/chostaking/chostaking-item-2.png",
+				"width": 146,
+				"height": 132
+			},
+			{
+				"title": "sobornos",
+				"description": "Vota por piscinas de liquidez con tu veCHO y obtén ingresos adicionales en forma de \"sobornos\"",
+				"image": "/pic/chostaking/chostaking-item-3.png",
+				"width": 163,
+				"height": 129
+			}
+		]
+	},
+	"token": {
+		"title": "Oportunidades del token CHO",
+		"description": "Al apostar CHO, no solo recibes un APY aumentado garantizado, sino también una posible ganancia del crecimiento del precio del token CHO.",
+		"link_a": "Apostar CHO",
+		"link": "Acerca de CHO"
+	},
+	"faq": {
+		"array": [
+			{
+				"title": "¿Cuál es la cantidad mínima de CHO que puedo apostar?",
+				"description": "Puedes apostar cualquier cantidad de CHO"
+			},
+			{
+				"title": "Ya he apostado CHO. ¿Puedo apostar más?",
+				"description": "Sí, puedes crear un número ilimitado de bloqueos. Toca \"Gestionar\" → \"Aumentar cantidad\" y agrega cualquier cantidad de CHO al bloqueo ya existente."
+			},
+			{
+				"title": "¿Cómo puedo cambiar el período de mi bloqueo?",
+				"description": "Toca \"Gestionar\" → \"Fecha de vencimiento\" para prolongar el período de tu bloqueo. No se permite reducir el período."
+			},
+			{
+				"title": "¿Cómo puedo cerrar mi bloqueo antes de tiempo?",
+				"description": "No puedes cerrar tu bloqueo antes de tiempo, pero puedes vender tu veCHO a otro usuario a través de OpenSea. El usuario recibirá tu bloqueo en su billetera."
+			},
+			{
+				"title": "¿Qué es veCHO?",
+				"description": "veCHO es el NFT de tu bloqueo. Contiene toda la información sobre los tokens apostados y te brinda el derecho a recibir recompensas."
+			},
+			{
+				"title": "¿Cuál es el período máximo de bloqueo?",
+				"description": "4 años"
+			},
+			{
+				"title": "¿Con qué frecuencia se distribuyen las recompensas?",
+				"description": "La recompensa por apostar se distribuye al comienzo de cada mes. Ve a la sección de Apostar y toca \"Claim\": la recompensa se agregará a la cantidad de tu bloqueo."
+			}
+		]
+	}
+}

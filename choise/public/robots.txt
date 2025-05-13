@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /analytics
+Disallow: /admin-panel
+Disallow: /admin-panel/*
+Disallow: */en/*
+Disallow: *?*
+Allow: *?page=*
+
+Host: https://choise.com
+Sitemap: https://choise.com/sitemap.xml
+Sitemap: https://choise.com/blog.xml

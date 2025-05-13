@@ -1,0 +1,247 @@
+{
+	"header": {
+		"index": {
+			"get_wallet": "Obtener una billetera gratuita"
+		},
+		"store_links": {
+			"qr_madal": "Escanear con tu teléfono"
+		}
+	},
+	"faq": {
+		"title": "Preguntas frecuentes"
+	},
+	"licensed_bit_go": {
+		"license": "Entidad y licencia en la UE",
+		"security": "Custodios certificados - BitGo"
+	},
+	"media_slider": {
+		"learn": "saber más"
+	},
+	"check_countries_modal": "Verificar países disponibles",
+	"success_mint": {
+		"title": "suministro total",
+		"cho": "cho NFTs",
+		"BNB_chain": "Cadena BNB",
+		"minting_cost": "Costo de acuñación"
+	},
+	"day_left": "Días restantes:",
+	"footer": {
+		"links": [
+			{
+				"title": "Reglamentos",
+				"slug": "/help#reglamentos",
+				"target": false
+			},
+			{
+				"title": "Países restringidos",
+				"slug": "/help/360005402279/360019668920",
+				"target": false
+			}
+		],
+		"first_description": "Todos los clientes B2B son atendidos por Charism LLC, una empresa constituida en San Vicente y las Granadinas con el número de empresa 1999 LLC 2022. La oficina registrada se encuentra en Suite 336, Beachmont Business Centre, Kingstown, y el número de registro de la empresa es 1999 LLC 2022. Charism LLC es una sociedad de responsabilidad limitada creada y existente bajo las leyes de San Vicente y las Granadinas.",
+		"business_description": "La funcionalidad de este servicio está limitada a la visualización únicamente. Ten en cuenta que no podrás acceder a ninguna función adicional ni realizar ninguna acción interactiva en este momento.",
+		"descriptions": "El sitio web y las aplicaciones móviles son propiedad de la empresa Crypterium AS. Crypterium AS y Choise Services UAB diseñan y operan conjuntamente el sitio web Choise.com y las aplicaciones móviles Choise.com. Crypterium AS está constituida en Estonia con el número de empresa 14352837, oficina registrada en 5 A. Lauteri, Tallin, 10114. Los servicios de criptomonedas ofrecidos en la plataforma del sitio web son proporcionados por UAB Choise Services. UAB Choise Services está constituida en Lituania con el número de empresa <a href=\"https://rekvizitai.vz.lt/imone/stilgeka/juridinis-asmuo/\" target=\"_blank\" rel=\"noreferrer\">305964183</a>, oficina registrada en Vilna, Eišiškių Sodų 18-oji g. 11. UAB Choise Services está registrada como operadora de intercambio de monedas virtuales y operadora de billetera de moneda virtual custodiada. Charism LLC está constituida en San Vicente y las Granadinas con el número de empresa 1999 LLC 2022, oficina registrada en Suite 336, Beachmont Business Centre, Kingstown, número de registro 1999 LLC 2022. Charism LLC es una sociedad de responsabilidad limitada creada y existente bajo las leyes de San Vicente y las Granadinas. Choise.com no es un banco. Tu tarjeta prepaga Crypterium es emitida por UAB Walletto (número de registro 304686884) conforme a la licencia de Visa. UAB Walletto está autorizada por el Banco de Lituania para realizar actividades de servicios de dinero electrónico bajo la Ley de Dinero Electrónico e Instituciones de Dinero Electrónico (número de licencia 33). Crypterium AS es el administrador del programa de tarjetas. Los valores de las monedas digitales no son estáticos y fluctúan debido a los cambios del mercado. No todos los productos y servicios están disponibles en todas las áreas geográficas y están sujetos a los términos y condiciones aplicables. Choise.com no proporciona servicios a ciudadanos de la Federación Rusa, no residentes de la UE. La elegibilidad para determinados productos y servicios está sujeta a una determinación final de Сhoise.com. Las tarifas de los productos de Choise.com están sujetas a cambios.",
+		"copyright": "2022 © Charism LLC, código de registro: 1999 LLC 2022, dirección: Beachmont Business Centre, Suite 336, Kingstown, San Vicente y las Granadinas",
+		"get_wallet": "Obtener una billetera gratuita"
+	},
+	"wallet_links": {
+		"array": [
+			{
+				"title": "Billetera de criptomonedas",
+				"slug": "/wallet"
+			},
+			{
+				"title": "Comprar",
+				"slug": "/wallet/comprar"
+			},
+			{
+				"title": "Intercambio",
+				"slug": "/wallet/intercambio"
+			},
+			{
+				"title": "Retirar",
+				"slug": "/wallet/retirar"
+			},
+			{
+				"title": "Enviar",
+				"slug": "/wallet/enviar"
+			},
+			{
+				"title": "Gastar",
+				"slug": "/wallet/gastar"
+			},
+			{
+				"title": "Programa de referidos",
+				"slug": "/wallet/referidos"
+			}
+		]
+	},
+	"wallet_coin_supported": {
+		"title": "Más de 30 monedas admitidas",
+		"description": "Choise.com admite más de 30 criptomonedas más populares, incluyendo CHO, Bitcoin, Ethereum, Dash, Ripple, así como monedas emergentes como Augur, Tether, Dai, por nombrar algunas de muchas",
+		"show": "Mostrar más"
+	},
+	"mint_loading": {
+		"processing": "procesando",
+		"description": "La transacción puede tardar hasta 2 minutos dependiendo de la carga de la cadena de bloques."
+	},
+	"media_news_list": {
+		"title": "medios sobre nosotros",
+		"link": "Leer más"
+	},
+	"choiseProducts": {
+		"title": "productos de choise.com",
+		"description": "La amplia gama de servicios globales de Choise.com te permite utilizar criptomonedas con la misma facilidad que el dinero tradicional",
+		"list": [
+			{
+				"title": "billetera",
+				"description": "Administra fácilmente tus activos digitales con nuestra galardonada billetera",
+				"image": "/pic/choise-products/wallet.png",
+				"width": 692,
+				"height": 520,
+				"slug": "/wallet",
+				"image_mob": "/pic/choise-products/wallet-mob.png",
+				"width_mob": 230.47,
+				"height_mob": 250
+			},
+			{
+				"title": "programa de referidos",
+				"description": "Invita a amigos y gana comisiones por un año completo",
+				"image": "/pic/choise-products/referral.png",
+				"width": 373,
+				"height": 268,
+				"slug": "/wallet/referidos"
+			},
+			{
+				"title": "charism",
+				"description": "Una plataforma única para todas tus necesidades de DeFi",
+				"image": "/pic/choise-products/charism.png",
+				"width": 232,
+				"height": 268,
+				"slug": "/charism"
+			},
+			{
+				"title": "cuentas de interés",
+				"description": "¡El tiempo es dinero! Coloca tus ahorros en una cuenta de interés segura y obtén un ingreso pasivo",
+				"image": "/pic/choise-products/interest-accounts.png",
+				"width": 424,
+				"height": 263,
+				"slug": "/interest-accounts"
+			},
+			{
+				"title": "tarjeta Visa",
+				"description": "Desliza, toca o inserta tu tarjeta para pagar en más de 42 millones de comercios físicos y en línea en todo el mundo",
+				"image": "/pic/choise-products/cards.png",
+				"width": 232,
+				"height": 263,
+				"slug": "/cards"
+			}
+		]
+	},
+	"businessform": {
+		"title": "¡Tu solicitud se ha enviado correctamente, gracias!",
+		"description": "Un gerente personal se pondrá en contacto contigo en un plazo de 2 días hábiles.",
+		"title_button_1": "Continuar",
+		"title_1": "creemos un",
+		"title_span": "plan personalizado",
+		"title_2": " para tu negocio",
+		"description_form": "Completa el formulario y nos pondremos en contacto contigo para discutir los servicios que mejor se adapten a tus necesidades",
+		"form_heading": "Es tu elección ganar más",
+		"title_button_2": "Aplicar ahora"
+	},
+	"wallet_deep_link": {
+		"scan": "Escanear con tu teléfono"
+	},
+	"steps_slider": {
+		"step": "paso"
+	},
+	"wallet_digital_assets": {
+		"title": "1,000,000 clientes confían en nosotros con sus activos digitales",
+		"description": "Somos una institución financiera con licencia y completamente regulada en la Unión Europea. Tu cuenta está protegida por un protocolo de seguridad de 3 capas y un protocolo contra fraudes.",
+		"array": [
+			{
+				"image": "<img src=\"/pic/wallet/eu.svg\" alt=\"Entidad y licencia en la UE\"/>",
+				"title": "Entidad y licencia en la UE"
+			},
+			{
+				"image": "<img src=\"/pic/wallet/bitgo.svg\" alt=\"Custodios certificados\"/>",
+				"title": "Custodios certificados - BitGo"
+			}
+		]
+	},
+	"verificatedProfile": {
+		"title_success": "¡Has pasado la verificación exitosamente!",
+		"description_success": "Ahora puedes disfrutar de todas las funciones de tu perfil y obtener recompensas como Embajador",
+		"title_button": "Entendido",
+		"title": "Verifica tu perfil",
+		"description": "Para seguir trabajando en el perfil, debes pasar la verificación de la cuenta. ¡Esta acción solo es necesaria una vez!",
+		"label_1": "Número de teléfono",
+		"label_2": "Contraseña",
+		"label_3": "Ingresa el código",
+		"submit_button_1": "Iniciar verificación",
+		"submit_button_2": "Verificar",
+		"back_button": "Volver",
+		"sub_description_1": "¿Aún no tienes una cuenta en la aplicación Choise.com?",
+		"link_a": "Regístrate",
+		"sub_description_2": " ahora para acceder a todas las oportunidades de ganar y a la funcionalidad completa del perfil"
+	},
+	"connectWalletModal": {
+		"connect": "conectar tu billetera",
+		"description": "para acceder a tu perfil de NFT y Embajador",
+		"array": [
+			{
+				"title": "MetaMask",
+				"icon": "/pic/nft/connect-wallet-icons/metamask.svg",
+				"wallet": "metamask",
+				"popular": true
+			},
+			{
+				"title": "WalletConnect",
+				"icon": "/pic/nft/connect-wallet-icons/wallet-connect.svg",
+				"wallet": "walletconnect"
+			},
+			{
+				"title": "Binance Smart Wallet",
+				"icon": "/pic/nft/connect-wallet-icons/binance-smart-wallet.svg",
+				"wallet": "bsc"
+			},
+			{
+				"title": "Coinbase Wallet",
+				"icon": "/pic/nft/connect-wallet-icons/coinbase-wallet.svg",
+				"wallet": "coinbase-wallet"
+			}
+		],
+		"title_span": "Popular",
+		"description_link": "Cómo ",
+		"link": "instalar Metamask?"
+	},
+	"cookiesPolicy": {
+		"description_link_a": "Utilizamos cookies para brindarte la experiencia más relevante. ",
+		"link_a": "Obtener más información",
+		"title_button": "Permitir todo"
+	},
+	"helpSearch": {
+		"title": "todo lo que puede ayudar",
+		"title_button": "Buscar"
+	},
+	"helpKnowMore": {
+		"title_1": "¿Necesitas saber más?",
+		"description_1_1": "No dudes en contactarnos las 24 horas del día, los 7 días de la semana a través de",
+		"description_1_2": "o completa el formulario de solicitud",
+		"link_a": "Enviar solicitud",
+		"title_2": "Guías de cómo hacerlo",
+		"description_2": "El 99% de las preguntas ya están cubiertas en nuestras guías detalladas",
+		"link": "Obtener más información"
+	},
+	"helpBreadCrumbs": {
+		"title": "Centro de ayuda"
+	},
+	"newsSearch": {
+		"title_1": "todo lo que necesitas saber ",
+		"title_2": " sobre criptomonedas",
+		"title_button": "Buscar"
+	},
+	"newsCategories": {
+		"label": "Categorías del blog"
+	}
+}

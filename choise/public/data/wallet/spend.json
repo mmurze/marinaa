@@ -1,0 +1,32 @@
+[
+	{
+		"description": [
+			"Your Crypterium Card goes with you wherever you shop! Literally. You can pay with it in any spot where the wire payments are accepted. Online and offline. You can purchase goods, services, entertainment – whatever you wish, with a single Crypterium Card. Plastic or Virtual.",
+			"Oh, yes, you can have both at one. Alternatively, you can add your Crypterium Card to Apple Pay to pay in stores, within apps, and on the web."
+		]
+	},
+	{
+		"description": [
+			"From pizza delivery to videogames, from movie tickets to airplane tickets, from electronics to jewelry, from gift cards to charity donations – this is where things go truly unlimited.",
+			"Need cash dollars right now? Crypterium Card is meant for painless withdrawals. Just get it in any VISA-friendly ATM and turn your assets into real cash. Tiny commissions will never break your bank"
+		]
+	},
+	{
+		"title": "shop around the world",
+		"description": "Your Card is connected to your Choise.com account. Once you top up your Crypterium Card, virtual assets from your wallet balance get automatically converted to fiat. The merchant may never guess you used digital tokens as a payment. The transaction is absolutely valid. As it should be"
+	},
+	{
+		"image": "/pic/wallet/wallet-spend-description-1.jpg",
+		"alt": "shop around the world"
+	},
+	{
+		"title": "learn how to spend crypto",
+		"description": "It's never too late to learn something awesome. Watch this video or read our tutorial to find out why this feature rocks!",
+		"link": "/news/tutorials/how-to-order-the-crypterium-card",
+		"linkTitle": "Read the guide"
+	},
+	{
+		"youtube": "Zmuo0LllSBM",
+		"youtubeImage": "/pic/wallet/spend-video.jpg"
+	}
+]

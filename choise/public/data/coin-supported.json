@@ -1,0 +1,142 @@
+[
+	{
+		"title": "Choise.com",
+		"label": "CHO",
+		"value": 376.8,
+		"percent": 21,
+		"icon": "/pic/supported-coins/cho.svg"
+	},
+	{
+		"title": "Crypterium",
+		"label": "CRPT",
+		"value": 376.8,
+		"percent": 21,
+		"icon": "/pic/supported-coins/crpt.svg"
+	},
+	{
+		"title": "Ripple",
+		"label": "XRP",
+		"value": 376.8,
+		"percent": 4,
+		"icon": "/pic/supported-coins/xrp.svg"
+	},
+	{
+		"title": "Bitcoin",
+		"label": "BTC",
+		"value": 25374.5,
+		"percent": 34,
+		"icon": "/pic/supported-coins/btc.svg"
+	},
+	{
+		"title": "Litecoin",
+		"label": "LTC",
+		"value": 2674.578,
+		"percent": 1.4,
+		"icon": "/pic/supported-coins/ltc.svg"
+	},
+	{
+		"title": "USD Coin",
+		"label": "USDC",
+		"value": 46.01,
+		"percent": 0,
+		"icon": "/pic/supported-coins/usdc.svg"
+	},
+	{
+		"title": "Maker",
+		"label": "MKR",
+		"value": 1358.3,
+		"percent": 1,
+		"icon": "/pic/supported-coins/mkr.svg"
+	},
+	{
+		"title": "Ox",
+		"label": "ZRX",
+		"value": 126.85,
+		"percent": 3.4,
+		"icon": "/pic/supported-coins/zrx.svg"
+	},
+	{
+		"title": "Stasis Euro",
+		"label": "EURS",
+		"value": 260.7,
+		"percent": 1,
+		"icon": "/pic/supported-coins/eurs.svg"
+	},
+	{
+		"title": "Tether",
+		"label": "USDT",
+		"value": 111.8,
+		"percent": 0,
+		"icon": "/pic/supported-coins/usdt.svg"
+	},
+	{
+		"title": "Bat",
+		"label": "Bat",
+		"value": 73.16,
+		"percent": 0,
+		"icon": "/pic/supported-coins/bat.svg"
+	},
+	{
+		"title": "Ton Crystal",
+		"label": "TON",
+		"value": 446.5,
+		"percent": 2.4,
+		"icon": "/pic/supported-coins/ton.svg"
+	},
+	{
+		"title": "Dai",
+		"label": "DAI",
+		"value": 642.2,
+		"percent": 2.5,
+		"icon": "/pic/supported-coins/dai.svg"
+	},
+	{
+		"title": "Dash",
+		"label": "Dash",
+		"value": 433.5,
+		"percent": 0.6,
+		"icon": "/pic/supported-coins/dash.svg"
+	},
+	{
+		"title": "Bitcoin Cash",
+		"label": "BCH",
+		"value": 2512,
+		"percent": 21,
+		"icon": "/pic/supported-coins/bch.svg"
+	},
+	{
+		"title": "Chainlink",
+		"label": "LINK",
+		"value": 248.61,
+		"percent": 2,
+		"icon": "/pic/supported-coins/link.svg"
+	},
+	{
+		"title": "Qash",
+		"label": "Qash",
+		"value": 18.27,
+		"percent": 1,
+		"icon": "/pic/supported-coins/qash.svg"
+	},
+	{
+		"title": "Augur",
+		"label": "REP",
+		"value": 4342.4,
+		"percent": 1,
+		"icon": "/pic/supported-coins/rep.svg"
+	},
+	{
+		"title": "OmiseGo",
+		"label": "OMG",
+		"value": 152.5,
+		"percent": 1,
+		"icon": "/pic/supported-coins/omg.svg"
+	},
+	{
+		"title": "Etherium",
+		"label": "ETH",
+		"value": 1972.58,
+		"percent": 4,
+		"icon": "/pic/supported-coins/eth.svg"
+	}
+]

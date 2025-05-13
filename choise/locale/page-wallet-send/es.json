@@ -1,0 +1,87 @@
+{
+	"seo": {
+		"title": "enviar dinero a cualquier lugar de forma gratuita",
+		"description": "Solo necesitas el número de teléfono del destinatario y tu billetera Choise.com para transferir criptomonedas a nivel internacional. Los destinatarios reciben el dinero incluso si aún no tienen la aplicación. Sin tarifas. Sin esperas. Sin límites."
+	},
+	"wallet_main_heading": {
+		"title": "enviar dinero a cualquier lugar de forma gratuita",
+		"description": "Solo necesitas el número de teléfono del destinatario y tu billetera Choise.com para transferir criptomonedas a nivel internacional. Los destinatarios reciben el dinero incluso si aún no tienen la aplicación. Sin tarifas. Sin esperas. Sin límites.",
+		"linkTitle": "Enviar dinero"
+	},
+	"map": {
+		"array": ["#nofees", "#instant", "#mundial"]
+	},
+	"prices": {
+		"title": "comparar los precios",
+		"description": "Veamos cuánto puedes ahorrar al enviar dinero con Crypterium en comparación con otros servicios de remesas en el mercado",
+		"list_header": ["Tarifas", "Tiempo de servicio", "Método de recogida"],
+		"information": "* La información se basa en una transacción internacional de $1,000",
+		"array": [
+			{
+				"logo": "/pic/wallet/send-prices-1.svg",
+				"alt": "Crypypterium",
+				"fees": "0%",
+				"time": "Instantáneo",
+				"method": "Billetera digital",
+				"active": true
+			},
+			{
+				"logo": "/pic/wallet/send-prices-2.svg",
+				"alt": "TransferWise",
+				"fees": "Desde 1.5%",
+				"time": "48 horas",
+				"method": "Cuenta bancaria"
+			},
+			{
+				"logo": "/pic/wallet/send-prices-3.svg",
+				"alt": "Western Union",
+				"fees": "Desde 0.3%",
+				"time": "24 horas",
+				"method": "Cuenta bancaria"
+			},
+			{
+				"logo": "/pic/wallet/send-prices-4.svg",
+				"alt": "Money Gram",
+				"fees": "Desde 0.4%",
+				"time": "24 horas",
+				"method": "Efectivo en la oficina"
+			}
+		]
+	},
+	"array": [
+		{
+			"image": "/pic/wallet/wallet-send-description-1.jpg",
+			"alt": "Enviar criptomonedas a un número de teléfono o una dirección de billetera"
+		},
+		{
+			"title": "Enviar criptomonedas a un número de teléfono o una dirección de billetera",
+			"description": "No es necesario conocer la cuenta bancaria o los detalles personales del destinatario. Todo lo que necesitas es su número de teléfono móvil o dirección de billetera"
+		},
+		{
+			"title": "cómo funciona",
+			"description": "Elige cualquiera de las 30+ criptomonedas digitales en tu billetera Choise.com, selecciona la cantidad deseada y envíala. Si el destinatario no sabe mucho sobre las criptomonedas, siempre puedes seleccionar una stablecoin como USDC"
+		},
+		{
+			"image": "/pic/wallet/wallet-send-description-2.jpg",
+			"alt": "cómo funciona"
+		},
+		{
+			"image": "/pic/wallet/wallet-send-description-3.jpg",
+			"alt": "enviar criptomonedas como regalo"
+		},
+		{
+			"title": "enviar criptomonedas como regalo",
+			"description": ["Innovadoras, convenientes y cada vez más valiosas, las criptomonedas son un regalo ideal para tus seres queridos.", "Envía criptomonedas como regalo a tu familia, amigos o socios comerciales desde la billetera Choise.com, sin pagar comisiones por transacciones. ¡Y ahora imagina qué sucede si la persona querida decide mantener sus tokens por un tiempo! ¡Podría terminar agradeciéndote por un regalo tan inteligente!"]
+		},
+		{
+			"title": "aprende cómo enviar dinero",
+			"description": "Nunca es demasiado tarde para aprender algo increíble. Mira este video o lee nuestro tutorial para descubrir por qué esta función es genial",
+			"link": "/news/tutorials/how-to-send-money-instantly-using-cryptocurrency",
+			"linkTitle": "Lee la guía"
+		},
+		{
+			"youtube": "MDj1JPRsDIQ",
+			"youtubeImage": "/pic/wallet/send-video.jpg"
+		}
+	]
+}

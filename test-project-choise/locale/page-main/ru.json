@@ -1,0 +1,111 @@
+{
+	"seo": {
+		"title": "Главная страница",
+		"description": ""
+	},
+	"main_choice": {
+		"title": "ваш выбор, чтобы зарабатывать больше",
+		"description": "Choise.com это экосистема MetaFi (CeFi / DeFi), основанная на решениях Crypterium CeFi и протоколе Charism DeFi, которая переосмысливает работу протоколов с CeFi, сокращает комиссии до 50 раз и открывает кросс-цепочку с высокой доходностью до 100 млн CeFi пользователи",
+		"link_name": "Откройте бесплатный кошелек"
+	},
+	"main_list": {
+		"title": "объединяемся с лучшими" ,
+		"partners": {
+			"left": [
+				{
+					"slug": "/pic/main/main-list/avalance.svg",
+					"alt": "avalance"
+				},
+				{
+					"slug": "/pic/main/main-list/arenum.svg",
+					"alt": "arenum"
+				},
+				{
+					"slug": "/pic/main/main-list/popcorncap.svg",
+					"alt": "popcorncap"
+				},
+				{
+					"slug": "/pic/main/main-list/oggzima.svg",
+					"alt": "oggzima"
+				},
+				{
+					"slug": "/pic/main/main-list/solarazr.svg",
+					"alt": "solarazr"
+				},
+				{
+					"slug": "/pic/main/main-list/bitbns.svg",
+					"alt": "bitbns"
+				}
+			],
+			"right": [
+				{
+					"slug": "/pic/main/main-list/hs3.svg",
+					"alt": "hs3"
+				},
+				{
+					"slug": "/pic/main/main-list/meta.svg",
+					"alt": "meta"
+				},
+				{
+					"slug": "/pic/main/main-list/magellan.svg",
+					"alt": "magellan"
+				},
+				{
+					"slug": "/pic/main/main-list/oar.svg",
+					"alt": "oar"
+				},
+				{
+					"slug": "/pic/main/main-list/trueblock.svg",
+					"alt": "trueblock"
+				}
+			],
+			"money": 	{
+				"slug": "/pic/main/main-list/money.svg",
+				"alt": "money"
+			}
+		}
+	},
+	"main_rendering": {
+		"title": "грандиозный ребрендинг",
+		"description": "Choise.com это следующий шаг в эволюции Криптериума. Со всеми новыми возможностями DeFi, добавленными запуском платформы Charism, мы представляем наше новое видение MetaFi вашего криптокошелька all_in_one.",
+		"slogan1": "новый дизайн",
+		"slogan2": "новое имя",
+		"slogan3": "...",
+		"slogan4": "новый мета мир"
+	},
+	"main_charism": {
+		"title": "кошелек charisma не подлежащий хранению",
+		"list": [
+			{
+				"slug": "/pic/main/main-charism-wallte/charism1.svg",
+				"alt": "dot",
+				"text": "Поддержка Multi_chain позволяет пользователю хранить более одного криптоактива (Ethereum, Solana, Tron, BSC и т.д.)"
+			},
+			{
+				"slug": "/pic/main/main-charism-wallte/charism2.svg",
+				"alt": "dot",
+				"text": "Он прост в использовании даже для новичков и позволяет им получать полную поддержку от Choise.com команда"
+			},
+			{
+				"slug": "/pic/main/main-charism-wallte/charism3.svg",
+				"alt": "dot",
+				"text":"Включает встроенный в Web3 браузер, который позволяет пользователям легко и безопасно изучать dApps"
+			},
+			{
+				"slug": "/pic/main/main-charism-wallte/charism4.svg",
+				"alt": "dot",
+				"text": "Устраняет третьи стороны между пользователями и криптографией. Только пользователи имеют полный контроль над своими средствами"
+			},
+			{
+				"slug": "/pic/main/main-charism-wallte/charism5.svg",
+				"alt": "dot",
+				"text":"С помощью нашего кошелька пользователи могут зарабатывать проценты на криптовалюте, играть в блокчейн-игры и получать доступ к новейшим dApps, платформам DeFi (ставки, фермерство) и NFT"
+			}
+		]
+	},
+	"main_defi": {
+		"title": "Агрегатор протоколов DeFi",
+		"button_name": "Попробуйте сейчас",
+		"description": "Единый упрощенный доступ к большинству доступных протоколов, который позволяет максимизировать прибыль за счет повышения урожайности и получения дополнительной прибыли от сервиса интеллектуального управления капиталом, основанного на стимулировании CHO"
+	}
+}

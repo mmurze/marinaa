@@ -1,0 +1,106 @@
+{
+	"seo": {
+		"title": "beneficios especiales de Seedrs para ti",
+		"description": ""
+	},
+	"tables": {
+		"title": "beneficios especiales de Seedrs para ti",
+		"hide_label": "etiqueta",
+		"description": "monto máximo por año ",
+		"label": {
+			"amount_invested": "Monto invertido",
+			"increase_fixes_deposits": "Aumento del XX% a la tasa estándar para depósitos fijos de cualquier plazo en la aplicación <sup>1</sup>",
+			"cho_cashback": "CHO cashback para tu inversión <sup>2</sup>",
+			"mystery_gift": "Regalo misterioso de bienvenida",
+			"investor_badge": "Insignia de inversor en la aplicación",
+			"metal_cards": "Tarjetas de metal con diseño especial de Choise.com <sup>3</sup>",
+			"vip_support": "Soporte VIP <sup>4</sup>",
+			"cashback_for": "Cashback para <sup>5</sup>",
+			"masterclass": "Masterclass de inversión <sup>6</sup>",
+			"sponsorship_package": "Paquete de patrocinio para tu página de negocio <sup>7</sup>"
+		},
+		"array" :[
+			{
+				"title": "Clásico",
+				"amount_invested": "< 250 eur",
+				"increase_fixes_deposits": null,
+				"cho_cashback": "2 CHO por 50 EUR",
+				"mystery_gift": false,
+				"investor_badge": false,
+				"metal_cards": false,
+				"vip_support": true,
+				"cashback_for": null,
+				"masterclass": false,
+				"sponsorship_package": false
+			},
+			{
+				"title": "Bronce",
+				"amount_invested": "250 - 1000 eur",
+				"increase_fixes_deposits": "5%",
+				"cho_cashback": "2 CHO por 50 EUR",
+				"mystery_gift": true,
+				"investor_badge": true,
+				"metal_cards": false,
+				"vip_support": true,
+				"cashback_for": "60 eur",
+				"masterclass": true,
+				"sponsorship_package": false
+			},
+			{
+				"title": "Plata",
+				"amount_invested": "1000 - 10k eur",
+				"increase_fixes_deposits": "10%",
+				"cho_cashback": "5 CHO por 50 EUR",
+				"mystery_gift": true,
+				"investor_badge": true,
+				"metal_cards": false,
+				"vip_support": true,
+				"cashback_for": "170 eur",
+				"masterclass": true,
+				"sponsorship_package": false
+			},
+			{
+				"title": "Oro",
+				"amount_invested": "10k - 50k eur",
+				"increase_fixes_deposits": "12%",
+				"cho_cashback": "10 CHO por 50 EUR",
+				"mystery_gift": true,
+				"investor_badge": true,
+				"metal_cards": true,
+				"vip_support": true,
+				"cashback_for": "420 eur",
+				"masterclass": true,
+				"sponsorship_package": true
+			},
+			{
+				"title": "Platino",
+				"amount_invested": ">50k eur",
+				"increase_fixes_deposits": "15%",
+				"cho_cashback": "15 CHO por 50 EUR",
+				"mystery_gift": true,
+				"investor_badge": true,
+				"metal_cards": true,
+				"vip_support": true,
+				"cashback_for": "1 200 eur",
+				"masterclass": true,
+				"sponsorship_package": true
+			}
+		]
+	},
+	"description": {
+		"first_part_list": [
+			"(1) El aumento del XX% a la tasa estándar para depósitos fijos de cualquier plazo en la aplicación está disponible durante los 12 meses posteriores al cierre de la ronda. Aumentaremos las tasas de interés ya atractivas en un XX% para el monto del depósito que no sea mayor que el monto invertido en capital. El interés más alto en CHO se acreditará en tu billetera el próximo mes después de que se cierre el depósito con la tasa estándar. Este beneficio está disponible durante 12 meses después del cierre de la campaña.",
+			"(2) CHO cashback para tu inversión. CHO se acreditará en tu billetera CHO de la aplicación y se bloqueará durante 12 meses a una tasa del 0% el próximo mes después de que se cierre la ronda. A partir de un monto invertido de 50 EUR."
+		],
+		"link_with_desc": "(3) Tarjetas de metal con diseño especial de Choise.com *** (Descargo de responsabilidad: los países donde se pueden emitir las tarjetas, así como las tarifas por el uso de las tarjetas, pueden cambiar con el tiempo. En caso de que la emisión de tarjetas no esté disponible en tu región, no compensaremos este beneficio. Las tarifas de las tarjetas se pueden consultar aquí",
+		"second_part_list": [
+			"(4) El soporte al cliente VIP significa que nuestros clientes pueden obtener ayuda y encontrar respuestas a sus preguntas tan pronto como surjan, las 24 horas del día y en tiempo real. El tiempo de respuesta los fines de semana puede ser más largo que durante los días laborables.",
+			"(5) Reembolso para Airbnb, Booking.com, NETFLIX o Spotify, dependiendo del monto invertido, se realizará en CHO y se acreditará en tu billetera el próximo mes después de que envíes los documentos que confirmen tu compra en Airbnb, Booking.com, NETFLIX o Spotify (ya sea la confirmación del extracto bancario o el recibo de la compra). El reembolso se realizará al tipo de cambio estándar del final del mes para CHO/EUR utilizando coinmarketcap. Este beneficio está disponible durante 12 meses después del cierre de la campaña.",
+			"* Monto máximo de cashback de Netflix/Spotify/Airbnb/Booking. Este beneficio está disponible durante 12 meses después del cierre de la campaña.",
+			"(6) Un taller en línea donde nuestro CCO Andrey Diyakonov demostrará cómo utilizar las herramientas de inversión en criptomonedas con el máximo impacto. Utilizando el ejemplo de Charism.",
+			"(7) Hablaremos de tu negocio en nuestra cuenta de Twitter y Telegram 2 veces en 12 meses. La publicación incluirá una imagen y hasta 256 símbolos."
+		],
+		"disclaimer_title": "Descargo de responsabilidad:",
+		"disclaimer_description": "Nuestros productos y servicios en línea están sujetos a procedimientos de registro y aprobaciones, que podemos aceptar o rechazar a nuestra entera discreción. Estos servicios en línea están regidos por condiciones separadas (términos de servicio) que están disponibles en las secciones correspondientes de este sitio donde se proporcionan los servicios en línea. En caso de conflicto entre estas condiciones y los términos de servicio, se aplicarán las disposiciones de los términos de servicio. Podemos modificar estas condiciones en cualquier momento. Al acceder, quedas vinculado a la versión de las condiciones publicadas aquí en el momento de cualquier visita. Podemos modificar, suspender o interrumpir el sitio/aplicación, ya sea de forma temporal o permanente, sin previo aviso. También podemos imponer límites o condiciones al derecho de acceder a determinados servicios, características o funciones, y podemos restringir el acceso a partes o a la totalidad de los servicios o cualquier beneficio. Nuestros productos y servicios en línea (incluidos los beneficios) se ofrecen exclusivamente a personas que hayan pasado el procedimiento de verificación (procedimiento KYC) y que no sean personas políticamente expuestas (PEP) ni miembros de la familia de personas políticamente expuestas (PEP), y que no se encuentren en ninguna lista de sanciones internacionales o nacionales."
+	}
+}

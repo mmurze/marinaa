@@ -1,0 +1,116 @@
+{
+	"seo": {
+		"title": "High Interest Savings Account (15% APY) In Cryptocurrency",
+		"description": "Choise.com offers the unique opportunity to get up to 15% APY on USDT – one of the most attractive rates on both financial and cryptocurrency markets"
+	},
+	"main":{
+		"title": "interest account - up to 15% APY",
+		"description": "Choise.com offers the unique opportunity to get up to 15% APY on USDT – one of the most attractive rates on both financial and cryptocurrency markets",
+		"link": "Start earning",
+		"wallet_deep_link": "Open now"
+	},
+	"rates": {
+		"array": [
+			{
+				"title": "up to 15% APY",
+				"image": "/pic/apy15/rates-1.png",
+				"width": 337,
+				"height": 200
+			},
+			{
+				"title": "more than 100 USDT/year",
+				"image": "/pic/apy15/rates-2.png",
+				"width": 303,
+				"height": 180
+			},
+			{
+				"title": "1 year +",
+				"image": "/pic/apy15/rates-3.png",
+				"width": 385,
+				"height": 196
+			}
+		],
+		"title": "one of the most attractive interest rates",
+		"link": "Open now"
+	},
+	"exchanges": {
+		"title": "CHO grows against the market and continues entering new exchanges",
+		"description": "Let’s celebrate the first-ever MetaFi token great performance!",
+		"total": "$5 000 000",
+		"pool": "CHO celebration pool",
+		"pool_title": "Hurry before the pool is over",
+		"pool_description": "Make your crypto work for you",
+		"link_account": "Open an interest account"
+	},
+	"terms": {
+		"array": [
+			{
+				"description": "Interest is paid once at the end of the period",
+				"icon": "/pic/apy15/terms-icon-1.jpg"
+			},
+			{
+				"description": "Early withdrawal of funds from the interest account is not possible",
+				"icon": "/pic/apy15/terms-icon-2.jpg"
+			},
+			{
+				"description": "The interest account is not replenished",
+				"icon": "/pic/apy15/terms-icon-3.jpg"
+			},
+			{
+				"description": "If the promotion is not over yet and the user wants to increase the amount of funds deposited, he should open a new interest account",
+				"icon": "/pic/apy15/terms-icon-4.jpg"
+			},
+			{
+				"description": "The number of interest accounts per user is limited to 10",
+				"icon": "/pic/apy15/terms-icon-5.jpg"
+			},
+			{
+				"description": "The size of a one-time deposit is not limited",
+				"icon": "/pic/apy15/terms-icon-6.jpg"
+			},
+			{
+				"description": "The minimum deposit is 500 USD",
+				"icon": "/pic/apy15/terms-icon-7.jpg"
+			}
+		]
+	},
+	"content": {
+		"array": [
+			{
+				"title": "why invest in Tether (USDT)?",
+				"description": ["Reliable Stablecoin", "High return on investment", "No risk", "Short term"],
+				"image": "/pic/apy15/content-image-1.jpg",
+				"slug": "https://choise.com/news/buy-crypto/why-invest-in-cryptocurrency"
+			},
+			{
+				"title": "travel on dividends",
+				"description": ["Travel on your interest account income. Discover limitless possibilities of the world and don't worry about spending.", "3 reasons to open interest account for your child"],
+				"image": "/pic/apy15/content-image-2.jpg",
+				"slug": "https://choise.com/news/earn/savings-account-for-those-who-want-to-enjoy-life"
+			},
+			{
+				"title": "advice for those who open the first interest account",
+				"description": ["Save up easily and get ahead of inflation - safely and secure"],
+				"image": "/pic/apy15/content-image-3.jpg",
+				"slug": "https://choise.com/news/buy-crypto/how-to-buy-usdt-the-ultimate-guide-on-buying-tether-online-and-offline"
+			}
+		],
+		"link_more": "more"
+	},
+	"faq": {
+		"array": [
+			{
+				"title": "Is the size of the deposit limited?",
+				"description": "<p>The size of a one-time deposit should be more than 100 USD</p>"
+			},
+			{
+				"title": "How often is the interest paid?",
+				"description": "<p>Interest is paid once at the end of the period</p>"
+			},
+			{
+				"title": "Is early withdrawal possible?",
+				"description": "<p>Early withdrawal of funds from the interest account is not possible</p>"
+			}
+		]
+	}
+}

@@ -1,0 +1,98 @@
+{
+	"seo": {
+		"title": "less to do, more to earn",
+		"description": "Stake CHO and enjoy increased APY up to 28%. Simple DeFi. Even for crypto novices."
+	},
+	"main": {
+		"title": "less to do, more to earn",
+		"description": "Stake CHO and enjoy increased APY up to 28%. Simple DeFi. Even for crypto novices.",
+		"link": "Stake CHO"
+	},
+	"stakeIt": {
+		"title": "just stake it",
+		"description": "Staking CHO implies locking CHO tokens by putting them into a profit pool. The more CHO you lock, the more benefits you get. The longer the lock-up period, the bigger APY you receive.",
+		"list": [
+			{
+				"title": "Choose the amount of CHO for staking",
+				"icon": "/pic/chostaking/icon-1.svg"
+			},
+			{
+				"title": "Choose the lock-up period",
+				"icon": "/pic/chostaking/icon-2.svg"
+			},
+			{
+				"title": "Submit staking transaction",
+				"icon": "/pic/chostaking/icon-3.svg"
+			},
+			{
+				"title": "Get your APY up to 28%",
+				"icon": "/pic/chostaking/icon-4.svg"
+			}
+		],
+		"link_a": "Watch full tutorial here"
+	},
+	"why": {
+		"title": "why stake CHO?",
+		"list": [
+			{
+				"title": "monthly claiming",
+				"description": "Stake CHO and get your rewards every month. Easy to start. Solid as a rock.",
+				"image": "/pic/chostaking/chostaking-item-1.png",
+				"width": 191,
+				"height": 122
+			},
+			{
+				"title": "you can sell your lock",
+				"description": "All your CHO locks are NFTs that you can sell at any time.",
+				"image": "/pic/chostaking/chostaking-item-2.png",
+				"width": 146,
+				"height": 132
+			},
+			{
+				"title": "bribes",
+				"description": "Vote for liquidity pools with your veCHO and get extra income in the form of \"bribes\"",
+				"image": "/pic/chostaking/chostaking-item-3.png",
+				"width": 163,
+				"height": 129
+			}
+		]
+	},
+	"token": {
+		"title": "CHO token opportunities",
+		"description": "By staking CHO you receive not only a guaranteed increased APY but also a potential profit from CHO token price growth.",
+		"link_a":"Stake CHO",
+		"link": "About CHO"
+	},
+	"faq": {
+		"array": [
+			{
+				"title": "What minimum amount of CHO can I stake?",
+				"description": "You can stake any amount of CHO"
+			},
+			{
+				"title": "I have already staked CHO. Can I stake more?",
+				"description": "Yes, you can create an unlimited number of locks. Tap on the “Manage” → “Increase amount” and add any amount of CHO to the already existing lock."
+			},
+			{
+				"title": "How can I change the period of my lock?",
+				"description": "Tap on “Manage” → “Expires Date” to prolong the period of your lock. Reduction of the period is not allowed."
+			},
+			{
+				"title": "How can I close my lock ahead of time?",
+				"description": "You cannot close your lock ahead of time, but you can sell your veCHO to another user through OpenSea. The user will receive your lock to his wallet."
+			},
+			{
+				"title": "What is veCHO?",
+				"description": "veCHO is the NFT of your lock. It contains all information about the staked tokens and provides you with the right to receive rewards."
+			},
+			{
+				"title": "What is the maximum period of lock?",
+				"description": "4 years"
+			},
+			{
+				"title": "How often are rewards distributed?",
+				"description": "The reward for staking is distributed at the beginning of each month. Go to the Staking section and tap on “Claim” – the reward will be added to the amount of your lock."
+			}
+		]
+	}
+}

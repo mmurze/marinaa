@@ -1,0 +1,42 @@
+[
+	{
+		"pieces": 20,
+		"tokenType": 1,
+		"traits": {
+			"token_category": "Gold",
+			"lockup": 6,
+			"totalcho": 1500,
+			"vesting": 3
+		}
+	},
+	{
+		"pieces": 40,
+		"tokenType": 2,
+		"traits": {
+			"token_category": "Gold",
+			"lockup": 6,
+			"totalcho": 1500,
+			"vesting": 6
+		}
+	},
+	{
+		"pieces": 60,
+		"tokenType": 3,
+		"traits": {
+			"token_category": "Gold",
+			"lockup": 6,
+			"totalcho": 1500,
+			"vesting": 9
+		}
+	},
+	{
+		"pieces": 80,
+		"tokenType": 4,
+		"traits": {
+			"token_category": "Gold",
+			"lockup": 6,
+			"totalcho": 1500,
+			"vesting": 12
+		}
+	}
+]

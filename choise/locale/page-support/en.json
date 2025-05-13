@@ -1,0 +1,104 @@
+{
+	"seo": {
+		"title": "Choise.com Support | let us help you",
+		"description": "Please answer a few questions so we can help you better with your problem or request"
+	},
+	"platform": "Type platform:",
+	"request": "Type request:",
+	"problem": "Sub-type problem:",
+	"describe": "Describe the problem:",
+	"email": "Email user:",
+	"phone": "Phone user:",
+	"business": "Business:",
+	"true": "True",
+	"channel": "Social Channel:",
+	"step": "Step",
+	"step0": {
+		"title": "let us help you",
+		"description": "Please answer a few questions so we can help you better with your problem or request",
+		"button": "Let’s start"
+	},
+	"step1": {
+		"title": "on which platform do you use Choise.com?",
+		"submit_button": "Next",
+		"buttons": [
+			{
+				"icon": "/pic/support/apple-icon.svg",
+				"label": "IOS"
+			},
+			{
+				"icon": "/pic/support/android-icon.svg",
+				"label": "Android"
+			},
+			{
+				"icon": "/pic/support/web-icon.svg",
+				"label": "Web"
+			},
+			{
+				"icon": false,
+				"label": "Other"
+			}
+		]
+	},
+	"step2": {
+		"title": "please select the type of your request",
+		"buttons": [
+			"Crypterium Card",
+			"Send crypto",
+			"Buy crypto from card",
+			"Top up wallet",
+			"Exchange operation",
+			"Cashout crypto to a card",
+			"Account problem",
+			"Identity verification",
+			"Investor Relations",
+			"Other problem"
+		],
+		"submit_button": "Next"
+	},
+	"step3": {
+		"title": "please select the sub-type of your request",
+		"back": "Back",
+		"skip": "Skip step",
+		"submit_button": "Next",
+		"buttons": {
+			"case1": ["Order", "Activation", "Balance", "Identity verification", "Deactivation", "Delivery", "Money load", "Other problem"],
+			"case3": ["Card validation", "Delete card", "Feature disabled ", "Other problem"],
+			"case6": ["Pending", "Cancelled", "Other problem"],
+			"case7": ["Unable to use my account", "Change phone or email", "Account closure", "Change personal data", "Account recovery", "Other problem"],
+			"case8": ["Pending", "Rejection reason", "Other problem"],
+			"case10": ["AI Price Predictions", "Unsubscribe from mail list", "Quotes", "Loans", "UnionPay card", "SWAP | ERC 20 or BEP 2", "Deposits", "Referral program", "Other problem"]
+		},
+		"subtitle": {
+			"case1": "for Crypterium Card",
+			"case3": "for buy crypto from card",
+			"case6": "for cashout to bank card",
+			"case7": "for account problem",
+			"case8": "for identity verification",
+			"case10": "for other problem"
+		}
+	},
+	"step4": {
+		"title": "describe your problem or request",
+		"description": "we will help faster if know more",
+		"back": "Back",
+		"submit_button": "Next",
+		"messege": {
+			"case2": "Please describe your problem including the summ, currency and date of transaction",
+			"case5": "Please describe your problem including the summ, currency and date of transaction",
+			"case4": "Please describe your problem and add a transaction link"
+		}
+	},
+	"step5": {
+		"title": "leave details of your account",
+		"description": "phone number registered in the Crypterium App & contact email",
+		"placeholder_phone": "Type phone number",
+		"placeholder_email": "Type email here",
+		"back": "Back",
+		"submit_button": "Submit"
+	},
+	"step_final": {
+		"title": "thank you",
+		"description": "Your request has been recieved.<br/>We will answer you in 24 hours or sooner"
+	}
+}

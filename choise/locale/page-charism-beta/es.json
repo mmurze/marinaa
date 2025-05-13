@@ -1,0 +1,97 @@
+{
+	"seo": {
+		"title": "Gana NFT exclusivos probando la plataforma DeFi Charism",
+		"description": "Participa en la Beta Test de Charism del 27 de junio al 27 de julio de 2022 y gana un NFT exclusivo por tus valiosos comentarios."
+	},
+	"main": {
+		"span_1": "Charism",
+		"span_2": "Beta Test",
+		"title": "únete y gana un NFT exclusivo",
+		"description": "Participa en la Beta Test de Charism del 27 de junio al 27 de julio de 2022 y gana un NFT exclusivo por tus valiosos comentarios.",
+		"title_link": "La Beta Test ha finalizado"
+	},
+	"whatIsIt": {
+		"title": "¿Qué es Charism?",
+		"description": "Charism es un bloque de construcción fundamental del ecosistema MetaFi de Choise.com y una plataforma DeFi única que permite a los usuarios intercambiar tokens a precios atractivos, transferir activos eficientemente entre diferentes redes, analizar inversiones, rendimientos y riesgos, acceder a los productos seleccionados y hacer pronósticos; todo esto a través de una experiencia de usuario súper amigable.",
+		"sub_description": "Choise.com es el primer ecosistema MetaFi del mundo que combina todas las ventajas de los servicios CeFi y DeFi (finanzas centralizadas y descentralizadas) en un solo ecosistema."
+	},
+	"participate": {
+		"success_title": "¡Gracias por registrarte!",
+		"success_description": "Usaremos este correo electrónico para enviarte próximas instrucciones.",
+		"title": "cómo participar en la Beta Test de Charism",
+		"list": [
+			{
+				"title": "comienza",
+				"description": "Completa el formulario y revisa tu correo electrónico. Recibirás una contraseña e instrucciones para unirte a la Beta Test.",
+				"form": true
+			},
+			{
+				"title": "prueba Charism y proporciona tus comentarios",
+				"description": "Demuestra ser un talentoso Beta Tester: sigue las instrucciones del correo electrónico, comienza a probar Charism y proporciona comentarios.",
+				"image": "/pic/charism/participate-search.png",
+				"width": 197,
+				"height": 121
+			},
+			{
+				"title": "obtén NFT exclusivos",
+				"description": "El equipo de Choise.com dejará caer al azar 100 NFT exclusivos entre los Beta Testers que hayan proporcionado comentarios valiosos según las Reglas.",
+				"image": "/pic/charism/participate-nft.png",
+				"width": 211,
+				"height": 99
+			}
+		]
+	},
+	"nft": {
+		"title": "colección limitada de 100 NFT",
+		"list": [
+			{
+				"image": "/pic/charism/charism-nft-1.jpg",
+				"title": "Místico",
+				"value": 5
+			},
+			{
+				"image": "/pic/charism/charism-nft-2.jpg",
+				"title": "Raro",
+				"value": 10
+			},
+			{
+				"image": "/pic/charism/charism-nft-3.jpg",
+				"title": "Poco común",
+				"value": 35
+			},
+			{
+				"image": "/pic/charism/charism-nft-4.jpg",
+				"title": "Común",
+				"value": 50
+			}
+		]
+	},
+	"faq": {
+		"array": [
+			{
+				"title": "¿Cómo empezar?",
+				"description": "<p>Después de completar el formulario, recibirás un correo electrónico con tu contraseña e instrucciones. Sigue las instrucciones para comenzar a probar Charism.</p>"
+			},
+			{
+				"title": "Criterios de evaluación",
+				"description": "<p>Para participar en el sorteo de NFT, debes enviar tus comentarios y cumplir con los requisitos de las Reglas. Recibirás las Reglas después de registrarte en Charism e ingresar a la plataforma.</p>"
+			},
+			{
+				"title": "¿Cuáles son los premios?",
+				"description": "<p>El equipo de Choise.com dejará caer al azar NFT exclusivos entre los comentarios aprobados dentro de las 2 semanas posteriores al final de la Beta Test. El número exacto de NFT es 100:</p><ul><li>5 Místicos</li><li>10 Raros</li><li>35 Poco comunes</li><li>50 Comunes</li></ul>"
+			},
+			{
+				"title": "¿Por qué varios tipos de NFT?",
+				"description": "<p>Los tipos de NFT se refieren al nivel de rareza. Cuanto mayor sea el nivel, más emocionantes serán las bonificaciones que proporcionan. Se proporcionará información adicional sobre las bonificaciones más adelante.</p>"
+			},
+			{
+				"title": "¿Cómo recibiré mi premio?",
+				"description": "<p>Si ganas un NFT exclusivo, se enviará a tu billetera MetaMask. El equipo de Choise.com se pondrá en contacto con todos los Beta Testers por correo electrónico y proporcionará los detalles.</p>"
+			}
+		]
+	},
+	"metaFi": {
+		"title": "contribuye a la nueva era de las finanzas globales: MetaFi",
+		"link": "Regístrate para la Beta Test"
+	}
+}

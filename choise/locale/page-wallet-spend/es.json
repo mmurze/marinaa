@@ -1,0 +1,46 @@
+{
+	"seo": {
+		"title": "gasta criptomonedas en todo el mundo",
+		"description": "Ordena la Tarjeta Crypterium y gasta fondos digitales tan fácilmente como lo haces con tus monedas fiduciarias. Paga por bienes y servicios con BTC o cualquier otra moneda de tu elección. Sin esfuerzo. Globalmente. Sin límites. Vinculada a tu billetera Choise.com, la Tarjeta Crypterium es tu forma perfecta de llevar dinero virtual al mundo real."
+	},
+	"wallet_main_heading": {
+		"title": "gasta criptomonedas en todo el mundo",
+		"description": "Ordena la Tarjeta Crypterium y gasta fondos digitales tan fácilmente como lo haces con tus monedas fiduciarias. Paga por bienes y servicios con BTC o cualquier otra moneda de tu elección. Sin esfuerzo. Globalmente. Sin límites. Vinculada a tu billetera Choise.com, la Tarjeta Crypterium es tu forma perfecta de llevar dinero virtual al mundo real.",
+		"linkTitle": "Gasta criptomonedas"
+	},
+	"grid": {
+		"title": "dónde gastar criptomonedas",
+		"array": [
+			{
+				"description": [
+					"¡Tu Tarjeta Crypterium te acompaña dondequiera que compres! Literalmente. Puedes pagar con ella en cualquier lugar donde se acepten pagos con tarjeta. En línea y fuera de línea. Puedes comprar bienes, servicios, entretenimiento, lo que desees, con una sola Tarjeta Crypterium. Ya sea plástica o virtual.",
+					"Oh, sí, puedes tener ambas opciones. Alternativamente, puedes añadir tu Tarjeta Crypterium a Apple Pay para pagar en tiendas, aplicaciones y en la web."
+				]
+			},
+			{
+				"description": [
+					"Desde la entrega de pizzas hasta videojuegos, desde boletos de cine hasta boletos de avión, desde electrónicos hasta joyería, desde tarjetas de regalo hasta donaciones benéficas: aquí las posibilidades son verdaderamente ilimitadas.",
+					"¿Necesitas dólares en efectivo en este momento? La Tarjeta Crypterium está diseñada para retiros sin problemas. Solo obtén efectivo en cualquier cajero compatible con VISA y convierte tus activos en dinero real. Las comisiones mínimas nunca afectarán tu cuenta bancaria."
+				]
+			},
+			{
+				"title": "compra en todo el mundo",
+				"description": "Tu tarjeta está conectada a tu cuenta en Choise.com. Una vez que recargues tu Tarjeta Crypterium, los activos virtuales de tu saldo en la billetera se convertirán automáticamente a moneda fiduciaria. El comerciante tal vez nunca sospeche que usaste tokens digitales como forma de pago. La transacción es absolutamente válida. Como debe ser."
+			},
+			{
+				"image": "/pic/wallet/wallet-spend-description-1.jpg",
+				"alt": "compra en todo el mundo"
+			},
+			{
+				"title": "aprende cómo gastar criptomonedas",
+				"description": "Nunca es demasiado tarde para aprender algo impresionante. ¡Mira este video o lee nuestro tutorial para descubrir por qué esta función es increíble!",
+				"link": "/news/tutorials/how-to-order-the-crypterium-card",
+				"linkTitle": "Lee la guía"
+			},
+			{
+				"youtube": "Zmuo0LllSBM",
+				"youtubeImage": "/pic/wallet/spend-video.jpg"
+			}
+		]
+	}
+}

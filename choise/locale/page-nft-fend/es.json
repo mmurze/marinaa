@@ -1,0 +1,179 @@
+{
+	"seo": {
+		"title": "Mejora tus ahorros",
+		"description": "6 años en el mercado de criptomonedas para ofrecerte las primeras cuentas de interés de NFT"
+	},
+	"main": {
+		"title": "6 años en el mercado de criptomonedas para ofrecerte las primeras cuentas de interés de NFT",
+		"link_name": "Calcula tus ganancias",
+		"alt_pic": "Ahora puedes abrir una cuenta de interés en DAI, USDC, USDT y por supuesto CHO por un período de 12 meses o más y obtener hasta un 25% de TAE"
+	},
+	"list": {
+		"array": [
+			{
+				"image": "/pic/fend/fend-list-1.jpg",
+				"value": "Hasta un 25% de TAE",
+				"description": "Bloqueo de hasta 2 años",
+				"soon": true
+			},
+			{
+				"image": "/pic/fend/fend-list-2.jpg",
+				"value": "16% de TAE",
+				"description": "Bloqueo de hasta 2 años"
+			},
+			{
+				"image": "/pic/fend/fend-list-3.jpg",
+				"value": "16% de TAE",
+				"description": "Bloqueo de hasta 2 años"
+			},
+			{
+				"image": "/pic/fend/fend-list-4.jpg",
+				"value": "15% de TAE",
+				"description": "Bloqueo de 1 año"
+			}
+		]
+	},
+	"works": {
+		"array": [
+			{
+				"title": "conectar billetera",
+				"description": "Conecta la billetera MetaMask. Asegúrate de estar conectado a la Binance Smart Chain",
+				"image": "/pic/fend/binance-icon.svg"
+			},
+			{
+				"title": "selecciona una moneda",
+				"description": "Una vez que tu billetera esté conectada, selecciona una moneda, plazo y especifica el monto del depósito. Verifica tu rentabilidad"
+			},
+			{
+				"title": "crear",
+				"description": "Haz clic en el botón Crear. Se te redirigirá para confirmar esta transacción utilizando MetaMask. Descontaremos el monto de la cuenta de interés y recibirás tu NFT exclusivo"
+			},
+			{
+				"title": "obtener ganancias",
+				"description": "Al final del período de la cuenta de interés, recibirás el monto de la cuenta de interés y los intereses especificados en las características del NFT"
+			}
+		],
+		"title": "cómo funciona",
+		"sub_description": "Todo lo que necesitas es crear un token para recibir un NFT único con las características de la cuenta de interés en tu billetera MetaMask. Al final del plazo, cambiaremos tu NFT por el monto de tu cuenta de interés más los intereses",
+		"step": "paso"
+	},
+	"banner": {
+		"title": "<span>¡Date prisa!</span> La cantidad total de NFT es limitada",
+		"description": "¡Es importante que no limitemos la cantidad de cuentas de interés de NFT emitidas a una billetera MetaMask! Pero la cantidad total de NFT sigue siendo limitada",
+		"link": "Crear"
+	},
+	"security": {
+		"title": "seguridad de última generación",
+		"description": "Somos una institución financiera con licencia y completamente regulada en la Unión Europea. Tu cuenta está protegida por un protocolo de seguridad de 3 capas y un protocolo contra fraudes",
+		"entity": {
+			"license": "Entidad y licencia de la UE",
+			"security": "Custodios certificados - BitGo"
+		},
+		"array": [
+			{
+				"title": "Ondato",
+				"slug": "#"
+			},
+			{
+				"title": "BitGo",
+				"slug": "#"
+			},
+			{
+				"title": "Chainalysis",
+				"slug": "#"
+			}
+		]
+	},
+	"calculator": {
+		"title": "calcula tus ganancias y crea",
+		"description": "Calcula tus ganancias eligiendo una moneda, un plazo deseado y el monto de la cuenta de interés. Verifica las características, lee los términos, crea tu NFT y comienza a ganar",
+		"label": "Elige la moneda",
+		"amount": "Elige el monto",
+		"fixed": "Fijo",
+		"lock": "Plazo de bloqueo",
+		"lock_description": "Recibirás tus intereses al final del período de bloqueo",
+		"months": "meses",
+		"APY": "TAE",
+		"total": {
+			"error": "Lamentamos mucho que hayas cambiado de opinión. Vuelve pronto, ¡la cantidad total de NFT es limitada!",
+			"label": "Ganarás",
+			"loading": "Cargando",
+			"APY": "TAE",
+			"period": "Plazo de bloqueo",
+			"months": "meses",
+			"expires": "Expira en",
+			"agree": "Acepto los",
+			"terms": "Términos de uso",
+			"earn": "Ganar",
+			"no_funds": "No tienes suficientes fondos en tu billetera. Agrega fondos a tu cuenta o conecta otra billetera.",
+			"soon": "Próximamente",
+			"connect_wallet": "Conectar billetera",
+			"error_modal": {
+				"ops": "Oooooppsss..."
+			},
+			"verify_modal": {
+				"title": "Verifica tu transacción",
+				"array": ["Necesitas confirmar la transacción. Te pedimos que te asegures de haber seleccionado la red blockchain correcta. Si cometes un error, no te preocupes, simplemente rechaza la transacción en MetaMask.", "Después de la confirmación, la creación del NFT comenzará automáticamente."],
+				"steps": ["<span>Paso 1</span><p>Confirmación</p>", "<span>Paso 2</span><p>Creación del NFT</p>"],
+				"amount": "Monto",
+				"lock": "Plazo de bloqueo",
+				"months": "meses",
+				"APY": "TAE",
+				"verify": "Verificar"
+			},
+			"loading_modal": {
+				"wait": "Por favor, espera...",
+				"content": "Verificamos la disponibilidad del monto necesario para el depósito en el saldo de tu billetera. El tiempo de espera aproximado depende de la carga de la blockchain y puede ser de <strong>hasta 1 minuto.</strong>",
+				"label": "Te pedimos que te asegures de haber seleccionado la red blockchain correcta. Si cometes un error, no te preocupes, simplemente rechaza la siguiente transacción.",
+				"text": "Mientras se debita el monto de la cuenta de interés de tu billetera, abrimos una cuenta de interés para ti y generamos un NFT.",
+				"sub_text": "El tiempo de espera aproximado depende de la carga de la blockchain y puede ser de <strong>hasta 1 minuto.</strong>",
+				"description": "Los NFT actuales se mostrarán en tu perfil"
+			},
+			"success_mint": {
+				"title": "Has creado exitosamente",
+				"with": "con",
+				"APY": "TAE",
+				"hash": "Hash de la transacción",
+				"token": "Token",
+				"lock": "Duración del bloqueo",
+				"months": "meses",
+				"profit": "Ganancia esperada",
+				"profile_link": "Puedes verificar tu NFT en",
+				"profile": "Perfil",
+				"mint": "Crear de nuevo"
+			}
+		}
+	},
+	"faq": {
+		"array": [
+			{
+				"title": "¿Cómo instalar MetaMask y BNB Chain?",
+				"description": "<p>Para obtener instrucciones sobre cómo instalar MetaMask y BNB Chain, mira este <a href='#' target='_blank' rel='noreferrer'>video de YouTube</a></p>"
+			},
+			{
+				"title": "¿Cómo crear NFTs?",
+				"description": "<ol><li>Haz clic en “Conectar MetaMask” y completa tu inicio de sesión en MetaMask.</li><li>Ahora que tu MetaMask está conectada, asegúrate de estar en la Binance Smart Chain. Aquí tienes el enlace a las instrucciones sobre cómo instalar MetaMask y elegir la Binance Smart Chain.</li><li>A continuación, selecciona una moneda, especifica la cantidad de NFTs que deseas crear y haz clic en “Crear”.</li><li>Confirma la transacción en MetaMask.</li><li>¡Listo! Vuelve a tu página de perfil para ver los NFTs creados.</li></ol>"
+			},
+			{
+				"title": "¿Por qué falla mi transacción de creación?",
+				"description": "<p>Si tu transacción de creación falla, lo más probable es que tengas muy pocas comisiones de gas en tu MetaMask. ¡No te preocupes! Una vez que hagas clic en  \"Mint\" y te redirijas a MetaMask, haz clic en “Editar” donde se muestra la tarifa estimada de gas y simplemente aumenta el Precio del Gas (GWEI) en 1 valor (por ejemplo, de 5 GWEI a 6 GWEI). Esto aumentará tus comisiones de gas, pero solo en una pequeña cantidad (unos centavos).</p>"
+			},
+			{
+				"title": "¿Cómo puedo ver mis NFTs después de crearlos?",
+				"description": "<p>Conecta tu billetera MetaMask y visita tu página de perfil.</p>"
+			},
+			{
+				"title": "¿Cómo agregar un NFT a tu billetera MetaMask?",
+				"description": "<p>Abre tu billetera MetaMask, luego elige la pestaña de NFTs y haz clic en el enlace “Importar NFTs”. Después, ingresa la dirección del contrato (USDT - 0x5ed2facc7885aebeb267f91fa243a55aff3c0e47 / USDC - 0xe22E36Db11a52068b4244c58d203a38C561e4988 / DAI - 0x1B1151560b10E1a9718E1bF6dF74E74131Ba7afE) y el ID del NFT creado. Después de la confirmación, se mostrará en tu billetera.</p>"
+			},
+			{
+				"title": "¿Cuándo reclamo mis ganancias?",
+				"description": "<p>Al final del período de la cuenta de interés, haz clic en los NFTs creados y luego en “Reclamar”. El token se quemará. Recibirás el monto de la cuenta de interés y los intereses especificados en las características del NFT.</p>"
+			},
+			{
+				"title": "¿Cómo puedo contactar al soporte?",
+				"description": "<p>Si tienes alguna pregunta, contacta al soporte de Choise.com en <a href='mailto:support@choise.com' target='_blank' rel='noreferrer'>support@choise.com.</a> Te responderemos lo antes posible.</p>"
+			}
+		]
+	}
+}

@@ -1,0 +1,97 @@
+{
+	"seo": {
+		"title": "Win Exclusive NFTs For Testing DeFi Platform Charism",
+		"description": "Participate in Charism Beta Test from June 27 to July 27, 2022 and win an exclusive NFT for valuable feedback."
+	},
+	"main": {
+		"span_1": "Charism",
+		"span_2": "Beta Test",
+		"title": "join and win an exclusive nft",
+		"description": "Participate in Charism Beta Test from June 27 to July 27, 2022 and win an exclusive NFT for valuable feedback.",
+		"title_link": "Beta Test is over"
+	},
+	"whatIsIt": {
+		"title": "what is charism?",
+		"description": "Charism is a core building block of the Choise.com MetaFi ecosystem and a unique DeFi platform enabling users to exchange tokens at attractive prices, efficiently transfer assets between different networks, analyze investments, yield and risks, enter the chosen products and make forecasts - all that through a super friendly user experience.",
+		"sub_description": "Choise.com is the world’s first MetaFi ecosystem that combines all the advantages of CeFi and DeFi (centralized and decentralized finance) services into one ecosystem."
+	},
+	"participate": {
+		"success_title": "Thanks for registering!",
+		"success_description": "We’ll use this email to send you further instructions soon",
+		"title": "how to participate in charism beta test",
+		"list": [
+			{
+				"title": "start",
+				"description": "Fill in the form and check your email. You will receive a password and instructions to join Beta Test",
+				"form": true
+			},
+			{
+				"title": "test charism and provide your feedback",
+				"description": "Prove yourself as a talented Beta Tester: follow the instructions in the email, start testing Charism and provide feedback",
+				"image": "/pic/charism/participate-search.png",
+				"width": 197,
+				"height": 121
+			},
+			{
+				"title": "get exclusive nfts",
+				"description": "Choise.com team will randomly drop 100 exclusive NFTs among Beta Testers that left valuable feedback according to the Rules",
+				"image": "/pic/charism/participate-nft.png",
+				"width": 211,
+				"height": 99
+			}
+		]
+	},
+	"nft": {
+		"title": "100 nft’s limited collection",
+		"list": [
+			{
+				"image": "/pic/charism/charism-nft-1.jpg",
+				"title": "Mystical",
+				"value": 5
+			},
+			{
+				"image": "/pic/charism/charism-nft-2.jpg",
+				"title": "Rare",
+				"value": 10
+			},
+			{
+				"image": "/pic/charism/charism-nft-3.jpg",
+				"title": "Uncommon",
+				"value": 35
+			},
+			{
+				"image": "/pic/charism/charism-nft-4.jpg",
+				"title": "Common",
+				"value": 50
+			}
+		]
+	},
+	"faq": {
+		"array": [
+			{
+				"title": "How to start?",
+				"description": "<p>After filling in the form you will receive the email with your password and instructions. Follow the instructions to start testing Charism.</p>"
+			},
+			{
+				"title": "Judging Criteria",
+				"description": "<p>In order to participate in the NFT drawing, you must submit your feedback and meet the Rules’ requirements. You will receive the Rules after signing up in Charism and entering the platform.</p>"
+			},
+			{
+				"title": "What are the prizes?",
+				"description": "<p>Choise.com team will randomly drop exclusive NFTs among approved feedbacks within 2 weeks after the end of the Beta Test. The exact number of NFTs is 100:</p><ul><li>5 Mystical</li><li>10 Rare</li><li>35 Uncommon</li><li>50 Common</li></ul>"
+			},
+			{
+				"title": "Why several NFT types?",
+				"description": "<p>The NFT types refer to the level of their rarity. The higher the level is, the more exciting bonuses it provides. Additional information about bonuses will be provided later.</p>"
+			},
+			{
+				"title": "How will I get my prize?",
+				"description": "<p>If you win your exclusive NFT, it will be sent to your MetaMask wallet. The Choise.com team will contact all Beta Testers via email and provide the details.</p>"
+			}
+		]
+	},
+	"metaFi": {
+		"title": "contribute to the new era of global finance – metafi",
+		"link": "Sign up for Beta Test"
+	}
+}

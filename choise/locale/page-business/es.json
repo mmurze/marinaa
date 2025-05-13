@@ -1,0 +1,231 @@
+{
+	"seo": {
+		"title": "Acelera el rendimiento de inversión de tu negocio",
+		"description": "Maximiza tus ganancias con cuentas de interés y préstamos criptográficos B2B seguros. Oferta institucional de vanguardia con tasas de interés competitivas. Asegurado y regulado por instituciones financieras de la UE."
+	},
+	"main": {
+		"title": "acelera el rendimiento de inversión de tu negocio",
+		"description": "Maximiza tus ganancias con cuentas de interés y préstamos criptográficos B2B seguros. Oferta institucional de vanguardia con tasas de interés competitivas.",
+		"title_button": "Aplica ahora",
+		"title_link": "¿Ya tienes una cuenta de negocios?",
+		"link": "Iniciar sesión",
+		"list": [
+			{
+				"icon": "/pic/business/main-icon-1.svg",
+				"description": "Gestión de cuentas personales"
+			},
+			{
+				"icon": "/pic/business/main-icon-2.svg",
+				"description": "Licencia operacional de activos virtuales"
+			},
+			{
+				"icon": "/pic/business/main-icon-3.svg",
+				"description": "Solución para oficinas familiares"
+			},
+			{
+				"icon": "/pic/business/main-icon-4.svg",
+				"description": "Gestión de riesgos con IA"
+			}
+		]
+	},
+	"banner": {
+		"title_1": "construyamos un",
+		"title_2": "en torno a tu negocio",
+		"title": "plan personalizado",
+		"title_button": "Aplica ahora"
+	},
+	"benefits": {
+		"title": "cómo funcionan las estrategias de liquidez neutra de mercado",
+		"modalContent": [
+			{
+				"title": "Exposición a monedas",
+				"coins": true
+			},
+			{
+				"title": "Fuente de rendimiento",
+				"description": "Tarifas del protocolo por proporcionar liquidez"
+			},
+			{
+				"title": "¿Cuándo gana la estrategia?",
+				"description": "Siempre: más en un mercado alcista, menos en un mercado bajista"
+			},
+			{
+				"title": "Riesgo de disminución",
+				"description": "No"
+			},
+			{
+				"title": "Beneficio de exposición al mercado",
+				"description": "No"
+			}
+		],
+		"stepArray": [
+			{
+				"title": "La IA investiga a través de una serie de Pools de Liquidez (LP) en DEX confiables para descubrir la asignación de cartera más efectiva"
+			},
+			{
+				"title": "Se realiza la inversión"
+			},
+			{
+				"title": "Monitoreo 24/7",
+				"description": "Después de la asignación, una combinación de software especializado interno y externalizado monitorea pools y cadenas. Se activa la automatización de retiro en cadena de emergencia y resistente a MEV por cualquier actividad sospechosa, como una capa adicional de seguridad."
+			},
+			{
+				"title": "Las tarifas del protocolo de los LP se ganan y reinvierten"
+			}
+		],
+		"array": [
+			{
+				"icon": "/pic/business/benefits-icon-1.svg",
+				"title": "ajuste de riesgo con IA",
+				"description": "Obtén rendimientos ajustados al riesgo con baja correlación con acciones tradicionales, materias primas y otras estrategias de inversión mediante el despliegue de estrategias delta neutras que utilizan la tecnología de IA exclusiva de Choise.com.",
+				"modal": true
+			},
+			{
+				"icon": "/pic/business/benefits-icon-2.svg",
+				"title": "transparencia y flexibilidad",
+				"description": "Amplía tus horizontes y ajusta tu cartera en cualquier momento con unos pocos clics. Brindamos total transparencia en todos los aspectos del proceso."
+			},
+			{
+				"icon": "/pic/business/benefits-icon-3.svg",
+				"title": "soporte prioritario al cliente",
+				"description": "Nuestro dedicado equipo de servicio al cliente está disponible las 24 horas, los 7 días de la semana, para brindar asistencia de primera calidad en caso de cualquier pregunta o inquietud."
+			}
+		],
+		"title_button": "Ver cómo funciona"
+	},
+	"regulations": {
+		"title": "solución para oficinas familiares en pleno cumplimiento de las regulaciones globales",
+		"description": "Choise.com está completamente autorizado para operaciones con activos virtuales. Cumplimos con todas las leyes y regulaciones aplicables establecidas por el gobierno de la UE, incluidos los requisitos de Cumplimiento contra el Lavado de Dinero (AML) y Conoce a Tu Negocio (KYB).",
+		"label_1": "Custodios certificados",
+		"label_2": "Protección absoluta de fondos",
+		"description_label_2": "Capa de seguridad 3",
+		"description_img": "Licencia de la UE",
+		"title_license": "Licencia de la UE para proporcionar operaciones con activos virtuales",
+		"link_1": "www.rekvizitai.vz.lt",
+		"title_registered": "Registrado por FCA UK",
+		"title_span": "desde el 4.10.21",
+		"description_item": "*una de las 50 únicas empresas con dicha registración",
+		"link_2": "www.register.fca.org.uk"
+	},
+	"cryptoBank": {
+		"title": "confía en una destacada empresa criptográfica",
+		"description": "Choise.com es una empresa de confianza con una sólida visión de brindar a todos la opción de ganar más con cripto.",
+		"list": [
+			{
+				"value": "6 años",
+				"title": "de sólida experiencia en el mercado"
+			},
+			{
+				"value": "1M",
+				"title": "usuarios registrados"
+			},
+			{
+				"value": "$1B",
+				"title": "volumen de transacciones"
+			},
+			{
+				"value": "170+",
+				"title": "países"
+			},
+			{
+				"value": 160,
+				"title": "profesionales en el equipo"
+			},
+			{
+				"value": "$50M+",
+				"title": "invertidos en Choise.com"
+			},
+			{
+				"value": "$1B",
+				"title": "bajo gestión"
+			},
+			{
+				"value": "totalmente autorizado",
+				"title": "para proporcionar operaciones con activos virtuales"
+			}
+		]
+	},
+	"certificates": {
+		"title": "Certificados de Choise.com",
+		"array": [
+			"BitGo",
+			"Licencia de la UE",
+			"Ledger Vault",
+			"FinTech Alliance (UK)",
+			"ISO/IEC",
+			"Compliance Control Ltd.",
+			"SSL",
+			"SOC2",
+			"PCI DSS",
+			"Chainanalysis"
+		]
+	},
+	"supported": {
+		"title": "respaldado",
+		"label": "por más de 20 inversores institucionales"
+	},
+	"partners": {
+		"array": [
+			{
+				"title": "fintech-alliance",
+				"link": "https://fintech-alliance.com/news-insights/article/choise-com-simplifying-crypto-for-an-improved-customer-experience",
+				"icon": "/pic/business/partners/p-1.svg"
+			},
+			{
+				"title": "dailyhodl",
+				"link": "https://dailyhodl.com/2023/01/11/why-institutional-investors-are-already-preparing-for-the-next-bull-run/",
+				"icon": "/pic/business/partners/p-2.svg"
+			},
+			{
+				"title": "entrepreneur",
+				"link": "https://www.entrepreneur.com/money-finance/5-bear-market-lessons-from-a-crypto-entrepreneur/442131",
+				"icon": "/pic/business/partners/p-3.svg"
+			},
+			{
+				"title": "cointelegraph",
+				"link": "https://cointelegraph.com/news/the-elon-effect-shows-how-opinion-leaders-shape-the-fintech-market",
+				"icon": "/pic/business/partners/p-4.svg"
+			},
+			{
+				"title": "fxempire",
+				"link": "https://www.fxempire.com/news/article/get-passive-income-on-these-top-5-crypto-earning-platforms-1183842",
+				"icon": "/pic/business/partners/p-5.svg"
+			},
+			{
+				"title": "fintechmagazine",
+				"link": "https://fintechmagazine.com/crypto/choise-com-md-talks-cryptocurrency-future-trends-for-2023",
+				"icon": "/pic/business/partners/p-6.svg"
+			},
+			{
+				"title": "finance",
+				"link": "https://finance.yahoo.com/news/nft-market-gets-ready-big-140000615.html?.tsrc=fin-srch",
+				"icon": "/pic/business/partners/p-7.svg"
+			},
+			{
+				"title": "hackernoon",
+				"link": "https://hackernoon.com/nfts-are-not-dying-they-are-evolving",
+				"icon": "/pic/business/partners/p-8.svg"
+			},
+			{
+				"title": "watcher",
+				"link": "https://watcher.guru/news/would-cbdcs-eventually-lead-to-the-demise-of-crypto",
+				"icon": "/pic/business/partners/p-9.svg"
+			},
+			{
+				"title": "fxstreet",
+				"link": "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-price-fell-27-how-to-insure-crypto-assets-202211240833 ",
+				"icon": "/pic/business/partners/p-10.svg"
+			},
+			{
+				"title": "crypto.news",
+				"link": "https://crypto.news/binance-ceo-discusses-genesis-collapse-impact-on-crypto-markets/",
+				"icon": "/pic/business/partners/p-11.svg"
+			},
+			{
+				"title": "coincodex",
+				"link": "https://coincodex.com/article/21034/top-5-altcoins-to-watch-out-for-in-november-2022/",
+				"icon": "/pic/business/partners/p-12.svg"
+			}
+		]
+	}
+}

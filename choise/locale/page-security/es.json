@@ -1,0 +1,100 @@
+{
+	"seo": {
+		"title": "сhoise.com regulado, certificado y con licencia",
+		"description": "Choise.com es una institución financiera con licencia, totalmente regulada en la UE. Hemos superado con éxito todos los procedimientos de auditoría habituales y estamos certificados de acuerdo con el estándar internacional PCI DSS."
+	},
+	"main": {
+		"label": "Tu cripto — tu elección",
+		"title": "сhoise.com regulado, certificado y con licencia",
+		"description": "Choise.com es una institución financiera con licencia, totalmente regulada en la UE. Hemos superado con éxito todos los procedimientos de auditoría habituales y estamos certificados de acuerdo con el estándar internacional PCI DSS.",
+		"array": ["ISO 27001", "Licencia de la UE", "Fintech", "Auditado", "Totalmente regulado", "Asegurado"]
+	},
+	"assets_safe": {
+		"title": "mantener <span>tus activos seguros</span> es nuestra principal prioridad",
+		"description": "Choise.com se adhiere a altos estándares de gestión de riesgos, seguridad y transparencia",
+		"array": [
+			{
+				"title": "tus fondos están asegurados",
+				"description": ["Choise.com cuenta con una amplia red de proveedores de seguros, como BitGo y Ledger Vault.", "También utilizamos Chainalysis, una solución global de investigación y monitoreo de transacciones de criptomonedas, para protección de retiros."],
+				"image": "/pic/security/assets-safe-1.jpg"
+			},
+			{
+				"title": "auditado regular y exitosamente",
+				"description": ["Choise.com superó todos los procedimientos de auditoría y revisión de licencias en 2022.", "Hemos sido revisados con éxito por el auditor de PCI DSS, Compliance Control Ltd."],
+				"image": "/pic/security/assets-safe-2.jpg"
+			},
+			{
+				"title": "bajo un sistema de seguridad multifase",
+				"description": ["Choise.com implementa diversos métodos de protección: gestor de almacenamiento KMS, funciones propias, APIs de socios, etc.", "Un sistema organizado de políticas y normas (privacidad, política contable, etc.) y reuniones semanales de capacitación en seguridad mantienen al equipo al tanto de los últimos movimientos del mercado.", "Choise.com utiliza la aplicación del socio BitGo, que es una herramienta segura reconocida internacionalmente para gestionar billeteras (incluidos los usuarios).", "Aplicamos los estándares de seguridad SSL, SOC2 e ISO/IEC 27001."],
+				"image": "/pic/security/assets-safe-3.jpg"
+			}
+		]
+	},
+	"benefits": {
+		"title": "cumplimiento total de regulaciones y estándares globales y locales",
+		"description": "Choise.com está completamente licenciado para brindar operaciones de activos virtuales.",
+		"description_link": "Referencia N.º 305964183",
+		"sub_description": "Servicios financieros, Provisión de operaciones de activos virtuales",
+		"link_more": "Más información",
+		"item_title": "choise.com se une a FinTech Alliance",
+		"item_description": "Choise.com se enorgullece de anunciar que la empresa se ha unido a FinTech Alliance, una plataforma impulsada por la comunidad para empresas del sector FinTech."
+	},
+	"features": {
+		"title": "funciones de seguridad de primer nivel con la aplicación de Choise.com",
+		"array": [
+			{
+				"title": "Nos adherimos al desarrollo seguro de software",
+				"description": "La seguridad está incorporada en nuestro ciclo de vida de programación. Nuestro software es revisado por pares y utiliza una combinación de análisis de código fuente estático y dinámico",
+				"image": "/pic/security/s-sl-1.jpg"
+			},
+			{
+				"title": "Utilizamos autenticación de dos factores (2FA)",
+				"description": "Las transacciones están protegidas por 2FA, que incluye contraseña, Face ID/Touch ID, correo electrónico y teléfono",
+				"image": "/pic/security/s-sl-2.jpg"
+			},
+			{
+				"title": "Garantizamos protección de retiros",
+				"description": "Utilizamos Chainalysis, un estándar internacional utilizado por sistemas bancarios e intercambios, para que puedas estar tranquilo acerca de tus fondos y saber que no estamos asociados con transacciones 'sucias'. Chainalysis cuenta con más de mil millones de direcciones que proporcionan la seguridad necesaria y el cumplimiento de los requisitos reglamentarios",
+				"image": "/pic/security/s-sl-3.jpg"
+			},
+			{
+				"title": "Brindamos soporte al cliente en vivo las 24 horas, los 7 días de la semana",
+				"description": "Ayudarte a aprovechar al máximo tu experiencia en Choise.com es una de nuestras principales prioridades",
+				"image": "/pic/security/s-sl-4.jpg"
+			}
+		]
+	},
+	"risk_managment": {
+		"title": "gestión prudente de riesgos",
+		"descriptions": [
+			"Tus activos digitales están seguros en сhoise.com gracias a estrategias de mercado neutral y una muy alta diversificación (nunca asignamos más del 5% de nuestros fondos a un solo instrumento). Esto nos permite mantener una posición de liquidez sólida y generar ingresos considerable para nuestros clientes. Choise.com utiliza tanto VC como capitalización en nuestros productos financieros innovadores para financiamiento.",
+			"Además, los tokens СHO y CRPT representan menos del 10% de los activos."
+		],
+		"link_more": "Más información"
+	},
+	"market_video": {
+		"title": "Vladimir Gorbunov",
+		"description": "CEO y Fundador",
+		"link": "Ver video",
+		"label": "Entrevista",
+		"content_title": "transparencia y gestión de riesgos en el mercado de criptomonedas actual",
+		"list": [
+			"¿Cuál fue la causa de la reciente turbulencia en el mercado?",
+			"¿Cuál fue la reacción real del mercado?",
+			"¿La prueba de reservas es realmente significativa?",
+			"¿Demasiado bueno para ser verdad? Altas tasas de interés y estrategias de gestión de riesgos",
+			"DeFi y su papel en la gestión de riesgos",
+			"¿Qué opina Vladimir sobre la confianza y el futuro de Choise.com?"
+		]
+	},
+	"list_certificates": {
+		"title": "lista de nuestros certificados",
+		"certificates": ["BitGo", "Licencia de la UE", "Ledger Vault", "FinTech Alliance (Reino Unido)", "ISO/IEC", "Compliance Control Ltd.", "SSL", "SOC2", "PCI DSS", "Chainanalysis"]
+	},
+	"banner": {
+		"title": "bugcrowd Bug Bounty",
+		"description": "Choise.com reconoce la importancia de los investigadores de seguridad para ayudar a mantener nuestra comunidad segura. Fomentamos la divulgación responsable de vulnerabilidades de seguridad a través de nuestro programa externo de recompensas a través de bugcrowd.com",
+		"label": "Recompensas pagadas a white hat",
+		"pool": "Fondo de recompensa"
+	}
+}

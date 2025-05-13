@@ -1,0 +1,32 @@
+{
+	"seo": {
+		"title": "Bitcoin with a 10% discount! Cheaper than anywhere",
+		"description": "We have reinvented BTC purchase in a unique and profitable way! When you buy BTC with a discount, it's locked in your wallet for 12 months. You can withdraw it anytime you want, without any commissions, but for the original price without the discount. Once the lockup period is finished, you can withdraw the entire amount."
+	},
+	"main": {
+		"success_title": "Confirmed",
+		"success_description": "We’ve received your application and will inform you when the product is available",
+		"link": "Follow us on Telegram",
+		"form_title": "Buy BTC",
+		"phone_placeholder":"Phone number",
+		"email_placeholder": "Email",
+		"amount_placeholder": "$ Amount",
+		"form_description": "When you buy BTC with a discount, it's locked in your wallet for 12 months. You can withdraw it anytime you want, without any commissions, but for the original price without discount. Once the lockup period is finished, you can withdraw the entire amount.",
+		"check_description": "Are you already registered in Choise.com App?",
+		"button_check": "Continue",
+		"modal_title": "Bitcoin with a 10% discount! Cheaper than anywhere",
+		"modal_description": [
+			"We have reinvented BTC purchase in a unique and profitable way! When you buy BTC with a discount, it's locked in your wallet <span>for 12 months.</span>",
+			"You can withdraw it anytime you want, without any commissions, but for the original price without the discount. Once the lockup period is finished, you can withdraw the entire amount."
+		],
+		"modal_label": "Buy it with a discount using bank card, bank transfer, or crypto transfer with easy-to-use Choise.com App.",
+		"price_label": "BTC Price with",
+		"price_value": "10% off",
+		"button_buy": "Buy now"
+	},
+	"banner": {
+		"title": "Do you want to stop paying full price for BTC?",
+		"array": ["No, not interested at all", "Maybe. I need more information", "Yeeeeees"],
+		"text": "Ok, Thanks!"
+	}
+}

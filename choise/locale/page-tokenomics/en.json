@@ -1,0 +1,132 @@
+{
+	"seo": {
+		"title": "choise.com tokenomics",
+		"description": "In the fast-growing cryptocurrency market, Choise.com is to lead the way as a single entry platform to yield products. Choise.com delivers complex yield-focused and cryptobanking products through a fun and friendly UI/UX."
+	},
+	"main": {
+		"title": "choise.com tokenomics",
+		"description_img_1": "CRPT",
+		"description_img_2": "CHO"
+	},
+	"description": {
+		"description": "In the fast-growing cryptocurrency market, Choise.com is to lead the way as a single entry platform to yield products. To put it simply, here you can earn on crypto holdings through the same tools previously reserved for advanced crypto users. All through a clear interface, of course.",
+		"title": "choise.com ecosystem"
+	},
+	"underlyingTokens": {
+		"title": "tokenomics. underlying tokens",
+		"description": "Choise.com tokenomics is based on two tokens at the heart of the project – CRPT and CHO.",
+		"list_1_1": "Token standard: ",
+		"list_1_2": "ERC-20 contract address:",
+		"list_1_3": "Total supply: ",
+		"list_1_3_span": " tokens",
+		"list_1_4": "Tokenomics model: ",
+		"list_1_4_span": "deflationary",
+		"link_a_1": "Buy CRPT",
+		"list_2_1": "Token standards: ",
+		"list_2_2": "ERC-20 contract address:",
+		"list_2_3": "SPL contract address:",
+		"list_2_4": "Total supply: ",
+		"list_2_4_span": " tokens",
+		"list_2_5": "Tokenomics model: ",
+		"list_2_5_span": "deflationary",
+		"link_a_2": "Buy CHO",
+		"link_a_3": "Full tokenomics details",
+		"description_crpt": "CRPT is one of the key players inside the Choise.com ecosystem, ensuring fast and secure value transfer while maintaining crypto-to-fiat transactions. Every time when such a transaction appears inside Choise.com wallet, a 0.5% gas fee in CRPT tokens is charged and burned monthly.",
+		"description_crpt_heading": "CRPT Tokenomics",
+		"description_crpt_1": "Burn",
+		"description_crpt_2": "Monthly loyalty program (MLP)",
+		"description_crpt_3": "Interest accounts in CRPT",
+		"description_cho": "CHO token is an entry point to the advantages of Choise.com DeFi products. Its tokenomics is based on cutting-edge practices from the industry and is presented by a deflationary model. The total number of tokens is capped at 1 billion subject to be burned over the time.",
+		"description_cho_heading": "CHO Tokenomics",
+		"description_cho_1": "Staking",
+		"description_cho_2": "Fee discount",
+		"description_cho_3": "DAO"
+	},
+	"interconnection": {
+		"title": "CRPT – CHO interconnection",
+		"description": "is implemented through",
+		"link_a_1": "Retrodrop program",
+		"link_a_2": "Airdrop program"
+	},
+	"ceFiEcosystem": {
+		"title": "Сhoise.com today. MetaFi ecosystem",
+		"array" : [
+			{
+				"title": "centralized",
+				"list":[
+					{
+						"title": "Skrill / Advcash",
+						"icon": "/pic/tokenomics/centralized-1.png"
+					},
+					{
+						"title": "VISA Cards",
+						"icon": "/pic/tokenomics/centralized-2.png"
+					},
+					{
+						"title": "Custodian crypto wallet",
+						"icon": "/pic/tokenomics/centralized-3.png"
+					},
+					{
+						"title": "Crypto Price Insurance",
+						"icon": "/pic/tokenomics/centralized-4.png"
+					},
+					{
+						"title": "Buy crypto",
+						"icon": "/pic/tokenomics/centralized-5.png"
+					},
+					{
+						"title": "Interest Accounts",
+						"icon": "/pic/tokenomics/centralized-6.png"
+					},
+					{
+						"title": "Cash out",
+						"icon": "/pic/tokenomics/centralized-7.png"
+					},
+					{
+						"title": "Price Predictions",
+						"icon": "/pic/tokenomics/centralized-8.png"
+					},
+					{
+						"title": "Exchange",
+						"icon": "/pic/tokenomics/centralized-9.png"
+					},
+					{
+						"title": "IBAN account",
+						"icon": "/pic/tokenomics/centralized-10.png"
+					}
+				]
+			},
+			{
+				"title": "decentralized",
+				"list": [
+					{
+						"title": "NFT interest accounts",
+						"icon": "/pic/tokenomics/decentralized-1.png"
+					},
+					{
+						"title": "Staking",
+						"icon": "/pic/tokenomics/decentralized-2.png"
+					},
+					{
+						"title": "On-ramp",
+						"icon": "/pic/tokenomics/decentralized-3.png"
+					},
+					{
+						"title": "Web 3.0 interest accounts",
+						"icon": "/pic/tokenomics/decentralized-4.png"
+					},
+					{
+						"title": "Swap",
+						"icon": "/pic/tokenomics/decentralized-5.png"
+					},
+					{
+						"title": "Bridge aggregators ",
+						"icon": "/pic/tokenomics/decentralized-6.png"
+					}
+				]
+			}
+		],
+		"link_a_1": "Google play",
+		"link_a_2": "App store"
+	}
+}

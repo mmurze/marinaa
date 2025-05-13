@@ -1,0 +1,126 @@
+{
+	"seo": {
+		"title": "Publica un solo tweet y gana",
+		"description": "Uno de los premios principales más grandes en todo el mercado de criptomonedas. Publica en Twitter cuál será el precio de CHO el 24 de marzo de 2024 con el hashtag #PredicciónPrecioCHO y por qué crees que será así"
+	},
+	"mobile": {
+		"link": "Ver tweets en <span>Twitter</span>",
+		"array": [
+			{
+				"title": "Cómo participar",
+				"anchor": "participar"
+			},
+			{
+				"title": "Acerca del token CHO",
+				"anchor": "acerca"
+			},
+			{
+				"title": "Preguntas frecuentes",
+				"anchor": "faq"
+			}
+		]
+	},
+	"header": {
+		"link": "Ver tweets en <span>Twitter</span>",
+		"array": [
+			{
+				"title": "Cómo participar",
+				"anchor": "participar"
+			},
+			{
+				"title": "Acerca del token CHO",
+				"anchor": "acerca"
+			},
+			{
+				"title": "Preguntas frecuentes",
+				"anchor": "faq"
+			}
+		]
+	},
+	"main":{
+		"title": "Publica un solo tweet y gana"
+	},
+	"description": {
+		"title": "Uno de los <span>premios principales</span> en todo el mercado de criptomonedas",
+		"description": "publica cuál será el precio de CHO el 24 de marzo de 2024 usando el hashtag <span>#PredicciónCHO</span> en Twitter y no olvides decirnos por qué crees que estarás en lo correcto"
+	},
+	"benefits": {
+		"title": "El primer lugar recibe $1,000,000 y $500,000 se divide entre los otros 999 ganadores.",
+		"label1": "para el primer lugar",
+		"label2": "999 participantes afortunados"
+	},
+	"gleam": {
+		"title": "participa en <span>gleam</span>. aumenta tus posibilidades de ganar",
+		"description": "Si más de un participante tiene la predicción correcta, determinaremos al ganador en función de su actividad en Choise.com Gleam",
+		"link": "Aumentar posibilidades"
+	},
+	"choise": {
+		"title": "por Choise.com"
+	},
+	"information": {
+		"item_link": "Choise.com",
+		"item_description": " es un punto de entrada confiable para productos de rendimiento que revoluciona la forma en que ganas.",
+		"array": [
+			{
+				"linkDescription": true,
+				"sub_description": "Compra, asegura y mantén tus criptomonedas y obtén hasta un 16% de APY en stablecoins. El token CHO se encuentra en el corazón del ecosistema.",
+				"image": "/pic/million4cho/info-image-1.png",
+				"width": 1295,
+				"height": 869.5
+			},
+			{
+				"description": "La tokenómica de CHO<br/>está diseñada para recompensar a todos los poseedores de CHO brindándoles un atractivo APY, beneficios para los usuarios y socios, descuentos en tarifas y otros bonos que serán votados en Choise.com DAO.",
+				"image": "/pic/million4cho/info-image-2.png",
+				"width": 763,
+				"height": 1214
+			}
+		]
+	},
+	"price_exchanges": {
+		"title": "Precio de CHO x3<br/>desde la fecha del IDO",
+		"exchanges_title": "En los principales exchanges",
+		"media_title": "En los principales<br/>medios",
+		"markets": "6 años<br/>en el mercado"
+	},
+	"faq": {
+		"title": "Preguntas frecuentes",
+		"array": [
+			{
+				"title": "¿Cómo puedo participar?",
+				"description": "Solo publica un tweet con tu predicción de precio para el token CHO con el hashtag #PredicciónCHO y tu opinión: ¿subirá o bajará el precio y por qué?"
+			},
+			{
+				"title": "¿Hasta qué fecha puedo hacer un tweet?",
+				"description": "La predicción debe publicarse a más tardar el 1 de enero de 2024. Todas las predicciones publicadas después de esta fecha no serán aceptadas."
+			},
+			{
+				"title": "¿Cómo se debe escribir el precio del token?",
+				"description": "El precio del token debe escribirse con tres dígitos después del punto decimal. Ejemplo: $5,321"
+			},
+			{
+				"title": "¿Qué sucederá si más de una persona hace la predicción correcta?",
+				"description": "Si más de una predicción de un participante es correcta, determinaremos al ganador en función de su actividad en Choise.com <a href='https://gleam.io/xgvcT/publish-1-tweet-and-win-1500000-cho-price-prediction-' target='_blank' rel='noreferrer'>Gleam</a>"
+			},
+			{
+				"title": "¿Cuándo se anunciarán los ganadores?",
+				"description": "La lista de ganadores se publicará en las redes sociales de Choise.com el 1 de junio de 2024."
+			},
+			{
+				"title": "¿Cómo puedo recibir mi premio?",
+				"description": "El precio del token ganador se publicará en la página web del Festival de Predicción de Precios junto con el formulario para que los ganadores proporcionen sus datos de contacto a Choise.com (número de teléfono, cuenta de Choise.com App, apodo de Gleam) y un enlace al tweet con su predicción."
+			},
+			{
+				"title": "¿Cuántos intentos puedo hacer?",
+				"description": "Cada persona solo puede hacer 1 intento. Si alguien hace dos intentos, solo contaremos el primero."
+			},
+			{
+				"title": "Calificación de la cuenta de Twitter",
+				"description": "Para calificar para el concurso, tu cuenta de Twitter debe haberse creado no antes de 3 meses antes de la publicación del tweet de Predicción de Precios y tener al menos 50 seguidores."
+			}
+		],
+		"link_title": "Publicar un tweet"
+	},
+	"footer": {
+		"description": "The Choise website and Choise mobile apps are owned by the company incorporated in the Republic of Seychelles with company number IBC No. 233581, registered office at 102, Aarti Chambers, Mont Fleuri, Victoria, Mahe, Seychelles which is regulated by the laws of that country. Crypterium AS is incorporated in Estonia with company number 14352837 with a registered office at 5 A. Lauteri, Tallinn, 10114. Crypterium AS has been granted license <a href=\"https://mtr.mkm.ee/juriidiline_isik/220559\" target=\"_blank\" rel=\"noreferrer\">FVT000161</a> for providing a virtual currency service and <a href=\"https://mtr.mkm.ee/juriidiline_isik/220559\" target=\"_blank\" rel=\"noreferrer\">FFA000236</a> for operating as a financial institution. Charism LLC is incorporated in St. Vincent and Grenadines with company number 1999 LLC 2022, registered office at Suite 336, Beachmont Business Centre, Kingstown, registration number 1999 LLC 2022. Charism LLC is a limited liability company created and existing under the laws of Saint Vincent and Grenadines. Crypterium AS is not a bank. Your Crypterium prepaid card is issued by UAB Walletto (registration number 304686884) pursuant to license by Visa. UAB Walletto is authorized by the Bank of Lithuania to conduct electronic money service activities under the Law on Electronic Money and Electronic Money institutions (license number 33). Crypterium AS is the Card Programme Manager. Digital currency values are not static and fluctuate due to market changes. Not all products and services are available in all geographic areas and are subject to applicable terms and conditions. Eligibility for particular products and services is subject to final determination by Сhoise. Rates for Choise products are subject to change."
+	}
+}

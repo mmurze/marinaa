@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Link",
+		"ticker": "LINK"
+	},
+	{
+		"title": "Monero",
+		"ticker": "XMR"
+	},
+	{
+		"title": "Tezos",
+		"ticker": "XTZ"
+	},
+	{
+		"title": "Loopring",
+		"ticker": "LRC"
+	},
+	{
+		"title": "Stellar",
+		"ticker": "XLM"
+	},
+	{
+		"title": "Qtum",
+		"ticker": "QTUM"
+	},
+	{
+		"title": "Nem",
+		"ticker": "XEM"
+	},
+	{
+		"title": "OmiseGO",
+		"ticker": "OMG"
+	},
+	{
+		"title": "VeChain",
+		"ticker": "VET"
+	},
+	{
+		"title": "Quant",
+		"ticker": "QNT"
+	}
+]

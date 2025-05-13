@@ -1,0 +1,128 @@
+[
+	{
+		"title": "Wallet",
+		"header_link": "/wallet",
+		"target": false,
+		"image": "/pic/main-new/ecosystem-1.png",
+		"width": 321,
+		"height": 173,
+		"top": [
+			{
+				"title": "Buy crypto",
+				"slug": "/wallet/buy",
+				"soon": false,
+				"target": false
+			},
+			{
+				"title": "Exchange",
+				"slug": "/wallet/exchange",
+				"soon": false,
+				"target": false
+			},
+			{
+				"title": "Send",
+				"slug": "/wallet/send",
+				"soon": false,
+				"target": false
+			},
+			{
+				"title": "Spend",
+				"slug": "/wallet/spend",
+				"soon": false,
+				"target": false
+			},
+			{
+				"title": "Cash out",
+				"slug": "/wallet/cashout",
+				"soon": false,
+				"target": false
+			}
+		],
+		"bottom": [
+			{
+				"title": "Cards",
+				"slug": "/cards",
+				"soon": false,
+				"target": false
+			},
+			{
+				"title": "Crypto price insurance",
+				"slug": "/price-insurance",
+				"soon": false,
+				"target": false
+			},
+			{
+				"title": "Savings accounts",
+				"slug": "/interest-accounts",
+				"soon": false,
+				"target": false
+			},
+			{
+				"title": "Price predictions",
+				"slug": "/predictions",
+				"soon": false,
+				"target": false
+			},
+			{
+				"title": "Dual currency interest accounts ",
+				"slug": "/dual-currency-interest-account",
+				"soon": false,
+				"target": false
+			},
+			{
+				"title": "Earn marketplace",
+				"slug": "https://marketplace.choise.com",
+				"soon": false,
+				"target": true
+			}
+		]
+	},
+	{
+		"title": "Charism",
+		"header_link": "https://defi.choise.com/",
+		"target": true,
+		"image": "/pic/main-new/ecosystem-2.png",
+		"width": 527,
+		"height": 386,
+		"top": [
+			{
+				"title": "Earn",
+				"slug": "https://defi.choise.com/earn",
+				"soon": false,
+				"target": true
+			},
+			{
+				"title": "Bridge",
+				"slug": "https://defi.choise.com/bridge",
+				"soon": false,
+				"target": true
+			},
+			{
+				"title": "Swap",
+				"slug": "https://defi.choise.com/swap",
+				"soon": false,
+				"target": true
+			},
+			{
+				"title": "Web 3.0 interest accounts",
+				"slug": "/earn",
+				"soon": false,
+				"target": false
+			}
+		],
+		"bottom": [
+			{
+				"title": "DAO",
+				"slug": "/dao",
+				"soon": false,
+				"target": false
+			},
+			{
+				"title": "Staking",
+				"slug": "#",
+				"soon": true,
+				"target": false
+			}
+		]
+	}
+]

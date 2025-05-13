@@ -1,0 +1,108 @@
+{
+	"seo": {
+		"title": "Billetera para criptomonedas: en línea (escritorio) o descarga la aplicación (Android/iOS)",
+		"description": "Choise.com es una potente billetera multifuncional compatible con dispositivos móviles y de escritorio. Con una funcionalidad generosa inigualable, esta práctica aplicación te permite comprar, comerciar, almacenar, retirar dinero en efectivo, gastar, enviar e invertir tus activos digitales desde un único panel de control."
+	},
+	"main": {
+		"title": "billetera multi cripto definitiva",
+		"description": "Choise.com es una potente billetera multifuncional compatible con dispositivos móviles y de escritorio. Con una funcionalidad generosa inigualable, esta práctica aplicación te permite comprar, comerciar, almacenar, retirar dinero en efectivo, gastar, enviar e invertir tus activos digitales desde un único panel de control."
+	},
+	"cards": {
+		"head_title": "acerca de la billetera multi cripto definitiva",
+		"array": [
+			{
+				"title": "comprar",
+				"description": "compra criptomonedas al instante y de forma gratuita con cualquier tarjeta bancaria",
+				"slug": "/wallet/buy",
+				"image": "/pic/wallet/buy.png",
+				"width": 171,
+				"height": 173
+			},
+			{
+				"title": "enviar",
+				"description": "envía dinero alrededor del mundo de forma gratuita con solo un número de teléfono",
+				"slug": "/wallet/send",
+				"image": "/pic/wallet/send.png",
+				"width": 229,
+				"height": 216
+			},
+			{
+				"title": "intercambiar",
+				"description": "intercambia más de 200 pares de criptomonedas con el sistema de emparejamiento basado en inteligencia artificial",
+				"slug": "/wallet/exchange",
+				"image": "/pic/wallet/exchange.png",
+				"width": 186,
+				"height": 189
+			},
+			{
+				"title": "gastar",
+				"description": "paga con una tarjeta Visa global",
+				"slug": "/wallet/spend",
+				"image": "/pic/wallet/spend.png",
+				"width": 185,
+				"height": 200
+			},
+			{
+				"title": "retirar dinero en efectivo",
+				"description": "retira criptomonedas al instante a tu tarjeta Mastercard y Visa",
+				"slug": "/wallet/cashout",
+				"image": "/pic/wallet/cash-out.png",
+				"width": 203,
+				"height": 206
+			}
+		]
+	},
+	"simple_step": {
+		"title": "comienza en 3 sencillos pasos",
+		"description": "solo lleva unos minutos",
+		"array": [
+			{
+				"title": "descarga choise.com",
+				"icon": "/pic/wallet/simple-steps-1.png",
+				"width": 186,
+				"height": 192,
+				"link": true
+			},
+			{
+				"title": "crea una nueva billetera",
+				"icon": "/pic/wallet/simple-steps-2.png",
+				"width": 190,
+				"height": 202
+			},
+			{
+				"title": "obtén algo de cripto",
+				"icon": "/pic/wallet/simple-steps-3.png",
+				"width": 187,
+				"height": 185
+			}
+		]
+	},
+	"card_benefits": {
+		"array": [
+			{
+				"image": "/pic/wallet/digital-assets-1.png",
+				"width": 97,
+				"height": 95,
+				"description": "Tus fondos están asegurados"
+			},
+			{
+				"image": "/pic/wallet/digital-assets-2.png",
+				"width": 98,
+				"height": 93,
+				"description": "Obtén una billetera en 30 segundos con acceso a más de 30 criptomonedas"
+			},
+			{
+				"image": "/pic/wallet/digital-assets-3.png",
+				"width": 91,
+				"height": 97,
+				"description": "Servicio disponible en más de 170 países y en constante expansión"
+			},
+			{
+				"image": "/pic/wallet/digital-assets-4.png",
+				"width": 121,
+				"height": 91,
+				"description": "Envía dinero de forma gratuita alrededor del mundo"
+			}
+		]
+	}
+}

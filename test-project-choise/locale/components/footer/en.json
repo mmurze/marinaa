@@ -1,0 +1,61 @@
+{
+	"title": "subscribe to our news",
+	"button_name": "Subscribe",
+	"form_description": "Subscribe to our notifications (for privacy reasons, please, use different email than those you used to register)",
+	"placeholder": "Enter your email",
+	"container_text": {
+		"text": "The Choise website and Choise mobile apps are owned by the company incorporated in the Republic of Seychelles with company number IBC No. 233581, registered office at 102, Aarti Chambers, Mont Fleuri, Victoria, Mahe, Seychelles which is regulated by the laws of that country. Crypterium AS is incorporated in Estonia with company number 14352837 with a registered office at 5 A. Lauteri, Tallinn, 10114. Crypterium AS has been granted license <b>FVT000161</b> for providing a virtual currency service and <b>FFA000236</b> for operating as a financial institution. Charism LLC is incorporated in St. Vincent and Grenadines with company number 1999 LLC 2022, registered office at Suite 336, Beachmont Business Centre, Kingstown, registration number 1999 LLC 2022. Charism LLC is a limited liability company created and existing under the laws of Saint Vincent and Grenadines. Crypterium AS is not a bank. Your Crypterium Visa prepaid card is issued by UAB Waletto (registration number 304686884) pursuant to license by Visa. UAB Waletto is authorized by the Bank of Lithuania to conduct electronic money service activities under the Law on Electronic Money and Electronic Money institutions (license number 33). Crypterium AS is the Card Programme Manager. Digital currency values are not static and fluctuate due to market changes. Not all products and services are available in all geographic areas and are subject to applicable terms and conditions. Eligibility for particular products and services is subject to final determination by Сhoise. Rates for Choise products are subject to change."
+	},
+	"documents": {
+		"left": [
+			{
+				"name": "NFT smart contract"
+			},
+			{
+				"name": "Documentation"
+			},
+			{
+				"name": "Reglaments"
+			}
+		],
+		"right": [
+			{
+				"slug": "/pic/footer/visa.svg",
+				"alt": "visa"
+			},
+			{
+				"slug": "/pic/footer/master.svg",
+				"alt": "master"
+			}
+		]
+	},
+	"links": {
+		"left": [
+			{
+				"name": "Telegram"
+			},
+			{
+				"name": "Discord"
+			},
+			{
+				"name": "Twitter"
+			},
+			{
+				"name": "Medium"
+			}
+		],
+		"right": [
+			{
+				"slug": "/pic/icon_app_store.svg",
+				"alt": "app_store",
+				"name": "App Store"
+			},
+			{
+				"slug": "/pic/icon_play_market.svg",
+				"alt": "play_market",
+				"name": "Google Play"
+			}
+		]
+	},
+	"open_button": "Open a free wallet"
+}

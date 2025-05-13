@@ -1,0 +1,71 @@
+{
+	"seo": {
+		"title": "$40k CHO Airdrop",
+		"description": "$40 000 en CHO está en juego ahora, mientras celebramos el CHO TGE y su inclusión en Raydium con un gran Airdrop"
+	},
+	"main": {
+		"title": "$40k CHO Airdrop",
+		"description": "conoce choise.com en Raydium",
+		"arrow_description": "$40 000 en CHO está en juego ahora, mientras celebramos el CHO TGE y su inclusión en Raydium con un gran Airdrop",
+		"link_a": "Ir a Raydium",
+		"link_a_1": "Leer",
+		"text_1": "o ",
+		"link_a_2": "ver",
+		"text_2": "cómo operar"
+	},
+	"manual": {
+		"title": "cómo operar en Raydium",
+		"item_1_title_1": "Operar aquí:",
+		"item_1_links": "añade el token CHO si no ves el par CHO/USDT:",
+		"item_1_title_2": "Id de mercado:",
+		"item_1_description_2_1": "No te preocupes si ves ",
+		"item_1_span": "Advertencia: token desconocido",
+		"item_1_description_2_2": ", simplemente sigue añadiendo la 'Etiqueta de mercado' y la 'Etiqueta base' para añadir el token CHO",
+		"item_1_title_3": "Etiqueta de mercado:",
+		"item_1_title_4": "Etiqueta base:",
+		"item_2_title_1": "¿Todavía no puedes encontrar el token?",
+		"item_2_information_1": "Sigue las instrucciones:",
+		"item_2_link_a": "Cómo operar",
+		"item_2_pair": "Par de operaciones: ",
+		"item_2_span": "CHO/USDT",
+		"item_2_title_2": "¿Prefieres hacer un intercambio en lugar de operar?",
+		"item_2_information_2": "Intercambia CHO en Raydium:",
+		"item_3_title_1": "Dirección del contrato de CHO en la blockchain de Solana:",
+		"item_3_title_2": "Dirección de acuñación",
+		"item_3_description_1": "Nombre de un token: ",
+		"item_3_span_1": "CHO",
+		"item_3_description_2": "Par: ",
+		"item_3_span_2": "CHO/USDT"
+	},
+	"prize": {
+		"description_1": "realiza cualquier transacción con CHO entre",
+		"title_span": "7 de junio y 21 de junio",
+		"description_2": "en Raydium y comparte",
+		"description_3": "más de $40 000 en premios"
+	},
+	"banner": {
+		"title": "choise.com - la primera plataforma MetaFi del mundo",
+		"description": "hemos combinado todos los beneficios de los servicios CeFi y DeFi y estamos lanzando un gran Airdrop para celebrar el Evento de Generación de Tokens CHO y su inclusión en el intercambio Raydium"
+	},
+	"form": {
+		"title_success": "¡estás dentro!",
+		"description_success": "Comienza a operar con CHO en Raydium. ¡Comparte el fondo de premios del Airdrop!",
+		"link_a_success_1": "Comenzar a operar",
+		"link_a_success_2": "Cómo operar con CHO en Raydium",
+		"title": "rellena el formulario para confirmar tu participación:",
+		"title_button": "Estoy dentro",
+		"link_a_1": "Términos de participación",
+		"trade_link": "¿Ya participas? ",
+		"link_a_2": "Comenzar a operar",
+		"link_a_3": "Cómo operar con CHO en Raydium"
+	},
+	"tryLuck": {
+		"description": "100 000 CHO se distribuirán entre 1000 monederos al azar entre ",
+		"title_span": "7 de junio y 21 de junio",
+		"slogan": "Es tu elección ganar maaaas",
+		"description_img": "100k tokens CHO para 1000 ganadores ",
+		"title_span_img": "prueba tu suerte",
+		"link": "Únete y gana",
+		"link_a": "Consulta los términos"
+	}
+}

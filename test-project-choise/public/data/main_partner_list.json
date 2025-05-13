@@ -1,0 +1,54 @@
+{
+	"left": [
+		{
+			"slug": "/pic/main/mainList/avalance.svg",
+			"alt": "avalance"
+		},
+		{
+			"slug": "/pic/main/mainList/arenum.svg",
+			"alt": "arenum"
+		},
+		{
+			"slug": "/pic/main/mainList/popcorncap.svg",
+			"alt": "popcorncap"
+		},
+		{
+			"slug": "/pic/main/mainList/oggzima.svg",
+			"alt": "oggzima"
+		},
+		{
+			"slug": "/pic/main/mainList/solarazr.svg",
+			"alt": "solarazr"
+		},
+		{
+			"slug": "/pic/main/mainList/bitbns.svg",
+			"alt": "bitbns"
+		}
+	],
+	"right": [
+		{
+			"slug": "/pic/main/mainList/hs3.svg",
+			"alt": "hs3"
+		},
+		{
+			"slug": "/pic/main/mainList/meta.svg",
+			"alt": "meta"
+		},
+		{
+			"slug": "/pic/main/mainList/magellan.svg",
+			"alt": "magellan"
+		},
+		{
+			"slug": "/pic/main/mainList/oar.svg",
+			"alt": "oar"
+		},
+		{
+			"slug": "/pic/main/mainList/trueblock.svg",
+			"alt": "trueblock"
+		}
+	],
+	"money": 	{
+		"slug": "/pic/main/mainList/money.svg",
+		"alt": "money"
+	}
+}

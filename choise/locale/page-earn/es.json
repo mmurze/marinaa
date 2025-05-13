@@ -1,0 +1,92 @@
+{
+	"seo": {
+		"title": "Cuentas de interés web 3.0 de hasta un 10.7% APY",
+		"description": "Una oferta revolucionaria. Apueste USDT, USDC en la plataforma DeFi de Choise.com y obtenga un rendimiento aumentado."
+	},
+	"array": [
+		{
+			"title": "¿En qué monedas puedo abrir una cuenta de interés?",
+			"description": "<p>USDT/USDC</p>"
+		},
+		{
+			"title": "¿Cuáles son los montos mínimos y máximos de depósito?",
+			"description": "<p>El monto mínimo de depósito es de $200 (equivalente en USDT/USDC). No hay un monto máximo.</p>"
+		},
+		{
+			"title": "¿En qué moneda recibiré el interés?",
+			"description": "<p>El interés se calculará en la moneda del depósito.</p>"
+		},
+		{
+			"title": "¿Existe un período de bloqueo?",
+			"description": "<p>No, no hay un período de bloqueo para las monedas al final del plazo de depósito.</p>"
+		},
+		{
+			"title": "¿Cuándo se paga el interés?",
+			"description": "<p>Una vez al final del plazo de depósito.</p>"
+		}
+	],
+	"main": {
+		"title": "Cuentas de interés web 3.0 de hasta un 10.7% APY",
+		"description": "Una oferta revolucionaria. Apueste USDT, USDC en la plataforma DeFi de Choise.com y obtenga un rendimiento aumentado.",
+		"link": "Comience a ganar",
+		"calculator": {
+			"title": "Elija la moneda",
+			"amount": "Ingrese el monto",
+			"duration_title": "Elija la duración",
+			"months": "meses",
+			"earn_title": "Usted ganará",
+			"APY": "APY",
+			"earn": "Gane"
+		}
+	},
+	"account_list": {
+		"array": [
+			{
+				"image": "/pic/earn/earn-list-1.png",
+				"description": "Rendimiento aumentado -<br/>hasta un <strong>10.7% APY</strong>"
+			},
+			{
+				"image": "/pic/earn/earn-list-2.png",
+				"description": "Reciba los ingresos"
+			},
+			{
+				"image": "/pic/earn/earn-list-3.png",
+				"description": "Disfrute de la libertad para depositar y retirar en cualquier momento"
+			},
+			{
+				"image": "/pic/earn/earn-list-4.png",
+				"description": "Cuentas de interés disponibles en USDT y USDC"
+			}
+		]
+	},
+	"choose_coin": {
+		"months": "meses",
+		"APY": "APY",
+		"title": "elija su moneda",
+		"deposit": "Depositar ahora"
+	},
+	"simple_steps": {
+		"title": "comience en 3 simples pasos",
+		"description": "Solo toma unos minutos",
+		"link": "Abra una cuenta de interés",
+		"array": [
+			{
+				"title": "registrarse",
+				"description": "Vaya a <a href='https://defi.choise.com/earn' target='_blank' rel='noreferrer'>defi.choise.com/earn</a> y elija el tipo de cuenta de interés",
+				"image": "/pic/earn/earn-step-1.png"
+			},
+			{
+				"title": "depositar",
+				"description": "Ingrese la cantidad que está dispuesto a depositar y el período",
+				"image": "/pic/earn/earn-step-2.png"
+			},
+			{
+				"title": "ganar",
+				"description": "Abra su cuenta de interés",
+				"image": "/pic/earn/earn-step-3.png"
+			}
+		]
+	},
+	"digital_assets": {
+	}
+}

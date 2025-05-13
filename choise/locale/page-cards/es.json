@@ -1,0 +1,90 @@
+{
+	"seo": {
+		"title": "tarjeta crypterium",
+		"description": "¿Obtener una tarjeta en solo minutos? ¡Sí! Solicita una tarjeta virtual Crypterium y experimenta la emisión de tarjetas más rápida. Recárgala directamente desde tu billetera, conéctala a Apple Pay y prepárate para pagar en cualquier lugar, en cualquier momento."
+	},
+	"main":{
+		"title": "tarjeta crypterium",
+		"description": "¿Obtener una tarjeta en solo minutos? ¡Sí! Solicita una tarjeta virtual Crypterium y experimenta la emisión de tarjetas más rápida. Recárgala directamente desde tu billetera, conéctala a Apple Pay y prepárate para pagar en cualquier lugar, en cualquier momento.",
+		"wallet_deep_link": "Ordenar ahora"
+	},
+	"lists": {
+		"list":[
+			{
+				"image": "/pic/cards/card-list-1.png",
+				"title": "Obtén una tarjeta virtual gratuita en solo minutos, no días"
+			},
+			{
+				"image": "/pic/cards/card-list-2.png",
+				"title": "Recárgala con BTC, LTC, ETH y muchos otros activos"
+			},
+			{
+				"image": "/pic/cards/card-list-3.png",
+				"title": "Retira efectivo de cajeros automáticos en más de 200 países"
+			},
+			{
+				"image": "/pic/cards/card-list-4.png",
+				"title": "Compra en línea y fuera de línea en más de 42 millones de comercios"
+			}
+		]
+	},
+	"benefits": {
+		"description_1": "tarjetas emitidas y contando...",
+		"description_2": "transacciones procesadas mensualmente",
+		"description_3": "países europeos disponibles para pedido"
+	},
+	"plasticCard": {
+		"title": "tarjeta de plástico crypterium",
+		"list":[
+			{
+				"title": "gasto sin preocupaciones",
+				"description": "Desliza, toca o inserta el chip: paga con la tarjeta Crypterium en más de 42 millones de comercios físicos y en línea en todo el mundo. Gasta hasta €5,000/mes"
+			},
+			{
+				"title": "retiros instantáneos",
+				"description": "Convertir tus activos digitales en efectivo ahora es más fácil y rápido que nunca. Retira hasta €2,500/mes de cajeros automáticos compatibles con Visa"
+			},
+			{
+				"title": "tarjeta gratuita y tarifas mínimas",
+				"description": "La tarjeta Crypterium es gratuita, con envío exprés desde €14.99. ¿Podría ser mejor? Sí, carga €299 cada mes y no pagues mantenimiento mensual (€2.99/mes)"
+			}
+		]
+	},
+	"banner": {
+		"title_1": "tarjeta virtual crypterium",
+		"description_1":"Tu tarjeta virtual Crypterium se trata de ahorrarte tiempo. Envía tu solicitud y obtén tus detalles en menos de 20 minutos. Menos espera, ¡más diversión!",
+		"title_2": "obténla instantáneamente y de forma gratuita",
+		"description_2":"Al igual que la tarjeta Crypterium de plástico, la emisión corre por nuestra cuenta. Si tienes tanto una tarjeta de plástico como una virtual, solo pagarás una tarifa única de €2.99/mes."
+	},
+	"safe": {
+		"title": "mantente digital, mantente seguro",
+		"description_1":"3D Secure es una capa de seguridad adicional para todas tus transacciones en línea. Una forma simple pero efectiva de protegerte contra los \"oops\"",
+		"description_2":"Con un código SMS y una verificación de frase secreta, tus fondos siempre están seguros. ¿Quieres más? Bloquea tu tarjeta directamente desde tu billetera"
+	},
+	"diego": {
+		"title": "conoce a diego",
+		"description":"Unas semanas después de lanzar el servicio de tarjetas Crypterium, le pedimos a algunos de nuestros clientes que compartieran su experiencia con esta solución de pago para activos digitales. Hoy, comenzamos una breve serie de historias comunitarias con Diego, un desarrollador de 27 años de Barcelona",
+		"link": "Lee la historia de Diego"
+	},
+	"steps": {
+		"title": "pasos sencillos para obtener tu tarjeta",
+		"list":[
+			{
+				"content": "Crea tu billetera"
+			},
+			{
+				"content": "Selecciona tu tipo de tarjeta preferido"
+			},
+			{
+				"content": "Completa tus detalles y paga por el envío",
+				"description": "solo para la versión de plástico"
+			},
+			{
+				"content": "Verifica tu identidad y apruébate en minutos"
+			},
+			{
+				"content": "¡Activa tu tarjeta y ve de compras!"
+			}
+		]
+	}
+}

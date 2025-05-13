@@ -1,0 +1,388 @@
+{
+	"seo": {
+		"title": "la forma más fácil y segura de comprar y ganar criptomonedas",
+		"description": "Casi un millón de usuarios aprovechan Choise.com para comprar criptomonedas, ganar intereses en sus tenencias o aumentar sus ingresos con productos de ganancia atractivos y máxima seguridad."
+	},
+	"main_block": {
+		"label": "Tu cripto, tu elección",
+		"title": "compra y gana<br/>cripto: seguro y fácil",
+		"description": "Choise.com es una plataforma de criptomonedas que combina soluciones CeFi y DeFi. Te brindamos lo mejor de ambos mundos: compra y intercambio de criptomonedas sin problemas, cuentas de interés, ingresos pasivos en tus tenencias, acceso a pools de liquidez y una multitud de otras herramientas de ganancia. <br/><br/><b>Obtén rendimiento de tu dinero simplemente poseyendo criptomonedas.</b>",
+		"link_name": "Comienza a ganar"
+	},
+	"main_tabs_information": {
+		"tabs_array": ["Ganar", "Comprar", "Intercambiar", "Asegurar", "Predecir", "Tarjeta", "CHO"],
+		"step_earn": {
+			"array": [
+				{
+					"percent": 10,
+					"apy": "1 año",
+					"income_label": "Flexible",
+					"income": "USDT · USDC · DAI · BUSD",
+					"slug": "/interest-accounts"
+				},
+				{
+					"percent": 5.4,
+					"apy": "2 años",
+					"income_label": "Fijo",
+					"income": "BTC",
+					"slug": "/interest-accounts"
+				},
+				{
+					"percent": 13.5,
+					"apy": "2 años",
+					"income_label": "Fijo",
+					"income": "CHO",
+					"slug": "/interest-accounts"
+				},
+				{
+					"percent": 12,
+					"apy": "2 años",
+					"income_label": "Fijo",
+					"income": "USDT · USDC · DAI · BUSD",
+					"slug": "/interest-accounts"
+				}
+			],
+			"block_link": "Comienza a ganar",
+			"title": "tu elección para ganar más",
+			"descriptions": [
+				"Choise.com ofrece una variedad de productos diseñados para ayudar a los usuarios a ganar más en el mundo de las criptomonedas. Nuestra plataforma ha sido construida teniendo en cuenta la facilidad de uso y la seguridad, lo que la convierte en una opción segura y sencilla para cualquiera que desee aumentar sus ganancias con criptomonedas.",
+				"Hemos seleccionado cuidadosamente una variedad de productos confiables entre los que los usuarios pueden elegir, cada uno diseñado para ayudarles a maximizar sus ganancias y aprovechar las últimas oportunidades del mercado."
+			],
+			"earn_link_block": "Comienza a ganar",
+			"percent_block": "APY en",
+			"invest_link_button": "Invierte"
+		},
+		"step_buy": {
+			"title": "tu elección para comprar cripto de forma más económica",
+			"description": "Compra criptomonedas en línea con dinero fiduciario. Obtén más información sobre las tarifas en las compras de cripto a dinero fiduciario y disfruta de cero tarifas en la primera compra.",
+			"array": ["1ra compra sin tarifas", "Instantáneo"],
+			"link_buy": "Compra cripto sin tarifas"
+		},
+		"step_exchange": {
+			"title": "tu elección para intercambiar cripto con tarifas bajas",
+			"description": "Intercambia tus activos digitales por dinero fiduciario u cualquier otra criptomoneda a tasas atractivas en cualquier momento. Choise.com admite más de 35 de las criptomonedas más populares y nuevas monedas emergentes. Elige la que más te guste.",
+			"array": ["35 tokens", "Intercambio instantáneo", "Tarifas competitivas"],
+			"link_exchange": "Intercambia ahora"
+		},
+		"step_insure": {
+			"title": "tu elección para fijar el precio de tus activos",
+			"description": "Fija un precio mínimo garantizado al comprar BTC o ETH por un período de tiempo seleccionado. Y Choise.com cubrirá las pérdidas en caso de que el precio de mercado sea menor que el precio de seguro al vencimiento.",
+			"link_insure": "Asegura tus criptomonedas"
+		},
+		"step_predict": {
+			"title": "tu elección para predecir precios con una precisión del 80%+",
+			"description": "Aumenta tus posibilidades con predicciones diarias de precios basadas en inteligencia artificial. Identifica oportunidades atractivas para más de 150 criptomonedas con una precisión de más del 80%.",
+			"array": ["150 tokens", "Sistema de 3 módulos"],
+			"link_predict": "Predice ahora",
+			"coin_heading": "Ethereum",
+			"profit_heading": "<span>Ganancia Total Anual</span>"
+		},
+		"step_card": {
+			"title": "tu elección para obtener una tarjeta con las mejores características",
+			"description": "Solicita una tarjeta física o virtual y convierte tus activos digitales en efectivo de forma más fácil y rápida que nunca. Recárgala directamente desde tu monedero, conéctala a ApplePay y paga en cualquier lugar y en cualquier momento.",
+			"link_description": "<span className=\"soon\">Próximamente</span>",
+			"link_card": "Obtén la tarjeta"
+		},
+		"step_cho": {
+			"title": "tu elección para obtener el interés más alto en CHO",
+			"description": "Compra CHO para ganar simplemente por tener uno de los tokens más atractivos que se mueve en dirección contraria al mercado en la actual cripto invernal, o abre una cuenta de interés en CHO para recibir un APY aumentado.",
+			"link_cho": "Compra CHO"
+		}
+	},
+	"main_user_earned": {
+		"title": "casi 1 millón de usuarios activos",
+		"array": [
+			{
+				"coin": "USDC",
+				"coin_icon": "/pic/earn-users-icon//usdc.svg",
+				"apy": 16.8,
+				"value": 471215,
+				"earned_date": "3 meses",
+				"list": [
+					{
+						"title": "Mark Pitman",
+						"date": "19.10.2021",
+						"description": "Gran producto que realmente permite ganar más. ¡Nunca he visto un APY más alto en el mercado!",
+						"image": "/pic/earn-users-icon/earn-user-1-1.jpg"
+					},
+					{
+						"title": "Eric Rid",
+						"date": "20.12.2021",
+						"description": "Muy buen producto. Continúen así. Comencé a investigar el universo de las criptomonedas con ustedes hace 4 años. Siempre he creído que son un equipo capaz.",
+						"image": "/pic/earn-users-icon/earn-user-1-2.jpg"
+					},
+					{
+						"title": "Kate Stateman",
+						"date": "10.12.2020",
+						"description": "Lo que más me gustó fue la simplicidad para acceder a cualquier producto. Todas sus funciones están bien explicadas y se muestran en una única interfaz. Fácil de usar, fácil de ganar.",
+						"image": "/pic/earn-users-icon/earn-user-1-3.jpg"
+					},
+					{
+						"title": "Daniil Bron",
+						"date": "11.12.2020",
+						"description": "¡Increíble tasa de interés! Nunca había sido tan fácil obtener ingresos pasivos.",
+						"image": "/pic/earn-users-icon/earn-user-1-4.jpg"
+					}
+				]
+			},
+			{
+				"coin": "CRPT",
+				"coin_icon": "/pic/earn-users-icon//crpt.svg",
+				"apy": 21,
+				"value": 1479243,
+				"earned_date": "12 meses",
+				"list": [
+					{
+						"title": "Dan",
+						"date": "19.03.2021",
+						"description": "Hasta ahora, todo bien. Fácil de cargar dinero y comprar cripto. La verificación de identidad fue rápida y sencilla. También se abrió una cuenta de ahorro con una tasa impresionante.",
+						"image": "/pic/earn-users-icon/earn-user-2-1.jpg"
+					},
+					{
+						"title": "Umesh Jashnani",
+						"date": "24.02.2021",
+						"description": "Gran experiencia, fácil compra y sin complicaciones. Buena idea de ganar a través de cripto y excelente tasa de interés.",
+						"image": "/pic/earn-users-icon/earn-user-2-2.jpg"
+					},
+					{
+						"title": "Karen State",
+						"date": "09.07.2021",
+						"description": "Funciona bien para compras de cripto y transferencias de criptomonedas a otras carteras. Transacciones muy rápidas y la cuenta de ahorros fija tiene una alta tasa de interés.",
+						"image": "/pic/earn-users-icon/earn-user-2-3.jpg"
+					},
+					{
+						"title": "Man Leonardo",
+						"date": "15.02.2021",
+						"description": "Creo que esta es la mejor aplicación para almacenar CRPT. Estoy acumulando CRPT con una tasa alta, lo cual agrega valor.",
+						"image": "/pic/earn-users-icon/earn-user-2-4.jpg"
+					},
+					{
+						"title": "Anastasia",
+						"date": "27.04.2021",
+						"description": "Experiencia fantástica. Disfruto de comprar CRPT y luego tener una tasa introductoria del 21% por mantenerlo.",
+						"image": "/pic/earn-users-icon/earn-user-2-5.jpg"
+					}
+				]
+			},
+			{
+				"coin": "USDT",
+				"coin_icon": "/pic/earn-users-icon//usdt.svg",
+				"apy": 15,
+				"value": 195325,
+				"earned_date": "1 mes",
+				"list": [
+					{
+						"title": "Enrique Palicero",
+						"date": "01.07.2022",
+						"description": "En mi opinión, la combinación de una tasa alta y un producto fácil de comenzar son las mejores características. Me gusta el historial de transacciones en la aplicación, muy detallado, muy bueno.",
+						"image": "/pic/earn-users-icon/earn-user-3-1.jpg"
+					},
+					{
+						"title": "Miller",
+						"date": "01.12.2019",
+						"description": "Si aún dudas sobre abrir una cuenta de interés o no, te diría que la abras. Todo está claro y no hay nada superfluo.",
+						"image": "/pic/earn-users-icon/earn-user-3-2.jpg"
+					},
+					{
+						"title": "Frank Berger",
+						"date": "01.08.2021",
+						"description": "Lo que más me gustó es que puedo ver los cambios en el valor de mis activos en tiempo real. Cómodo para usar, fácil de ganar.",
+						"image": "/pic/earn-users-icon/earn-user-3-3.jpg"
+					},
+					{
+						"title": "Nataly",
+						"date": "01.11.2020",
+						"description": "Fácil acceso con explicaciones adecuadas y una calculadora conveniente. Todo se proporciona a las personas de manera ordenada y conveniente, además de tener una alta seguridad.",
+						"image": "/pic/earn-users-icon/earn-user-3-4.jpg"
+					}
+				]
+			},
+			{
+				"coin": "USDT",
+				"coin_icon": "/pic/earn-users-icon//usdt.svg",
+				"apy": 15,
+				"value": 191419,
+				"earned_date": "3 meses",
+				"list": [
+					{
+						"title": "Franky",
+						"date": "19.07.2022",
+						"description": "Una de las mejores soluciones para proteger tus riesgos en el volátil mercado de criptomonedas. Comencé con la cantidad mínima y ahora tengo tres cuentas de interés con diferentes condiciones en Choise.com",
+						"image": "/pic/earn-users-icon/earn-user-4-2.jpg"
+					},
+					{
+						"title": "Igor Faranda",
+						"date": "03.06.2022",
+						"description": "No esperes a la señal, comienza a ganar ahora mismo. Estaba atrapado en el invierno cripto como hodler, pero encontré mi camino con las cuentas de interés.",
+						"image": "/pic/earn-users-icon/earn-user-4-4.jpg"
+					}
+				]
+			}
+		],
+		"link": "¿Cómo puedo ganar?"
+	},
+	"main_benefits": {
+		"array": [
+			{
+				"value": "1 000 000",
+				"description": "usuarios registrados"
+			},
+			{
+				"value": "1B+",
+				"description": "volumen de transacciones"
+			},
+			{
+				"value": "160+",
+				"description": "miembros del equipo"
+			},
+			{
+				"value": "$1B+",
+				"description": "capitalización de mercado diluida"
+			}
+		],
+		"descriptions": ["6 años de éxito", "Hemos estado desarrollando nuestro ecosistema desde abril de 2017 para brindarte productos confiables y únicos con el objetivo de simplificar tu camino en el mundo de las criptomonedas."],
+		"heading_description": "choise.com es la empresa líder con usuarios que disfrutan de soluciones de ganancia y pagos en <span>más de 170 países</span>"
+	},
+	"main_security": {
+		"title": "seguridad de última generación",
+		"descriptions": ["Nos comprometemos a brindar a nuestros usuarios los más altos niveles de seguridad y protección.", "Nuestro sistema de seguridad de 3 capas y nuestro protocolo antifraude proporcionan una sólida línea de defensa contra el acceso no autorizado y el fraude; nuestra amplia red de proveedores de seguros, incluidos BitGo y Ledger Vault, ofrece una capa adicional de protección."]
+	},
+	"main_markets": {
+		"title_1": "mercados de cho",
+		"title_2": "mercados de crpt"
+	},
+	"main_community": {
+		"title": "únete a nuestra comunidad"
+	},
+	"main_ecosystem": {
+		"title": "ecosistema choise.com",
+		"array": [
+			{
+				"title": "Monedero",
+				"header_link": "/wallet",
+				"target": false,
+				"image": "/pic/main-new/ecosystem-1.png",
+				"width": 321,
+				"height": 173,
+				"top": [
+					{
+						"title": "Comprar cripto",
+						"slug": "/wallet/buy",
+						"soon": false,
+						"target": false
+					},
+					{
+						"title": "Intercambio",
+						"slug": "/wallet/exchange",
+						"soon": false,
+						"target": false
+					},
+					{
+						"title": "Enviar",
+						"slug": "/wallet/send",
+						"soon": false,
+						"target": false
+					},
+					{
+						"title": "Gastar",
+						"slug": "/wallet/spend",
+						"soon": false,
+						"target": false
+					},
+					{
+						"title": "Retirar efectivo",
+						"slug": "/wallet/cashout",
+						"soon": false,
+						"target": false
+					}
+				],
+				"bottom": [
+					{
+						"title": "Tarjetas",
+						"slug": "/cards",
+						"soon": false,
+						"target": false
+					},
+					{
+						"title": "Seguro de precio de cripto",
+						"slug": "/price-insurance",
+						"soon": false,
+						"target": false
+					},
+					{
+						"title": "Cuentas de interés",
+						"slug": "/interest-accounts",
+						"soon": false,
+						"target": false
+					},
+					{
+						"title": "Predicciones de precios",
+						"slug": "/predictions",
+						"soon": false,
+						"target": false
+					},
+					{
+						"title": "Cuentas de interés en moneda dual",
+						"slug": "/dual-currency-interest-account",
+						"soon": false,
+						"target": false
+					},
+					{
+						"title": "Mercado de ganancias",
+						"slug": "https://marketplace.choise.com",
+						"soon": false,
+						"target": true
+					}
+				]
+			},
+			{
+				"title": "Charism",
+				"header_link": "https://defi.choise.com/",
+				"target": true,
+				"image": "/pic/main-new/ecosystem-2.png",
+				"width": 527,
+				"height": 386,
+				"top": [
+					{
+						"title": "Ganar",
+						"slug": "https://defi.choise.com/earn",
+						"soon": false,
+						"target": true
+					},
+					{
+						"title": "Bridge",
+						"slug": "https://defi.choise.com/bridge",
+						"soon": false,
+						"target": true
+					},
+					{
+						"title": "Intercambio",
+						"slug": "https://defi.choise.com/swap",
+						"soon": false,
+						"target": true
+					},
+					{
+						"title": "Cuentas de interés Web 3.0",
+						"slug": "/earn",
+						"soon": false,
+						"target": false
+					}
+				],
+				"bottom": [
+					{
+						"title": "DAO",
+						"slug": "/dao",
+						"soon": false,
+						"target": false
+					},
+					{
+						"title": "Staking",
+						"slug": "#",
+						"soon": true,
+						"target": false
+					}
+				]
+			}
+		]
+	}
+}

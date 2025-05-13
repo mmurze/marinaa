@@ -1,0 +1,11 @@
+{
+	"seo": {
+		"title": "page not found",
+		"description": "the page you are looking for doesn`t exist or has been moved"
+	},
+	"main": {
+		"title": "page not found",
+		"description": "the page you are looking for doesn`t exist or has been moved.",
+		"link": "back to home"
+	}
+}

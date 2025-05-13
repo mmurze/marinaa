@@ -1,0 +1,36 @@
+[
+	{
+		"image": "/pic/wallet/wallet-cashout-description-1.jpg",
+		"alt": "fastest way to cashout crypto"
+	},
+	{
+		"title": "fastest way to cashout crypto",
+		"description": "Access your money in seconds by cashing-out your cryptocurrencies to any of your cards. Instant delivery is guaranteed   "
+	},
+	{
+		"title": "suprisingly affordable",
+		"description": "We include a small fee to help you cashout crypto instantly. No restrictions and limits on your next crypto withdrawal. Try now!"
+	},
+	{
+		"image": "/pic/wallet/wallet-cashout-description-2.jpg",
+		"alt": "suprisingly affordable"
+	},
+	{
+		"image": "/pic/wallet/wallet-cashout-description-3.jpg",
+		"alt": "bank transfers"
+	},
+	{
+		"title": "bank transfers",
+		"description": "You can also send your currencies to bank accounts: personal or business. We work hard to deliver this unique feature as soon as possible"
+	},
+	{
+		"title": "learn how to cashout crypto",
+		"description": "It's never too late to learn something awesome. Watch this video or read our tutorial to find out why this feature rocks!",
+		"link": "/news/tutorials/how-to-cash-out-cryptocurrency-instantly-to-your-bank-card",
+		"linkTitle": "Read the guide"
+	},
+	{
+		"youtube": "cJ_SXzDyn0E",
+		"youtubeImage": "/pic/wallet/cashout-video.jpg"
+	}
+]

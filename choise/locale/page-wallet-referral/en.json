@@ -1,0 +1,58 @@
+{
+	"seo": {
+		"title": "invite friends and earn with us",
+		"description": "Invite friends using your referral link and earn $5 + 25% of their commissions for a whole year. Meanwhile, your friends will get a $5 gift for their first transaction. Cool, isn’t it?"
+	},
+	"wallet_main_heading": {
+		"title": "invite friends and earn with us",
+		"description": "Invite friends using your referral link and earn $5 + 25% of their commissions for a whole year. Meanwhile, your friends will get a $5 gift for their first transaction. Cool, isn’t it?",
+		"linkTitle": "Invite friends"
+	},
+	"steps": {
+		"step": "Step",
+		"more": "More",
+		"array": [
+			{
+				"title": "send invites",
+				"description": "Send a $5 gift at our expense to your friends from a contact list or share your link around the web",
+				"image": "/pic/wallet/referral-peoples.jpg",
+				"width": 214,
+				"height": 160
+			},
+			{
+				"title": "receive a $5 gift",
+				"description": "When your invited friend registers an account and makes one of crypto-to-fiat transactions from the list below for at least €50 you both receive your $5 bonuses in CRPT!",
+				"image": "/pic/wallet/referral-slogans.svg"
+			},
+			{
+				"title": "earn 25% on their comissions",
+				"description": "You will receive 25% from your friend’s second and further transactions in CRPT for every new crypto-to-fiat operation (see the transactions that counts above)"
+			}
+		]
+	},
+	"banner": {
+		"title": "more than<br/>422,000 CRPT",
+		"description": "We have already given away more than 400k CRPT to our users for bringing new people to Choise.com. Keep your friends active and earn more!",
+		"link": "Get your referral link"
+	},
+	"faq_array": [
+		{
+			"title": "When will I get my rewards?",
+			"description": "<p>You will get your reward after you and your invited friends successfully verify the identity and make a crypto-to-fiat transaction (buy, cashout, top up mobile phone or Crypterium Card) worth over €50.</p>"
+		},
+		{
+			"title": "How many people can I invite?",
+			"description": "<p>There is no limit on invited friends.</p>"
+		}
+	],
+	"array": [
+		{
+			"title": "When will I get my rewards?",
+			"description": "<p>You will get your reward after you and your invited friends successfully verify the identity and make a crypto-to-fiat transaction (buy, cashout, top up mobile phone or Crypterium Card) worth over €50.</p>"
+		},
+		{
+			"title": "How many people can I invite?",
+			"description": "<p>There is no limit on invited friends.</p>"
+		}
+	]
+}

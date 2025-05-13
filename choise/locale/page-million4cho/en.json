@@ -1,0 +1,126 @@
+{
+	"seo": {
+		"title": "Publish one single tweet and win",
+		"description": "One of the biggest grand prizes on the whole crypto market. Post on Twitter what the CHO price will be on March 24, 2024 with hashtag #CHOpricePrediction and why you think so"
+	},
+	"mobile": {
+		"link": "Check tweets on <span>Twitter</span>",
+		"array": [
+			{
+				"title": "How to participate",
+				"anchor": "participate"
+			},
+			{
+				"title": "About cho token",
+				"anchor": "about"
+			},
+			{
+				"title": "Faq",
+				"anchor": "faq"
+			}
+		]
+	},
+	"header": {
+		"link": "Check tweets on <span>Twitter</span>",
+		"array": [
+			{
+				"title": "How to participate",
+				"anchor": "participate"
+			},
+			{
+				"title": "About cho token",
+				"anchor": "about"
+			},
+			{
+				"title": "Faq",
+				"anchor": "faq"
+			}
+		]
+	},
+	"main":{
+		"title": "Publish one single tweet and win"
+	},
+	"description": {
+		"title": "One of the biggest <span>grand prizes</span> on the whole crypto market",
+		"description": "post what will the cho price be on march 24, 2024 using the  <span>#choprediction</span> hashtag on twitter and don't forget to tell us why you think you'll be in the right"
+	},
+	"benefits": {
+		"title": "the 1st place gets $1,000,000, and $500,000 is divided among the other 999 winners.",
+		"label1": "for the 1st place",
+		"label2": "999 lucky participants"
+	},
+	"gleam": {
+		"title": "participate in <span>gleam</span>. increase your chances of winning",
+		"description": "If more than one participant’s prediction is correct, we will determine the winner on the back of his activity in Choise.com Gleam",
+		"link": "Increase chances"
+	},
+	"choise": {
+		"title": "by choise.com"
+	},
+	"information": {
+		"item_link": "Choise.com",
+		"item_description": " is a trusted entry point to yield products that revolutionizes the way you earn.",
+		"array":  [
+			{
+				"linkDescription": true,
+				"sub_description": "Buy, insure and hold your crypto and get up to 16% APY in stablecoins. CHO token stands at the heart of the ecosystem.",
+				"image": "/pic/million4cho/info-image-1.png",
+				"width": 1295,
+				"height": 869.5
+			},
+			{
+				"description": "CHO tokenomics<br/>is set to reward all CHO holders by providing them with attractive APY, benefits for users and partners, discounts on fees and other bonuses that will be voted for in Choise.com DAO.",
+				"image": "/pic/million4cho/info-image-2.png",
+				"width": 763,
+				"height": 1214
+			}
+		]
+	},
+	"price_exchanges": {
+		"title": "CHO price x3<br/>since the ido date",
+		"exchanges_title": "On the major exchanges",
+		"media_title": "On the major<br/>media",
+		"markets": "6 years<br/>on the market"
+	},
+	"faq": {
+		"title": "FAQ",
+		"array": [
+			{
+				"title": "How can I participate? ",
+				"description": "Just make a tweet with your price prediction for CHO token with the #CHOprediction hashtag and your opinion – will the price rise or fall and why."
+			},
+			{
+				"title": "Until what date can I make a tweet?",
+				"description": "The prediction should be published no later than January 1st, 2024. All predictions published after this date are not accepted."
+			},
+			{
+				"title": "How should the token price be written?",
+				"description": "The token price must be written with three digits after the decimal point. Example: $5,321"
+			},
+			{
+				"title": "What will happen if more than one person makes the right prediction?",
+				"description": "If more than one participant’s prediction is correct, we will determine the winner on the back of their activity in Choise.com <a href='https://gleam.io/xgvcT/publish-1-tweet-and-win-1500000-cho-price-prediction-' target='_blank' rel='noreferrer'>Gleam</a>"
+			},
+			{
+				"title": "When will the winners be announced?",
+				"description": "The list of winners will be published on the Choise.com social media on June 1st, 2024."
+			},
+			{
+				"title": "How can I receive my prize?",
+				"description": "The winning token price will be posted on the Price Prediction Festival webpage together with the form so that the winners could provide Choise.com with their contact details (phone number, Choise.com App account, Gleam nickname) and a link to the tweet with their prediction."
+			},
+			{
+				"title": "How many attempts can I make?",
+				"description": "Each person can make 1 attempt only. If someone makes two attempts, we’ll only count the first one."
+			},
+			{
+				"title": "Twitter account qualification",
+				"description": "To be qualified for the contest your Twitter account should be created no earlier than 3 months before the publication of the Price Prediction tweet and have at least 50 followers."
+			}
+		],
+		"link_title": "Make a tweet"
+	},
+	"footer": {
+		"description": "The Choise website and Choise mobile apps are owned by the company incorporated in the Republic of Seychelles with company number IBC No. 233581, registered office at 102, Aarti Chambers, Mont Fleuri, Victoria, Mahe, Seychelles which is regulated by the laws of that country. Crypterium AS is incorporated in Estonia with company number 14352837 with a registered office at 5 A. Lauteri, Tallinn, 10114. Crypterium AS has been granted license <a href=\"https://mtr.mkm.ee/juriidiline_isik/220559\" target=\"_blank\" rel=\"noreferrer\">FVT000161</a> for providing a virtual currency service and <a href=\"https://mtr.mkm.ee/juriidiline_isik/220559\" target=\"_blank\" rel=\"noreferrer\">FFA000236</a> for operating as a financial institution. Charism LLC is incorporated in St. Vincent and Grenadines with company number 1999 LLC 2022, registered office at Suite 336, Beachmont Business Centre, Kingstown, registration number 1999 LLC 2022. Charism LLC is a limited liability company created and existing under the laws of Saint Vincent and Grenadines. Crypterium AS is not a bank. Your Crypterium prepaid card is issued by UAB Walletto (registration number 304686884) pursuant to license by Visa. UAB Walletto is authorized by the Bank of Lithuania to conduct electronic money service activities under the Law on Electronic Money and Electronic Money institutions (license number 33). Crypterium AS is the Card Programme Manager. Digital currency values are not static and fluctuate due to market changes. Not all products and services are available in all geographic areas and are subject to applicable terms and conditions. Eligibility for particular products and services is subject to final determination by Сhoise. Rates for Choise products are subject to change."
+	}
+}

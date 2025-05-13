@@ -1,0 +1,108 @@
+{
+	"seo": {
+		"title": "Wallet For Crypto: Online (Desktop) Or Download App (Android/iOS)",
+		"description": "Choise.com is a powerful, all-in-one multi-coin wallet, compatible with both mobile and desktop devices. Boasting matchless generous functionality, this nifty app allows you to buy, trade, store, cash out, spend, send and invest your digital holdings from a single dashboard."
+	},
+	"main": {
+		"title": "ultimate multi crypto wallet",
+		"description": "Choise.com is a powerful, all-in-one multi-coin wallet, compatible with both mobile and desktop devices. Boasting matchless generous functionality, this nifty app allows you to buy, trade, store, cash out, spend, send and invest your digital holdings from a single dashboard."
+	},
+	"cards": {
+		"head_title": "about ultimate multi crypto wallet",
+		"array": [
+			{
+				"title": "buy",
+				"description": "purchase crypto instantly and for free with any bank card",
+				"slug": "/wallet/buy",
+				"image": "/pic/wallet/buy.png",
+				"width": 171,
+				"height": 173
+			},
+			{
+				"title": "send",
+				"description": "send money around the world for free with just a phone number",
+				"slug": "/wallet/send",
+				"image": "/pic/wallet/send.png",
+				"width": 229,
+				"height": 216
+			},
+			{
+				"title": "exchange",
+				"description": "exchange 200+ crypto pairs with the AI-based matching system",
+				"slug": "/wallet/exchange",
+				"image": "/pic/wallet/exchange.png",
+				"width": 186,
+				"height": 189
+			},
+			{
+				"title": "spend",
+				"description": "pay with a global Visa card",
+				"slug": "/wallet/spend",
+				"image": "/pic/wallet/spend.png",
+				"width": 185,
+				"height": 200
+			},
+			{
+				"title": "cash out",
+				"description": "cashout crypto instantly to your Mastercard & Visa",
+				"slug": "/wallet/cashout",
+				"image": "/pic/wallet/cash-out.png",
+				"width": 203,
+				"height": 206
+			}
+		]
+	},
+	"simple_step": {
+		"title": "get started in 3 simple steps",
+		"description": "it only takes a few minutes",
+		"array": [
+			{
+				"title": "download choise.com",
+				"icon": "/pic/wallet/simple-steps-1.png",
+				"width": 186,
+				"height": 192,
+				"link": true
+			},
+			{
+				"title": "create a new wallet",
+				"icon": "/pic/wallet/simple-steps-2.png",
+				"width": 190,
+				"height": 202
+			},
+			{
+				"title": "get some crypto",
+				"icon": "/pic/wallet/simple-steps-3.png",
+				"width": 187,
+				"height": 185
+			}
+		]
+	},
+	"card_benefits": {
+		"array": [
+			{
+				"image": "/pic/wallet/digital-assets-1.png",
+				"width": 97,
+				"height": 95,
+				"description": "Your funds are insured"
+			},
+			{
+				"image": "/pic/wallet/digital-assets-2.png",
+				"width": 98,
+				"height": 93,
+				"description": "Get a wallet in 30 secs with access to 30+ coins"
+			},
+			{
+				"image": "/pic/wallet/digital-assets-3.png",
+				"width": 91,
+				"height": 97,
+				"description": "170+ countries served and more are coming"
+			},
+			{
+				"image": "/pic/wallet/digital-assets-4.png",
+				"width": 121,
+				"height": 91,
+				"description": "Send money for free around the globe"
+			}
+		]
+	}
+}

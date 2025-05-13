@@ -1,0 +1,58 @@
+{
+	"seo": {
+		"title": "invita a amigos y gana con nosotros",
+		"description": "Invita a amigos usando tu enlace de referencia y gana $5 + el 25% de sus comisiones durante todo un año. Mientras tanto, tus amigos recibirán un regalo de $5 en su primera transacción. ¿Genial, verdad?"
+	},
+	"wallet_main_heading": {
+		"title": "invita a amigos y gana con nosotros",
+		"description": "Invita a amigos usando tu enlace de referencia y gana $5 + el 25% de sus comisiones durante todo un año. Mientras tanto, tus amigos recibirán un regalo de $5 en su primera transacción. ¿Genial, verdad?",
+		"linkTitle": "Invita a amigos"
+	},
+	"steps": {
+		"step": "Paso",
+		"more": "Más",
+		"array": [
+			{
+				"title": "envía invitaciones",
+				"description": "Envía un regalo de $5 a tus amigos a nuestra cuenta, desde una lista de contactos o comparte tu enlace por la web",
+				"image": "/pic/wallet/referral-peoples.jpg",
+				"width": 214,
+				"height": 160
+			},
+			{
+				"title": "recibe un regalo de $5",
+				"description": "Cuando tu amigo invitado registre una cuenta y realice una de las transacciones de cripto a fiat de la lista a continuación por al menos €50, ¡ambos recibirán sus bonos de $5 en CRPT!",
+				"image": "/pic/wallet/referral-slogans.svg"
+			},
+			{
+				"title": "gana el 25% de sus comisiones",
+				"description": "Recibirás el 25% de las segundas y posteriores transacciones de tus amigos en CRPT por cada nueva operación de cripto a fiat (ver las transacciones que se cuentan arriba)"
+			}
+		]
+	},
+	"banner": {
+		"title": "más de<br/>422,000 CRPT",
+		"description": "Ya hemos regalado más de 400,000 CRPT a nuestros usuarios por traer nuevas personas a Choise.com. ¡Mantén a tus amigos activos y gana más!",
+		"link": "Obtén tu enlace de referencia"
+	},
+	"faq_array": [
+		{
+			"title": "¿Cuándo recibiré mis recompensas?",
+			"description": "<p>Recibirás tu recompensa después de que tú y tus amigos invitados verifiquen exitosamente la identidad y realicen una transacción de cripto a fiat (compra, retiro de efectivo, recarga de teléfono móvil o tarjeta Crypterium) por más de €50.</p>"
+		},
+		{
+			"title": "¿Cuántas personas puedo invitar?",
+			"description": "<p>No hay límite en cuanto a amigos invitados.</p>"
+		}
+	],
+	"array": [
+		{
+			"title": "¿Cuándo recibiré mis recompensas?",
+			"description": "<p>Recibirás tu recompensa después de que tú y tus amigos invitados verifiquen exitosamente la identidad y realicen una transacción de cripto a fiat (compra, retiro de efectivo, recarga de teléfono móvil o tarjeta Crypterium) por más de €50.</p>"
+		},
+		{
+			"title": "¿Cuántas personas puedo invitar?",
+			"description": "<p>No hay límite en cuanto a amigos invitados.</p>"
+		}
+	]
+}

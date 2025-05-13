@@ -1,0 +1,38 @@
+[
+	{
+		"title": "Forbes",
+		"icon": "/pic/nft/media/forbes.svg",
+		"description": "From the top, the Central Bank “is uniquely coordinated with Chinese regulators on their stance regarding BTC,” says Andrey Diyakonov, CCO of fintech start up Crypterium. “Their proposals are all about pushing for digital ruble or a digital yuan.»",
+		"slug": "https://www.forbes.com/sites/kenrapoza/2022/02/26/russias-access-to-dollars-in-jeopardy-can-bitcoin-make-a-difference/?sh=616e4e8f70d5"
+	},
+	{
+		"title": "Be-Crypto",
+		"icon": "/pic/nft/media/be-crypto.svg",
+		"description": "Crypterium, the fast-growing digital fintech solution helping customers manage their assets with ease, has announced its largest listing in the history of the company on the world’s biggest cryptocurrency exchange, Coinbase.",
+		"slug": "https://beincrypto.com/crypterium-token-is-now-officially-listed-on-coinbase/"
+	},
+	{
+		"title": "Investing",
+		"icon": "/pic/nft/media/investing.svg",
+		"description": "British cryptocurrency services provider Crypterium is the latest crypto firm to secure registration from the United Kingdom’s Financial Conduct Authority (FCA), becoming one of few companies to have passed the registration process.",
+		"slug": "https://www.investing.com/news/cryptocurrency-news/uk-fca-grants-registration-to-crypto-startup-crypterium-2655178"
+	},
+	{
+		"title": "Coindesk",
+		"icon": "/pic/nft/media/coindesk.svg",
+		"description": "Crypto Firm Crypterium Secures FCA Registration. The registration makes sure that as Brexit measures kick in, Crypterium can continue to provide crypto wallet services to customers in the U.K.",
+		"slug": "https://www.coindesk.com/business/2021/10/25/crypto-firm-crypterium-secures-fca-registration/"
+	},
+	{
+		"title": "News BTC",
+		"icon": "/pic/nft/media/news-btc.svg",
+		"description": "Choise.com’s MetaFi ecosystem has two main tokens: CRPT and CHO. Following the recent successful IDOs of the CHO token on several platforms, Crypterium’s token has been listed on some of the biggest cryptocurrency exchange systems like Coinbase, Huobi and Crypto.com.",
+		"slug": "https://www.newsbtc.com/press-releases/crpt-shows-750-growth-after-being-listed-on-coinbase-huobi-and-crypto-com/"
+	},
+	{
+		"title": "Cointel",
+		"icon": "/pic/nft/media/cointel.svg",
+		"description": "Crypterium, the fast-growing digital fintech solution helping customers manage their assets with ease, has announced its largest listing in the history of the company on the world’s biggest cryptocurrency exchange, Coinbase. ",
+		"slug": "https://cointelegraph.com/press-releases/crypterium-officially-listed-on-coinbase-with-transfer-wallet-support"
+	}
+]

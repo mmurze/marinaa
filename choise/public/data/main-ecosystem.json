@@ -1,0 +1,96 @@
+[
+	{
+		"title": "CeFi products",
+		"array": [
+			{
+				"title": "wallet",
+				"slug": "/wallet",
+				"icon": "/pic/main/ecosystem/wallet.jpg"
+			},
+			{
+				"title": "buy",
+				"slug": "/wallet/buy",
+				"icon": "/pic/main/ecosystem/buy.jpg",
+				"drop": true
+			},
+			{
+				"title": "exchange",
+				"slug": "/wallet/exchange",
+				"icon": "/pic/main/ecosystem/exchange.jpg",
+				"drop": true
+			},
+			{
+				"title": "cash out",
+				"slug": "/wallet/cashout",
+				"icon": "/pic/main/ecosystem/cash-out.jpg",
+				"drop": true
+			},
+			{
+				"title": "send",
+				"slug": "/wallet/send",
+				"icon": "/pic/main/ecosystem/send.jpg",
+				"drop": true
+			},
+			{
+				"title": "spend",
+				"slug": "/wallet/spend",
+				"icon": "/pic/main/ecosystem/spend.jpg",
+				"drop": true
+			},
+			{
+				"title": "cards",
+				"slug": "/cards",
+				"icon": "/pic/main/ecosystem/cards.jpg"
+			},
+			{
+				"title": "crypto price insurance",
+				"slug": "/price-insurance",
+				"label": "beta",
+				"icon": "/pic/main/ecosystem/crypto-price-insurance.jpg"
+			},
+			{
+				"title": "interest accounts",
+				"slug": "/interest-accounts",
+				"icon": "/pic/main/ecosystem/interest-accounts.jpg"
+			},
+			{
+				"title": "price predictions",
+				"slug": "/predictions",
+				"icon": "/pic/main/ecosystem/price-predictions.jpg"
+			}
+		]
+	},
+	{
+		"title": "DeFi products",
+		"array": [
+			{
+				"title": "charism",
+				"slug": "/charism",
+				"icon": "/pic/main/ecosystem/charism.jpg"
+			},
+			{
+				"title": "earn",
+				"slug": "#",
+				"icon": "/pic/main/ecosystem/earn.jpg",
+				"drop": true
+			},
+			{
+				"title": "bridge",
+				"slug": "#",
+				"icon": "/pic/main/ecosystem/bridge.jpg",
+				"drop": true
+			},
+			{
+				"title": "swap",
+				"slug": "#",
+				"icon": "/pic/main/ecosystem/swap.jpg",
+				"drop": true
+			},
+			{
+				"title": "DAO",
+				"slug": "#",
+				"icon": "/pic/main/ecosystem/dao.jpg"
+			}
+		]
+	}
+]

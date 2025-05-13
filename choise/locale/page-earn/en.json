@@ -1,0 +1,93 @@
+{
+	"seo": {
+		"title": "web 3.0 Interest accounts up to 10.7% apy",
+		"description": "A groundbreaking offer. Stake USDT, USDC on the Choise.com DeFi platform and receive increased yield."
+	},
+	"array": [
+		{
+			"title": "What coins can I open an interest account in?",
+			"description": "<p>USDT/USDC</p>"
+		},
+		{
+			"title": "What are the maximum and minimum deposit amounts?",
+			"description": "<p>The minimum deposit amount is $200 (in USDT/USDC equivalent). The is no maximum amount.</p>"
+		},
+		{
+			"title": "What currency will I receive the interest in?",
+			"description": "<p>The interest will be calculated in the currency of the deposit.</p>"
+		},
+		{
+			"title": "Is there a lock period?",
+			"description": "<p>No, there is no lock period for the coins at the end of the deposit term.</p>"
+		},
+		{
+			"title": "When is the interest paid?",
+			"description": "<p>Once at the end of the deposit term.</p>"
+		}
+	],
+	"main": {
+		"title": "web 3.0 Interest accounts up to 10.7% apy",
+		"description": "A groundbreaking offer. Stake USDT, USDC on the Choise.com DeFi platform and receive increased yield.",
+		"link": "Start earning",
+		"calculator": {
+			"title": "Choose currency",
+			"amount": "Enter amount",
+			"duration_title": "Choose duration",
+			"months": "months",
+			"earn_title": "You will earn",
+			"APY": "APY",
+			"earn": "Earn"
+		}
+	},
+	"account_list": {
+		"array": [
+			{
+				"image": "/pic/earn/earn-list-1.png",
+				"description": "Increased yield -<br/>up to <strong>10.7% APY</strong>"
+			},
+			{
+				"image": "/pic/earn/earn-list-2.png",
+				"description": "Receive the income"
+			},
+			{
+				"image": "/pic/earn/earn-list-3.png",
+				"description": "Enjoy the freedom to deposit and withdraw anytime"
+			},
+			{
+				"image": "/pic/earn/earn-list-4.png",
+				"description": "USDT and USDC interest accounts available"
+			}
+		]
+	},
+	"choose_coin": {
+		"months": "months",
+		"APY": "APY",
+		"title": "choose your coin",
+		"deposit": "Deposit now"
+	},
+	"simple_steps": {
+		"title": "get started in 3 simple steps",
+		"description": "It only takes a few minutes",
+		"link": "Open an interest account",
+		"array": [
+			{
+				"title": "sign up",
+				"description": "Go to <a href='https://defi.choise.com/earn' target='_blank' rel='noreferrer'>defi.choise.com/earn</a> and choose the interest account type",
+				"image": "/pic/earn/earn-step-1.png"
+			},
+			{
+				"title": "deposit",
+				"description": "Enter the amount you are willing to deposit and the period",
+				"image": "/pic/earn/earn-step-2.png"
+			},
+			{
+				"title": "earn",
+				"description": "Open your interest account",
+				"image": "/pic/earn/earn-step-3.png"
+			}
+		]
+	},
+	"digital_assets": {
+	
+	}
+}

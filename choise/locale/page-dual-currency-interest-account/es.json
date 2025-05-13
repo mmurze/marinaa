@@ -1,0 +1,185 @@
+{
+	"seo": {
+		"title": "cuentas de interés de moneda dual",
+		"description": "La cuenta de interés de moneda dual (DCIA) es un producto a corto plazo con rendimientos variables que puede proporcionar rendimientos muy altos a través de una estrategia de generación de ingresos basada en la fijación de precios de la cuenta de interés de moneda dual. Disfruta de todos los beneficios de la cuenta de interés de moneda dual para Bitcoin y Ethereum."
+	},
+	"main": {
+		"title": "cuentas de interés de moneda dual",
+		"description": "Las cuentas de interés de moneda dual (DCIA) son productos con rendimientos variables que pueden proporcionar rendimientos muy altos a través de una estrategia de generación de ingresos basada en la fijación de precios de la cuenta de interés de moneda dual. Disfruta de todos los beneficios de la cuenta de interés de moneda dual para Bitcoin y Ethereum."
+	},
+	"benefits": {
+		"array": [
+			{
+				"image": "/pic/dual-product/dual-benefits-1.jpg",
+				"description": "¿Qué es una<br/>cuenta de interés<br/>de moneda dual?"
+			},
+			{
+				"image": "/pic/dual-product/dual-benefits-2.jpg",
+				"description": "ventajas"
+			},
+			{
+				"image": "/pic/dual-product/dual-benefits-3.jpg",
+				"description": "¿Quién debería<br/>considerar DCIA?"
+			},
+			{
+				"image": "/pic/dual-product/dual-benefits-4.jpg",
+				"description": "limitaciones y riesgos"
+			},
+			{
+				"image": "/pic/dual-product/dual-benefits-5.jpg",
+				"description": "escenarios<br/>de muestra"
+			}
+		]
+	},
+	"advantages": {
+		"title": "ventajas de las cuentas de interés de moneda dual",
+		"description": "Tipos de cambio más atractivos que los de contado o a plazo",
+		"array": [
+			{
+				"title": "rendimiento superior al de una cuenta de interés temporal estándar",
+				"description": "El rendimiento se asegura en el momento de la compra, mientras que la moneda de liquidación se modifica según cómo se relacionen el precio de liquidación y el precio vinculado entre sí.",
+				"image": "/pic/dual-product/dual-advantages-1.png",
+				"width": 163,
+				"height": 126
+			},
+			{
+				"title": "oportunidad de seleccionar el período de inversión",
+				"description": "BTC actúa como la moneda de inversión en nuestros productos de moneda dual de BTC. En otras palabras, compras el producto con BTC y luego observas cómo el precio de liquidación (el precio de BTC en el momento de la liquidación) se compara con el precio vinculado (o el precio de referencia) al vencimiento.",
+				"image": "/pic/dual-product/dual-advantages-2.png",
+				"width": 143,
+				"height": 126
+			},
+			{
+				"title": "exposición a una moneda alternativa",
+				"description": "Si el precio de liquidación es superior al precio vinculado, recibirás el rendimiento en la moneda de inversión. De lo contrario, recibirás tus rendimientos en USD.",
+				"image": "/pic/dual-product/dual-advantages-3.png",
+				"width": 98,
+				"height": 97
+			}
+		],
+		"link_a": "Comenzar a ganar"
+	},
+	"risks": {
+		"title": "protección y seguridad",
+		"description": "Choise.com es una institución financiera con licencia y totalmente regulada en la Unión Europea. Tu cuenta de interés está protegida por un protocolo de seguridad de 3 capas y un protocolo contra fraudes."
+	},
+	"steps": {
+		"array": [
+			{
+				"title": "inicia sesión en tu billetera de сhoise.com",
+				"description": "Ve a la sección especial de 'Ganar' y encuentra las Cuentas de Interés de Moneda Dual",
+				"image": "/pic/dual-product/dual-slider-1.png",
+				"children": true
+			},
+			{
+				"title": "selecciona la moneda de inversión",
+				"description": "Las Cuentas de Interés de Moneda Dual solo están disponibles para BTC y ETH",
+				"image": "/pic/dual-product/dual-slider-2.png",
+				"children": true
+			},
+			{
+				"title": "ingresa la cantidad del activo base (para inversión o cuenta de interés convencional)",
+				"description": "La calculadora de la cuenta de interés mostrará el rendimiento y el APY en las tasas de depósito de moneda dual correspondientes.",
+				"image": "/pic/dual-product/dual-slider-3.png",
+				"children": true
+			},
+			{
+				"title": "confirma la apertura y los términos de la cuenta de interés",
+				"description": "El rendimiento se fija en el momento. La información sobre las cuentas de interés de moneda dual estará disponible en la sección de cuentas de interés activas.",
+				"image": "/pic/dual-product/dual-slider-4.png",
+				"children": true
+			}
+		]
+	},
+	"examples": {
+		"title": "ejemplos",
+		"array": [
+			{
+				"title": "cuenta de interés convencional",
+				"label": "Ejemplo A",
+				"list": [
+					{
+						"title": "Cuenta de interés y cantidad",
+						"value": "2 BTC"
+					},
+					{
+						"title": "Otra moneda",
+						"value": "USD"
+					},
+					{
+						"title": "Plazo",
+						"value": "30 días"
+					},
+					{
+						"title": "Precio vinculado",
+						"value": "$20,000"
+					},
+					{
+						"title": "Rendimiento mejorado de DCIA",
+						"value": "3.0%"
+					}
+				],
+				"content_title": "qué sucede en la fecha de vencimiento",
+				"content_description": ["<strong>Escenario de fecha de vencimiento 1:</strong> Si la tasa de BTC está por debajo de $20,000, la inversión y el interés ganado te serán devueltos (2 BTC + 5% de rendimiento).", "<strong>Escenario de fecha de vencimiento 2:</strong> Si la tasa de BTC está por encima de $20,000, la inversión se convertirá y se te devolverá en USD junto con el interés ganado (2 * 25,000 USD + 5% de rendimiento)."],
+				"content_sub_description": "De cualquier manera, recibirás el mismo interés"
+			},
+			{
+				"title": "cuenta de interés inversa",
+				"label": "Ejemplo B",
+				"list": [
+					{
+						"title": "Cuenta de interés",
+						"value": "120,000 USD"
+					},
+					{
+						"title": "Otra moneda",
+						"value": "BTC"
+					},
+					{
+						"title": "Plazo",
+						"value": "30 días"
+					},
+					{
+						"title": "Precio vinculado",
+						"value": "$20,000"
+					},
+					{
+						"title": "DCP o rendimiento mejorado de DCIA",
+						"value": "5.0%"
+					}
+				],
+				"content_title": "qué sucede en la fecha de vencimiento",
+				"content_description": ["<strong>Escenario de fecha de vencimiento 1:</strong> Si la tasa de USD está por encima de $20,000, la inversión y el interés ganado te serán devueltos (120,000 USD + 5% de rendimiento).", "<strong>Escenario de fecha de vencimiento 2:</strong> Si la tasa de USD está por debajo de $20,000, la inversión se convertirá y se te devolverá en BTC junto con el interés ganado (120,000 / 60,000 BTC + 5% de rendimiento)."],
+				"content_sub_description": "De cualquier manera, recibirás el mismo interés"
+			}
+		]
+	},
+	"faq": {
+		"array": [
+			{
+				"title": "¿Qué son las cuentas de interés de moneda dual?",
+				"description": "<p>La cuenta de interés de moneda dual es un producto sin protección de capital con rendimiento variable. El rendimiento del producto se asegura en el momento de la compra, mientras que la moneda en la que se liquidará el producto cambia según cómo se compare el precio de liquidación con el precio vinculado.</p><p>Un producto de inversión a corto plazo, la moneda dual podría proporcionar rendimientos muy altos.</p>"
+			},
+			{
+				"title": "¿Qué términos debo conocer?",
+				"description": "<p>Moneda</p><p>La moneda de inversión es la moneda en la que se realiza la inversión en el producto. En moneda dual - BTC, siempre sería BTC.</p><br/><p>Moneda de liquidación</p><p>La moneda que recibirás cuando el producto expire.</p><br/><p>Fecha de vencimiento</p><p>La fecha en que tu producto de inversión se liquida. Tu rendimiento de este producto se acreditará automáticamente en tu cuenta en este día.</p><br/><p>Rendimiento</p><p>El rendimiento es el ingreso devuelto en una inversión. Se expresa en porcentaje y se utiliza para calcular el monto de liquidación.</p><br/><p>Rendimiento anualizado</p><p>El rendimiento anualizado se calcula como el rendimiento anual equivalente que obtienes si continúas comprando este producto con el rendimiento dado durante todo un año. Su fórmula de cálculo es: Rendimiento anualizado = Rendimiento / (Fecha de vencimiento - Hoy) * 365.</p><br/><p>Precio vinculado</p><p>El precio vinculado es un precio de referencia. En el día de vencimiento, se comparará el precio de liquidación con este precio de referencia. Si el precio de liquidación está por debajo del precio vinculado, el producto se liquidará en la moneda de inversión (es decir, BTC en este caso); de lo contrario, se liquidará en USDC.</p><br/><p>Activo subyacente</p><p>Un activo en el que se basa un producto de inversión dual. Por ejemplo, si te estás refiriendo al precio actual de BTC y al precio objetivo de BTC, entonces el activo subyacente es BTC.</p><p>Moneda</p><p>La moneda que has utilizado para suscribirte a un producto de inversión dual.</p><br/><p>Precio de liquidación</p><p>Promedio del precio actual en los últimos 30 minutos antes de las 08:00 (UTC) en la fecha de liquidación. El precio de liquidación y el precio objetivo determinan si un producto se ejerce o no.</p>"
+			},
+			{
+				"title": "¿Puedo cancelar la inversión antes de la fecha de vencimiento?",
+				"description": "<p>No se permite el rescate anticipado. Se liquidará a las 8:00 UTC en la fecha de vencimiento.</p>"
+			},
+			{
+				"title": "¿Cuáles son los riesgos potenciales?",
+				"description": "<p>La única incertidumbre es la moneda en la que se liquidará el producto, que se determina según cómo se compare el precio de liquidación con el precio vinculado. El riesgo de este producto proviene principalmente de la volatilidad del mercado: cuanto mayor sea la volatilidad, más difícil será predecir el precio de liquidación y dónde podría estar en comparación con el precio vinculado en la fecha de vencimiento.</p>"
+			},
+			{
+				"title": "¿Cuándo y cómo puedo recibir mi liquidación?",
+				"description": "<p>Recibirás tu capital y rendimiento liquidados a las 8:00 UTC en la fecha de vencimiento. Se acreditará automáticamente en tu billetera y no se requiere un rescate manual.</p>"
+			},
+			{
+				"title": "¿Los productos con una tasa más alta son la mejor opción?",
+				"description": "<p>El precio de ejercicio y el plazo son los dos parámetros principales y correlacionados de la inversión dual. Los productos con un rendimiento más alto significa que tienen una mayor probabilidad de liquidarse en la moneda alternativa. Los inversores deben tomar decisiones de inversión basadas en sus propias preferencias.</p>"
+			}
+		]
+	}
+}

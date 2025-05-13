@@ -1,0 +1,87 @@
+{
+	"seo": {
+		"title": "programa de embajadores",
+		"description": "Únete al Programa de Embajadores de Choise.com y obtén recompensas por tus esfuerzos."
+	},
+	"main": {
+		"title": "programa de embajadores",
+		"description": "Únete al Programa de Embajadores de Choise.com y obtén recompensas por tus esfuerzos.",
+		"your_ambassador": "Tu perfil de embajador",
+		"button_link": "Conviértete en un Embajador",
+		"backquote": "Únete al equipo de entusiastas para crear el futuro de las criptomonedas y construir juntos el ecosistema de MetaFi"
+	},
+	"rewards": {
+		"title": "recompensas",
+		"description": "Obtén tokens CHO y otras recompensas por completar tareas y obtener puntos",
+		"array": [
+			{
+				"description": "Regístrate en <a href='https://crpt.onelink.me/WpQ0/nbx2nw6f?b=site_choise_com' target='_blank' rel='noreferrer'>la aplicación Choise.com</a>",
+				"image": "/pic/ambassador/ambassador-rewards-1.png"
+			},
+			{
+				"description": "Conecta tu billetera al sitio web y pasa la verificación",
+				"image": "/pic/ambassador/ambassador-rewards-2.png"
+			},
+			{
+				"description": "Completa las tareas",
+				"image": "/pic/ambassador/ambassador-rewards-3.png"
+			},
+			{
+				"description": "Obtén recompensas y disfruta de más oportunidades para ganar",
+				"image": "/pic/ambassador/ambassador-rewards-4.png"
+			}
+		],
+		"step": "paso"
+	},
+	"task": {
+		"title": "tareas disponibles",
+		"item": {
+			"ID": "ID",
+			"single": "Una vez",
+			"tags_label": "Ideal para:",
+			"reward": "Recompensa:",
+			"points": "Puntos",
+			"sign_up": "Registrarse para un perfil",
+			"connect_wallet": "Conectar billetera"
+		}
+	},
+	"banner": {
+		"title": "club de embajadores",
+		"description": "Únete al canal para ponerte en contacto con nuestros embajadores de todo el mundo"
+	},
+	"rewards_list": {
+		"title": "obtener recompensas",
+		"description": "Canjea los puntos acumulados por recompensas valiosas",
+		"empty_block": "Nada encontrado. Vuelve más tarde",
+		"item": {
+			"reward_modal": {
+				"ID": "ID",
+				"price": "Precio",
+				"points": "puntos",
+				"balance_points": "Tu saldo",
+				"submit_button": "Confirmar",
+				"error": "No tienes puntos suficientes",
+				"title": "Se ha enviado tu solicitud",
+				"modal_content": "La distribución de recompensas se realiza el último día hábil de cada mes",
+				"modal_rewards_profile": "Verifica el estado de tu recompensa en",
+				"profile": "Perfil",
+				"done": "Hecho"
+			},
+			"received": "Recompensa recibida",
+			"one_time": "Recompensa única",
+			"ID": "ID",
+			"price": "Precio:",
+			"points": "Puntos",
+			"reward": "Obtener recompensa",
+			"sign_up": "Registrarse",
+			"connect_wallet": "Conectar billetera"
+		}
+	},
+	"leader_board": {
+		"title": "clasificación",
+		"description": "Los 5 mejores embajadores del mes",
+		"array": ["Rango", "Nombre"],
+		"tasks": "Tareas completadas",
+		"points": "Puntos acumulados"
+	}
+}

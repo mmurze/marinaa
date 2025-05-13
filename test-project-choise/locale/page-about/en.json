@@ -1,0 +1,107 @@
+{
+	"seo": {
+		"title": "About",
+		"description": ""
+	},
+	"title": "how to use",
+	"list": [
+		{
+			"title": "explore and select assets",
+			"description": "Identify the best assets to trade from our list of 150+ coins. Filter results to pick attractive opportunities in no time",
+			"image": "/pic/about/Images1.png",
+			"component": "coins",
+			"text_component": {
+				"list": [
+					{
+						"slug": "/pic/about/assets/asset1.svg",
+						"alt": "icon"
+					},
+					{
+						"slug": "/pic/about/assets/asset2.svg",
+						"alt": "icon"
+					},
+					{
+						"slug": "/pic/about/assets/asset3.svg",
+						"alt": "icon"
+					},
+					{
+						"slug": "/pic/about/assets/asset4.svg",
+						"alt": "icon"
+					},
+					{
+						"slug": "/pic/about/assets/asset5.svg",
+						"alt": "icon"
+					},
+					{
+						"slug": "/pic/about/assets/asset6.svg",
+						"alt": "icon"
+					},
+					{
+						"slug": "/pic/about/assets/asset7.svg",
+						"alt": "icon"
+					}
+				]
+			}
+		},
+		{
+			"title": "assess predictions strength ",
+			"description": "Our AI system gives you a clear, easy-to-understand prediction on each asset. Look at Prediction Strength to measure the potential accuracy",
+			"image": "/pic/about/Images2.png",
+			"component": "graph",
+			"text_component": {
+				"sell": "Strong sell",
+				"buy": "Strong buy"
+			}
+		},
+		{
+			"title": "let the record show",
+			"description": "Take a quick look at the performance of our AI-powered predictions for the past days and months",
+			"image": "/pic/about/Images3.png",
+			"component": "buttons",
+			"text_component": {
+				"description": "Total predictions profit for today"
+			}
+		},
+		{
+			"title": "put predictions to the test",
+			"description": "Don't wait another minute. Take action straight from Choise.com Wallet and benefit from instant trade execution and the best exchange rates out there",
+			"image": "/pic/about/Images4.png"
+		},
+		{
+			"title": "get the full picture",
+			"description": "Access a history of all predictions made by our system for a specific asset and their overall profitability. You can use this data to plan your next move!",
+			"image": "/pic/about/Images5.png",
+			"component": "table",
+			"text_component": {
+				"header": [
+					{
+						"title": "Date"
+					},
+					{
+						"title": "Prediction"
+					},
+					{
+						"title": "Daily profit"
+					}
+				],
+				"table": [
+					{
+						"date": "06 July",
+						"prediction": 7,
+						"profit": 5.42
+					},
+					{
+						"date": "07 July",
+						"prediction": 99,
+						"profit": 33.2
+					},
+					{
+						"date": "08 July",
+						"prediction": 7,
+						"profit": 12.8
+					}
+				]
+			}
+		}
+	]
+}

@@ -1,0 +1,187 @@
+{
+	"seo": {
+		"title": "cho on the top exchanges",
+		"description": "The token that grows amidst the crypto winter — CHO is a utility token of the Choise.com ecosystem. Buy, send, spend, exchange, get passive income from your crypto holdings, and get additional bonuses as a CHO holder."
+	},
+	"main": {
+		"title_1": "CHO on ",
+		"title_span": "TOP",
+		"title_2": " exchanges",
+		"description": "The token that grows amidst the crypto winter — CHO is a utility token of the Choise.com ecosystem. Buy, send, spend, exchange, get passive income from your crypto holdings, and get additional bonuses as a CHO holder.",
+		"array" : [
+			"Crypterium Card",
+			"Yield Farming",
+			"Multi-Currency Interest Accounts",
+			"Crypto wallet",
+			"Staking",
+			"Indices",
+			"Hash Mining"
+		]
+	},
+	"description": {
+		"title": "cho token — an entry point to the advantages of the choise.com products",
+		"description_1": "With its global availability, and a variety of on-/off-ramps, Choise.com delivers complex yield-focused and cryptobanking products through a fun and friendly UI/UX.",
+		"description_2": "Choise.com — a gateway to the YIELD universe for retail & institutional customers."
+	},
+	"banner": {
+		"title": "buy cho with zero fee"
+	},
+	"tokenomics": {
+		"title": "cho tokenomics",
+		"description":	"based on cutting-edge practices from the industry",
+		"array" : [
+			{
+				"description": "CHO tokenomics is presented by a deflationary model with the total number of 1 billion tokens subject to be burned over time",
+				"image": "/pic/cho-exchanges/tokenomics-1.png"
+			},
+			{
+				"description": "CHO holders take the advantage of the dynamic APYs, special benefits for users and partners, fee discounts and other bonuses.",
+				"image": "/pic/cho-exchanges/tokenomics-2.png"
+			},
+			{
+				"description": "The voting weight in the DAO is proportional to the amount of veCHO tokens distributed as LP-tokens for the CHO tokens locked in Charism. Every CHO holder can contribute to the meaningful evolution of the project",
+				"image": "/pic/cho-exchanges/tokenomics-3.png"
+			}
+		]
+	},
+	"token": {
+		"title": "cho token",
+		"description": "CHO tokenomics is based on the best industry practices and our expertise of running a 6 y.o. crypto venture",
+		"title_span_1": "total supply",
+		"description_span_1": "1 billion",
+		"title_span_2": "Token standards",
+		"description_span_2": "ERC20, SPL (Solana)",
+		"array" : [
+			{
+				"title": "on demand",
+				"description": "Sold out at pre-sale rounds",
+				"image": "/pic/cho-exchanges/token-1.png",
+				"width": 255,
+				"height": 268,
+				"slug": "/cho"
+			},
+			{
+				"title": "team",
+				"description": "Is backed by the team of 160+ professionals' successful track record",
+				"image": "/pic/cho-exchanges/token-2.png",
+				"width": 341.17,
+				"height": 268
+			},
+			{
+				"title": "discussed",
+				"description": "Hailed by major crypto and fintech global media.",
+				"logos": true,
+				"image": "/pic/cho-exchanges/token-3.png",
+				"width": 203.06,
+				"height": 191
+			},
+			{
+				"title": "unique",
+				"description": "Moves against the bearish market amidst the crypto winter",
+				"image": "/pic/cho-exchanges/token-4.png",
+				"width": 344,
+				"height": 268
+			}
+		]
+	},
+	"storeList": {
+		"array" : [
+			{
+				"title": "Gate.io",
+				"icon": "/pic/cho-exchanges/store-item-1.svg",
+				"description": "Gate.io is a well-established centralized exchange offering a great number of coins and trading pairs as well as a variety of DeFi mining products. It is rated as one of the top exchanges in terms of cybersecurity by CER.",
+				"slug": "https://choise.ink/3wtKAua",
+				"list":[
+					{
+						"value": "10M+",
+						"description": "users worldwide",
+						"sub_content": "Trusted around the globe"
+					},
+					{
+						"value": "$12B+",
+						"description": "daily trading volume",
+						"sub_content": "TOP 10 crypto exchanges in terms of trading volume"
+					}
+				]
+			},
+			{
+				"title": "Uniswap",
+				"icon": "/pic/cho-exchanges/store-item-2.svg",
+				"description": "Uniswap is one of the most popular decentralized exchanges operating on the Ethereum blockchain that allows users to quickly swap among ERC-20 tokens and trade crypto without an intermediary.",
+				"slug": "https://choise.ink/3TgvYYQ",
+				"list":[
+					{
+						"value": "$1.1T+",
+						"description": "trading volume",
+						"sub_content": "One of the largest DEXs in the world"
+					},
+					{
+						"value": "3.9M+",
+						"description": "users",
+						"sub_content": "A leader within the DeFi space"
+					}
+				]
+			},
+			{
+				"title": "MexcGlobal",
+				"icon": "/pic/cho-exchanges/store-item-3.svg",
+				"description": "MEXC Global is a centralized exchange known for a high-performance trading engine capable of processing 1.4 million transactions per second.",
+				"slug": "https://bit.ly/3dW1ElL",
+				"list":[
+					{
+						"value": "6M+",
+						"description": "users"
+					},
+					{
+						"value": "$2.9B+",
+						"description": "daily trading volume"
+					}
+				]
+			},
+			{
+				"title": "Lbank",
+				"icon": "/pic/cho-exchanges/store-item-4.svg",
+				"description": "Lbank is a centralized cryptocurrency exchange platform specializing in managing digital asset trading. It is rated “A”, meaning “Transparent.”",
+				"slug": "https://bit.ly/3dVM0XQ",
+				"list":[
+					{
+						"value": "7M+",
+						"description": "users"
+					},
+					{
+						"value": "$150M+",
+						"description": "daily trading volume"
+					}
+				]
+			}
+		],
+		"link_a": "Start trading",
+		"title_banner": "make it easier",
+		"description_banner": "Buy CHO in Choise.com App straight from your card with zero fee"
+	},
+	"priceTracking": {
+		"title": "price-tracking cho? check in here",
+		"array" : [
+			{
+				"title": "CoinMarketCap",
+				"icon": "/pic/cho-exchanges/coin-market-cap.svg",
+				"slug": "https://choise.ink/coinmarketcap"
+			},
+			{
+				"title": "CoinGecko",
+				"icon": "/pic/cho-exchanges/coin-gecko.svg",
+				"slug": "https://choise.ink/coingeko"
+			}
+		]
+	},
+	"howBuy": {
+		"title": "how to buy cho tokens",
+		"text": "step",
+		"array" : [
+			"Choose any exchange that is convenient for you",
+			"Follow the link and register",
+			"Top up your account using a card or e-wallets",
+			"Choose a CHO/USDT pair and start trading"
+		]
+	}
+}

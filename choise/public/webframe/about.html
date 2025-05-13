@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="../css/style.css">
+    <title>About</title>
+</head>
+<style>
+	.center_block{
+      padding: 40px 0;
+      max-width: 600px;
+      width: calc(100% - 40px);
+      margin: 0 auto;
+    }
+	.logo{
+		display: flex;
+		justify-content: center;
+	}
+	.list {
+	    margin-top: 35px;
+    }
+    .list li{
+	    margin-bottom: 20px;
+    }
+    .list li:last-child{
+	    margin-bottom: 0;
+    }
+    .list a{
+	    color: #0285FD;
+	    text-decoration: underline;
+    }
+    .list span{
+	    display: block;
+	    font-size: 14px;
+	    line-height: 14px;
+	    color: #94939A;
+    }
+    .list p{
+	    margin-top: 5px;
+	    font-size: 15px;
+	    line-height: 25px;
+    }
+	h3{
+		margin-top: 40px;
+		font-size: 20px;
+	}
+	.social_list{
+		display: flex;
+		flex-wrap: nowrap;
+		overflow-x: auto;
+		margin: 25px -20px -20px -20px;
+		padding: 0 20px 20px 20px;
+		scroll-snap-type: x mandatory;
+		scroll-padding: 20px;
+	}
+    .social_list li{
+	    width: 80px;
+	    margin-right: 20px;
+	    flex: 0 0 auto;
+	    scroll-snap-align: start;
+	    position: relative;
+	    text-align: center;
+    }
+    .social_list li:last-child{
+	    margin-right: 0;
+    }
+    .social_list span{
+	    width: 80px;
+	    height: 80px;
+	    background: #F7F7F7;
+	    border-radius: 20px;
+	    display: flex;
+	    align-items: center;
+	    justify-content: center;
+	    text-align: center;
+	    padding: 23px;
+    }
+    .social_list a{
+	    position: absolute;
+	    width: 100%;
+	    height: 100%;
+	    top: 0;
+	    left: 0;
+	    z-index: 10;
+	    font-size: 0;
+    }
+    .social_list p{
+	    color: #94939A;
+	    margin-top: 15px;
+	    font-size: 16px;
+    }
+	.description_list{
+		margin-top: 45px;
+	}
+    .description_list p{
+	    margin-bottom: 15px;
+	    line-height: 25px;
+	    font-size: 14px;
+    }
+    .description_list p:last-child{
+	    margin-bottom: 0;
+    }
+    .document_list{
+	    margin-top: 30px;
+    }
+    .document_list li{
+	    margin-bottom: 20px;
+	    border-bottom: 1px solid #ebebeb;
+	    padding-bottom: 20px;
+    }
+    .document_list li:last-child{
+	    padding-bottom: 0;
+	    margin-bottom: 0;
+	    border-bottom: none;
+    }
+    .document_list a{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .document_list span{
+      display: flex;
+      align-items: center;
+    }
+    .document_list span img{
+	    margin-right: 10px;
+    }
+</style>
+<body>
+    <div class="center_block">
+        <div class="logo"><img src="/pic/logo.svg" alt="Choise.com"/></div>
+        <ul class="list">
+            <li><span>Reg. number</span><p>Charism LLC, 1999 LLC 2022</p></li>
+            <li><span>HQ office address</span><p>Beachmont Business Centre, Suite 336, Kingstown, Saint Vincent and the Grenadines</p></li>
+            <li><span>E-mail</span><p><a href="mailto:support@choise.com" target="_blank" rel="noreferrer">support@choise.com</a></p></li>
+            <li><span>Website</span><p><a href="https://choise.com">choise.com</a></p></li>
+        </ul>
+        <h3>Community</h3>
+        <ul class="social_list">
+            <li>
+                <a href="https://t.me/choise_com" target="_blank" rel="noreferrer">Telegram</a>
+                <span><img src="/pic/webframe/social/telegram.svg" alt="Telegram"/></span>
+                <p>Telegram</p>
+            </li>
+            <li>
+                <a href="https://twitter.com/ChoiseCom" target="_blank" rel="noreferrer">Twitter</a>
+                <span><img src="/pic/webframe/social/twitter.svg" alt="Twitter"/></span>
+                <p>Twitter</p>
+            </li>
+            <li>
+                <a href="https://youtube.com/@choisecom" target="_blank" rel="noreferrer">Youtube</a>
+                <span><img src="/pic/webframe/social/youtube.svg" alt="Youtube"/></span>
+                <p>Youtube</p>
+            </li>
+            <li>
+                <a href="https://discord.gg/nhUdmJ7b" target="_blank" rel="noreferrer">Discord</a>
+                <span><img src="/pic/webframe/social/discord.svg" alt="Discord"/></span>
+                <p>Discord</p>
+            </li>
+            <li>
+                <a href="https://instagram.com/choise_com" target="_blank" rel="noreferrer">Instagram</a>
+                <span><img src="/pic/webframe/social/instagram.svg" alt="Instagram"/></span>
+                <p>Instagram</p>
+            </li>
+        </ul>
+        <h3>Legal</h3>
+        <ul class="document_list">
+           <li>
+               <a href="https://choise.com/pdf/choise-privacy-policy.pdf" target="_blank" rel="noreferrer">
+                   <span><img src="./pic/file.svg" alt="Privacy policy">Privacy policy</span>
+                   <img src="./pic/link.svg" alt="Privacy policy link">
+               </a>
+           </li>
+           <li>
+               <a href="https://choise.com/pdf/choise-terms-of-use.pdf" target="_blank" rel="noreferrer">
+                   <span><img src="./pic/file.svg" alt="Terms of use">Terms of use</span>
+                   <img src="./pic/link.svg" alt="Terms of use link">
+               </a>
+           </li>
+        </ul>
+        <div class="description_list">
+            <p>The Choise.com website and Choise.com mobile apps are owned by the company UAB Choise Services incorporated Lithuania.</p>
+            <p>Crypterium AS is incorporated in Estonia with the company number 14352837, registered office at 5 A. Lauteri, Tallinn, 10114.</p>
+            <p>UAB Choise Services is incorporated in Lithuania with the company number 305964183, registered office at Vilnius, Eišiškių Sodų 18-oji g. 11. UAB Choise Services operates under license 305964183 for providing a virtual asset operations.</p>
+            <p>Charism LLC is incorporated in St. Vincent and Grenadines with the company number 1999 LLC 2022, registered office at Suite 336, Beachmont Business Centre, Kingstown, registration number 1999 LLC 2022. Charism LLC is a limited liability company created and existing under the laws of Saint Vincent and Grenadines.</p>
+            <p>Choise.com is not a bank. Your Crypterium prepaid card is issued by UAB Walletto (registration number 304686884) pursuant to license by Visa. UAB Walletto is authorized by the Bank of Lithuania to conduct electronic money service activities under the Law on Electronic Money and Electronic Money institutions (license number 33). Crypterium AS is the Card Programme Manager. Digital currency values are not static and fluctuate due to market changes. Not all products and services are available in all geographic areas and are subject to applicable terms and conditions. Choise.com does not provide services to citizens of the Russian Federation, non-EU residents. Eligibility for particular products and services is subject to final determination by Сhoise.com. Rates for Choise.com products are subject to change.</p>
+        </div>
+    </div>
+</body>
+</html>

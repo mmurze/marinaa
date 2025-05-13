@@ -1,0 +1,23 @@
+{
+	"seo": {
+		"title": "Are you ready for the cho sale?",
+		"description": "CHO Community Sale starts on 5th of April. Don’t forget to fill out the Waitlist form on the main page. We also recommend registering and passing KYC in the Crypterium App before filling out the form."
+	},
+	"main": {
+		"title": "are you ready for the cho sale?",
+		"items_title": "have you already registered in the crypterium app?",
+		"registeredArray": ["Yes", "Will do"],
+		"item_title": "what cho allocation do you plan to reserve?",
+		"planArray": ["$10-100", "$100-$500", "over $500"],
+		"send": "Send",
+		"content_list": [
+			"CHO Community Sale starts on 5th of April.",
+			"Don’t forget to fill out the Waitlist form on the main page. We also  recommend registering and passing KYC in the Crypterium App before filling out the form.",
+			"You’re just a few steps away from your much-awaited allocation.",
+			"Check the Complete <a rel=\"noreferrer nofollow\" href=\"https://choisecom.medium.com/complete-choise-com-launchpad-guide-d1c3501b1a1c\" target=\"_blank\">Choise.com Launchpad</a> Guide to be 100% ready for the Sale and see you among the lucky CHO holders!"
+		],
+		"link": "Download the App to join the Sale",
+		"thank": "thank you for answers!",
+		"link_back": "Back to main"
+	}
+}

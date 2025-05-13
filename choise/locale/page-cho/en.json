@@ -1,0 +1,387 @@
+{
+	"seo": {
+		"title": "CHO MetaFi Token (CeFi): Price, Market Cap & Charts",
+		"description": "The CHO tokenomics is based on the best practices from the industry, a cutting-edge vision for global finance, and our expertise of running a 6 y.o. crypto venture. Sounds good? A thoughtful lockup mechanics and limited circulating supply will make it even better."
+	},
+	"main": {
+		"title": "CHO token",
+		"description_1": "The CHO tokenomics is based on the best practices from the industry, a cutting-edge vision for global finance, and our expertise of running a 6 y.o. crypto venture.",
+		"description_2": "Sounds good? A thoughtful lockup mechanics and limited circulating supply will make it even better."
+	},
+	"future": {
+		"title": "CHO is the future:",
+		"description_1": "Centralized service providers are best fitted to serve vast retail audiences: friendly UX, ease of onramp, etc.",
+		"description_2": "Yet it's DeFi that will be the crypto's key growth segment: the low base effect, an institutional backing and an attractive proposition.",
+		"array": [
+			{
+				"label": "CeFi market",
+				"title": "5-12% APY",
+				"array": [
+					{
+						"value": "$2+ trillion",
+						"label": "market cap"
+					},
+					{
+						"value": "100M",
+						"label": "users"
+					}
+				]
+			},
+			{
+				"label": "DeFi market",
+				"title": "100-500% APY",
+				"array": [
+					{
+						"value": "$100B",
+						"label": "total value locked"
+					},
+					{
+						"value": "4M",
+						"label": "users only"
+					}
+				]
+			}
+		]
+	},
+	"tradedOn": {
+		"title": "cho is traded on"
+	},
+	"services": {
+		"title": "our current services",
+		"leftArray" : [
+			{
+				"title": "buy crypto",
+				"description": "from any bank cards",
+				"icon": "/pic/cho/cho-services-1.jpg"
+			},
+			{
+				"title": "send crypto",
+				"description": "worldwide for free",
+				"icon": "/pic/cho/cho-services-2.jpg"
+			},
+			{
+				"title": "exchange crypto",
+				"description": "at one of the best rates",
+				"icon": "/pic/cho/cho-services-3.jpg"
+			},
+			{
+				"title": "cashout crypto",
+				"description": "to get cash at any time",
+				"icon": "/pic/cho/cho-services-4.jpg"
+			}
+		],
+		"rightArray": [
+			{
+				"title": "deposit crypto",
+				"description": "safe and secure",
+				"icon": "/pic/cho/cho-services-5.jpg"
+			},
+			{
+				"title": "get a crypto loan",
+				"description": "at attractive % rates",
+				"icon": "/pic/cho/cho-services-6.jpg"
+			},
+			{
+				"title": "spend crypto",
+				"description": "with Crypterium Card",
+				"icon": "/pic/cho/cho-services-7.jpg"
+			},
+			{
+				"title": "predict prices",
+				"description": "with an AI-based algorithm",
+				"icon": "/pic/cho/cho-services-8.jpg"
+			}
+		]
+	},
+	"dao": {
+		"title": "dao. your choise to make an impact",
+		"description": "Choise.com ecosystem is governed by DAO aimed at onboarding new users and bootstrapping projects.",
+		"description_1": "Choise.com DAO decides on what liquidity pools to invest in and on benefits to be proposed to the community. It is set up to manage the ecosystem with the CHO tokens powering up utility, governance, and promotion mechanics.",
+		"description_2": "The CHO voting weight in the DAO platform is proportional to the amount of the veCHO tokens distributed as LP-tokens for the CHO locked in Charism. These tokens will allow users to contribute to the meaningful evolution of the project."
+	},
+	"combined": {
+		"title": "we’ve combined all together",
+		"description": "We have combined our CeFi wallet and our Charism DeFI solutions in the Choise.com product to make the DeFi adoption much easier for 100 million users worldwide",
+		"crypteriumArray" : [
+			{
+				"title": "Custodial wallet",
+				"icon": "/pic/cho/combined/cho-icon-1.jpg"
+			},
+			{
+				"title": "CEX",
+				"icon": "/pic/cho/combined/cho-icon-2.jpg"
+			},
+			{
+				"title": "Exchange",
+				"icon": "/pic/cho/combined/cho-icon-3.jpg"
+			},
+			{
+				"title": "Pay-in (fiat2crypto)",
+				"icon": "/pic/cho/combined/cho-icon-4.jpg"
+			},
+			{
+				"title": "Pay-out (crypto2fiat)",
+				"icon": "/pic/cho/combined/cho-icon-5.jpg"
+			},
+			{
+				"title": "Cards",
+				"icon": "/pic/cho/combined/cho-icon-6.jpg"
+			},
+			{
+				"title": "Interest Accounts",
+				"icon": "/pic/cho/combined/cho-icon-7.jpg"
+			},
+			{
+				"title": "Loans",
+				"icon": "/pic/cho/combined/cho-icon-8.jpg"
+			},
+			{
+				"title": "Predictions",
+				"icon": "/pic/cho/combined/cho-icon-9.jpg"
+			},
+			{
+				"title": "Business Accounts",
+				"icon": "/pic/cho/combined/cho-icon-10.jpg"
+			},
+			{
+				"title": "White label",
+				"icon": "/pic/cho/combined/cho-icon-11.jpg"
+			}
+		],
+		"charismArray" : [
+			{
+				"title": "Non-custodial multi-chain wallet",
+				"icon": "/pic/cho/combined/cho-icon-12.jpg"
+			},
+			{
+				"title": "DEX",
+				"icon": "/pic/cho/combined/cho-icon-13.jpg"
+			},
+			{
+				"title": "TRX builder",
+				"icon": "/pic/cho/combined/cho-icon-14.jpg"
+			},
+			{
+				"title": "DeFi protocols aggregator",
+				"icon": "/pic/cho/combined/cho-icon-15.jpg"
+			},
+			{
+				"title": "Staking/Yield farming aggregator",
+				"icon": "/pic/cho/combined/cho-icon-16.jpg"
+			},
+			{
+				"title": "DeFi Price Insurance",
+				"icon": "/pic/cho/combined/cho-icon-17.jpg"
+			},
+			{
+				"title": "DeFi launchpad",
+				"icon": "/pic/cho/combined/cho-icon-18.jpg"
+			},
+			{
+				"title": "Bridges",
+				"icon": "/pic/cho/combined/cho-icon-19.jpg"
+			},
+			{
+				"title": "NFT",
+				"icon": "/pic/cho/combined/cho-icon-20.jpg"
+			},
+			{
+				"title": "DeFi derivatives",
+				"icon": "/pic/cho/combined/cho-icon-21.jpg"
+			},
+			{
+				"title": "Dual Currency",
+				"icon": "/pic/cho/combined/cho-icon-22.jpg"
+			}
+		]
+	},
+	"burn": {
+		"title": "burn ",
+		"stageArray" : [
+			{
+				"title": "1st stage",
+				"description": "We burn CHO as a fraction of Volume (as Charism is supposed not to bring profit on the first stage)."
+			},
+			{
+				"title": "2nd stage",
+				"description": "We reduce the amount of CHO burned as a fraction of Volume and start burning CHO as a fraction of Revenue."
+			},
+			{
+				"title": "3rd stage",
+				"description": "We burn CHO as a fraction of Revenue only."
+			}
+		],
+		"title_span_1": "Volume",
+		"description_span_1": "The amount of purchases and sales transactions in the Charism`s Earn, Swap and Bridge products.",
+		"title_span_2": "Revenue",
+		"description_span_2": "The Charism`s profit pool.",
+		"sub_description": "By June 2027 we will burn not less than 6,5% of the total token emission (65,000,000 CHO) according to the permanent burning program.",
+		"title_price_1": "CHO price",
+		"title_price_2": "grew up 35x",
+		"description_price": "CHO has high interest account rates and a growing price in a downfall time on the crypto market. The CHO price grew up 35x from the listing in June ‘22.",
+		"link_a": "Buy CHO"
+	},
+	"distribution": {
+		"title": "CHO token distribution",
+		"title_desktop": "CHO token distribution",
+		"array" : [
+			{
+				"title": "Promotion",
+				"percent": "43.775%",
+				"background": "#5CEE9C",
+				"color": "#191B20"
+			},
+			{
+				"title": "Core contributors",
+				"percent": "2.0%",
+				"background": "#FF6464",
+				"color": "#FFFFFF"
+			},
+			{
+				"title": "Seed",
+				"percent": "7.0%",
+				"background": "#67B6FE",
+				"color": "#FFFFFF"
+			},
+			{
+				"title": "CRPT Airdrop",
+				"percent": "10.0%",
+				"background": "#FF8A00",
+				"color": "#FFFFFF"
+			},
+			{
+				"title": "Private",
+				"percent": "4.0%",
+				"background": "#0278E4",
+				"color": "#FFFFFF"
+			},
+			{
+				"title": "CHO NFT Sale",
+				"percent": "0.153%",
+				"background": "#FFFB1F",
+				"color": "#191B20"
+			},
+			{
+				"title": "Strategic round",
+				"percent": "0.25%",
+				"background": "#80D8FF",
+				"color": "#191B20"
+			},
+			{
+				"title": "Community Pre-Sale",
+				"percent": "0.30%",
+				"background": "#C6CAD3",
+				"color": "#191B20"
+			},
+			{
+				"title": "Team",
+				"percent": "8.0%",
+				"background": "#7C4DFF",
+				"color": "#FFFFFF"
+			},
+			{
+				"title": "Community Sale",
+				"percent": "0.35%",
+				"background": "#A2A8B7",
+				"color": "#FFFFFF"
+			},
+			{
+				"title": "Cornerstone",
+				"percent": "23.847%",
+				"background": "#BEFF04",
+				"color": "#191B20"
+			},
+			{
+				"title": "IDO",
+				"percent": "0.325%",
+				"background": "#656D81",
+				"color": "#FFFFFF"
+			}
+		]
+	},
+	"distributionContent": {
+		"aArray" : [
+			{
+				"title": "Sale rounds",
+				"description": "(a significant part of the funds raised goes to pools for the CHO token liquidity purposes)",
+				"color": "#191B20",
+				"background": "#FFFB1F"
+			},
+			{
+				"title": "Community Pre-Sale",
+				"description": "Lockup: 12-month lock with following linear vesting over 12 months",
+				"color": "#191B20",
+				"background": "#FFFB1F"
+			},
+			{
+				"title": "Community Sale",
+				"description": "Lockup: 15% initial unlock, the remaining part has 6-months lock with following linear vesting over 6 months",
+				"color": "#191B20",
+				"background": "#FFFB1F"
+			}
+		],
+		"bArray" : [
+			{
+				"title": "Strategic round",
+				"description": "Lockup: 10% initial unlock, the remaining part has 6-months lock with following linear vesting over 12-month",
+				"color": "#FFFFFF",
+				"background": "#67B6FE"
+			},
+			{
+				"title": "Seed/private rounds",
+				"description": "Lockup: 12-month lock with following linear vesting over 24 months",
+				"color": "#FFFFFF",
+				"background": "#0278E4"
+			}
+		],
+		"cArray" : [
+			{
+				"title": "CRPT Airdrop",
+				"description": "The main public method to earn CHO tokens is to hold CRPT tokens. <strong>There will be 3 parts:</strong>",
+				"color": "#FFFFFF",
+				"background": "#FF8A00",
+				"list": ["Retrodrop based on CRPT holding snapshots during previous 12-month - 24-months lock", "3 years airdrop program for CRPT holders - 12-month lock", "Airdrop based on transactional activity in Crypterium CeFi - 12-month lock"]
+			},
+			{
+				"title": "Team / Core contributors",
+				"description": "Lockup: 12-month lock with following linear vesting over 48 months",
+				"color": "#191B20",
+				"background": "#BEFF04"
+			}
+		],
+		"dArray" : [
+			{
+				"title": "Cornerstone",
+				"description": "The tokens that are allocated for initial incentives to decentralize and improve the ecosystem protocols. Will be used for the token liquidity purposes and activities like marketing, initial grants and other incentives coordinated by the foundation. Lockup: linear vesting over 24 months",
+				"color": "#191B20",
+				"background": "#FFFB1F"
+			},
+			{
+				"title": "Promotion",
+				"description": "The tokens that are allocated for DAO Treasury, Ambassador Program, Learn2Earn activities, Liquidity mining, Development programs, Early testers appreciation, Community Ecosystem Development. Lockup: 12-month lock with following vesting over 48 months",
+				"color": "#191B20",
+				"background": "#5CEE9C"
+			}
+		]
+	},
+	"teamedWithUs": {
+		"title": "teamed up with us"
+	},
+	"team": {
+		"title": "the team behind cho. at the right time, in the right place. no excuses.",
+		"array" : [
+			{
+				"value": "50+",
+				"description": "developers"
+			},
+			{
+				"value": "10+",
+				"description": "countries"
+			},
+			{
+				"value": "160+",
+				"description": "people are building products"
+			}
+		]
+	}
+}

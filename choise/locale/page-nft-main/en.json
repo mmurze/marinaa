@@ -1,0 +1,157 @@
+{
+	"seo": {
+		"title": "mint nfts that contain access to cho tokens",
+		"description": "The first ever CeFi token sale embedded into a DeFi NFT collection."
+	},
+	"main": {
+		"title": "mint NFTs that contain access to CHO tokens",
+		"description": "The first ever CeFi token sale embedded into DeFi NFT Collection."
+	},
+	"benefits": {
+		"title": "cho metafi collection",
+		"description": "Meet revolutionary Web 3.0 technologies and open a new sphere of possibilities for the DeFi and CeFi worlds",
+		"cefi": {
+			"title": "cefi inside defi",
+			"description": "We've packed the CeFi CHO token sale into a DeFi NFT collection. The first ever MetaFi NFT sale in crypto history"
+		},
+		"bnb": {
+			"title": "bnb chain",
+			"description": "NFT CHO Collection is built on BNB Chain (ex. Binance Smart Chain). Low gas fees, lightning speed transactions, and high security"
+		}
+	},
+	"collections": {
+		"title": "cho nft collection",
+		"description": "Mint and get a random NFT from four rarity tiers ranging from bronze to platinum. Each tier is unique and holds valuable terms, including bonus tokens and pleasing initial unlocks",
+		"filterArray": [
+			{
+				"title": "platinum",
+				"value": "platinum",
+				"not_translate": true,
+				"percent": 4.5
+			},
+			{
+				"title": "gold",
+				"value": "gold",
+				"not_translate": true,
+				"percent": 20
+			},
+			{
+				"title": "silver",
+				"value": "silver",
+				"not_translate": true,
+				"percent": 27
+			},
+			{
+				"title": "bronze",
+				"value": "bronze",
+				"not_translate": true,
+				"percent": 48.5
+			}
+		]
+	},
+	"video": {
+		"title": "how to mint an nft from cho metafi collection"
+	},
+	"ecosystem": {
+		"total": "CHO total supply",
+		"value": "1 billion",
+		"title": "building the choise.com ecosystem to bridge the gap",
+		"description": "A suite of products transforming the DeFi user experience and exposing 100 million CeFi users to superior returns"
+	},
+	"media": {
+		"array": [
+			{
+				"title": "Forbes",
+				"icon": "/pic/nft/media/forbes.svg",
+				"description": "From the top, the Central Bank “is uniquely coordinated with Chinese regulators on their stance regarding BTC,” says Andrey Diyakonov, CCO of fintech start up Crypterium. “Their proposals are all about pushing for digital ruble or a digital yuan.»",
+				"slug": "https://www.forbes.com/sites/kenrapoza/2022/02/26/russias-access-to-dollars-in-jeopardy-can-bitcoin-make-a-difference/?sh=616e4e8f70d5"
+			},
+			{
+				"title": "Be-Crypto",
+				"icon": "/pic/nft/media/be-crypto.svg",
+				"description": "Crypterium, the fast-growing digital fintech solution helping customers manage their assets with ease, has announced its largest listing in the history of the company on the world’s biggest cryptocurrency exchange, Coinbase.",
+				"slug": "https://beincrypto.com/crypterium-token-is-now-officially-listed-on-coinbase/"
+			},
+			{
+				"title": "Investing",
+				"icon": "/pic/nft/media/investing.svg",
+				"description": "British cryptocurrency services provider Crypterium is the latest crypto firm to secure registration from the United Kingdom’s Financial Conduct Authority (FCA), becoming one of few companies to have passed the registration process.",
+				"slug": "https://www.investing.com/news/cryptocurrency-news/uk-fca-grants-registration-to-crypto-startup-crypterium-2655178"
+			},
+			{
+				"title": "Coindesk",
+				"icon": "/pic/nft/media/coindesk.svg",
+				"description": "Crypto Firm Crypterium Secures FCA Registration. The registration makes sure that as Brexit measures kick in, Crypterium can continue to provide crypto wallet services to customers in the U.K.",
+				"slug": "https://www.coindesk.com/business/2021/10/25/crypto-firm-crypterium-secures-fca-registration/"
+			},
+			{
+				"title": "News BTC",
+				"icon": "/pic/nft/media/news-btc.svg",
+				"description": "Choise.com’s MetaFi ecosystem has two main tokens: CRPT and CHO. Following the recent successful IDOs of the CHO token on several platforms, Crypterium’s token has been listed on some of the biggest cryptocurrency exchange systems like Coinbase, Huobi and Crypto.com.",
+				"slug": "https://www.newsbtc.com/press-releases/crpt-shows-750-growth-after-being-listed-on-coinbase-huobi-and-crypto-com/"
+			},
+			{
+				"title": "Cointel",
+				"icon": "/pic/nft/media/cointel.svg",
+				"description": "Crypterium, the fast-growing digital fintech solution helping customers manage their assets with ease, has announced its largest listing in the history of the company on the world’s biggest cryptocurrency exchange, Coinbase. ",
+				"slug": "https://cointelegraph.com/press-releases/crypterium-officially-listed-on-coinbase-with-transfer-wallet-support"
+			}
+		]
+	},
+	"community": {
+		"title": "join our community",
+		"array": [
+			{
+				"title": "telegram",
+				"link": "https://t.me/choise_com",
+				"description": "announcements and community",
+				"icon": "<svg width=\"38\" height=\"34\" viewBox=\"0 0 38 34\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M34.4247 1.19585L2.13297 14.4489C0.833492 15.0661 0.393974 16.3021 1.81888 16.9728L10.1031 19.7748L30.1333 6.59979C31.2269 5.77269 32.3466 5.99324 31.3831 6.90311L14.1799 23.481L13.6395 30.4967C14.1401 31.5799 15.0565 31.585 15.6411 31.0465L20.4007 26.2534L28.5521 32.7499C30.4454 33.9428 31.4755 33.173 31.8829 30.9865L37.2295 4.04183C37.7846 1.35052 36.838 0.164707 34.4247 1.19585Z\"/></svg>",
+				"className": "telegram"
+			},
+			{
+				"title": "discord",
+				"link": "https://discord.com/invite/GQbcNbRWSm",
+				"description": "chat with the community",
+				"icon": "<svg width=\"42\" height=\"35\" viewBox=\"0 0 42 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M35.2458 3.70614C32.6187 2.3954 29.8097 1.4428 26.8729 0.900391C26.5122 1.59575 26.0908 2.53101 25.8003 3.27502C22.6785 2.77437 19.5853 2.77437 16.5208 3.27502C16.2304 2.53101 15.7994 1.59575 15.4355 0.900391C12.4956 1.4428 9.68332 2.3989 7.0562 3.71308C1.75727 12.2519 0.320816 20.5786 1.03904 28.787C4.55357 31.5858 7.95957 33.2859 11.3081 34.3985C12.1349 33.1851 12.8722 31.8952 13.5075 30.5358C12.2976 30.0456 11.1389 29.4407 10.044 28.7384C10.3345 28.5089 10.6186 28.269 10.8931 28.0222C17.571 31.3529 24.8267 31.3529 31.4249 28.0222C31.7026 28.269 31.9867 28.5089 32.2739 28.7384C31.1759 29.4441 30.0139 30.0491 28.8041 30.5393C29.4394 31.8952 30.1736 33.1886 31.0035 34.4019C34.3552 33.2894 37.7644 31.5893 41.2789 28.787C42.1217 19.2713 39.8393 11.0211 35.2458 3.70614ZM14.4172 23.7389C12.4126 23.7389 10.7686 21.7433 10.7686 19.313C10.7686 16.8828 12.3775 14.8837 14.4172 14.8837C16.457 14.8837 18.1009 16.8793 18.0658 19.313C18.069 21.7433 16.457 23.7389 14.4172 23.7389ZM27.9008 23.7389C25.8961 23.7389 24.2522 21.7433 24.2522 19.313C24.2522 16.8828 25.861 14.8837 27.9008 14.8837C29.9405 14.8837 31.5845 16.8793 31.5494 19.313C31.5494 21.7433 29.9405 23.7389 27.9008 23.7389Z\"/></svg>",
+				"className": "discord"
+			},
+			{
+				"title": "twitter",
+				"link": "https://twitter.com/ChoiseCom",
+				"description": "news and product updates",
+				"icon": "<svg width=\"39\" height=\"33\" viewBox=\"0 0 39 33\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M38.2943 3.97486C36.9025 4.61894 35.4093 5.05621 33.8429 5.2512C35.4431 4.24668 36.6715 2.65125 37.2463 0.754472C35.7474 1.68809 34.0908 2.36171 32.3271 2.72807C30.9128 1.15037 28.9012 0.163574 26.6698 0.163574C22.393 0.163574 18.922 3.8035 18.922 8.28842C18.922 8.92659 18.9896 9.54703 19.1248 10.1379C12.6843 9.80111 6.97624 6.56299 3.15586 1.64673C2.49095 2.84625 2.10779 4.24077 2.10779 5.72983C2.10779 8.54841 3.47704 11.0361 5.55627 12.4897C4.28845 12.4483 3.09387 12.082 2.0458 11.4734C2.0458 11.5088 2.0458 11.5384 2.0458 11.5738C2.0458 15.5092 4.71669 18.7946 8.26097 19.5391C7.61297 19.7223 6.92552 19.8227 6.22118 19.8227C5.71968 19.8227 5.23509 19.7696 4.76177 19.675C5.74785 22.9013 8.61032 25.2531 11.9968 25.3181C9.34284 27.4985 6.00705 28.7985 2.37262 28.7985C1.74716 28.7985 1.13297 28.7571 0.524414 28.6862C3.95036 30.9907 8.0243 32.3379 12.4025 32.3379C26.6529 32.3379 34.4458 19.9586 34.4458 9.22203C34.4458 8.8675 34.4402 8.51887 34.4232 8.17024C35.939 7.0239 37.2519 5.59392 38.2887 3.96305L38.2943 3.97486Z\"/></svg>",
+				"className": "twitter"
+			},
+			{
+				"title": "medium",
+				"link": "https://choisecom.medium.com",
+				"description": "read our blogs and articles",
+				"icon": "<svg width=\"50\" height=\"27\" viewBox=\"0 0 50 27\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M13.9971 0.900391C21.6639 0.900391 27.8785 6.69985 27.8785 13.8534C27.8785 21.0069 21.6634 26.8059 13.9971 26.8059C6.33081 26.8059 0.115234 21.0069 0.115234 13.8534C0.115234 6.69985 6.33034 0.900391 13.9971 0.900391ZM36.1655 1.65914C39.9989 1.65914 43.1064 7.11813 43.1064 13.8534H43.1069C43.1069 20.5868 39.9993 26.0476 36.1659 26.0476C32.3326 26.0476 29.225 20.5868 29.225 13.8534C29.225 7.11988 32.3321 1.65914 36.1655 1.65914ZM46.8945 2.92926C48.2424 2.92926 49.3357 7.82006 49.3357 13.8534C49.3357 19.8849 48.2429 24.7774 46.8945 24.7774C45.5461 24.7774 44.4538 19.8862 44.4538 13.8534C44.4538 7.8205 45.5466 2.92926 46.8945 2.92926Z\"/></svg>",
+				"className": "medium"
+			}
+		]
+	},
+	"team": {
+		"title": "our team",
+		"array": [
+			{
+				"title": "Vladimir Gorbunov",
+				"description": "ceo & founder",
+				"fav": true,
+				"image": "/pic/team/gorbunov.jpg"
+			},
+			{
+				"title": "Austin Kimm",
+				"description": "director of strategy & investments coo",
+				"fav": true,
+				"image": "/pic/team/kimm.jpg"
+			},
+			{
+				"title": "Ivan Mirov",
+				"description": "project team lead",
+				"fav": true,
+				"image": "/pic/team/mirov.jpg"
+			}
+		]
+	}
+}

@@ -1,0 +1,151 @@
+{
+	"seo": {
+		"title": "Get up to 1 200% expected return with BitDriven portfolio",
+		"description": "Catch a limited chance to enter the BitDriven portfolio with the most promising coins that historically outperformed Bitcoin’s growth after each halving. Choise.com users have an exceptional chance to earn by simply holding BitDriven index token. Exclusively at Choise.com."
+	},
+	"main": {
+		"title": "get up to <span>1 200%</span> expected return with bitdriven portfolio",
+		"descriptions": [
+			"While Bitcoin regularly goes through x5 price growth, some coins show x10 or even x15 growth.",
+			"Exclusively for Choise.com, One More Fund has created the AI algorithm that picks coins that are supposed grow up to x12 alongside with the next Bitcoin growth. Selected coins are packed into a promising BitDriven Portfolio and Choise.com users have an exceptional chance to earn by simply holding BitDriven assets."
+		],
+		"total_title": "The pool closes in",
+		"total_already": "Already in the pool",
+		"total_price": "Token price",
+		"total_button": "Earn on BitDriven",
+		"live": "The sale is live",
+		"closed_title": "The sale is over",
+		"closed_description": "Missed the Chance? No worries! Subscribe to our <a href='https://t.me/+ENTdxo0JpvpmNDQy' target='_blank' rel='noreferrer'>news channel</a> and grab next opportunities to earn more.",
+		"closed_telegram": "Follow us on Telegram"
+	},
+	"fund": {
+		"title": "Bitcoin Driven Portfolio",
+		"descriptions": [
+			"Every 4 years, there is a halving in the Bitcoin network, followed by the active market growth when Bitcoin updates its historical highs.",
+			"The most common strategy for crypto investors is to buy BTC during the dip before the halving.",
+			"The most lucrative strategy for crypto investors is to buy tokens that historically outperform Bitcoin on its highs after the halving."
+		]
+	},
+	"how_works": {
+		"title": "How it works",
+		"description":"Special coin selection technique + permanent automatic rebalancing = outstanding strategy results",
+		"selected_title": "How the coins are selected",
+		"portfolio": "Portfolio",
+		"selected1Array": ["Launched between 2018 and 2021", "Market cap is more than $50M"],
+		"selected2Array":  ["Launched in 2018 or earlier", "Had at least two up spikes in price", "Market cap is more than $50M "],
+		"portfolio_title": "How the portfolio is managed",
+		"portfolioArray": [
+			{
+				"title": "High expected return",
+				"description": "The expected return of the BitDriven trading strategy is <span>12 times</span> the initial investment."
+			},
+			{
+				"title": "Portfolio diversification",
+				"description": "The strategy involves dividing selected coins into different segments of the crypto industry to achieve portfolio diversification and <span>reduce systematic risk.</span>"
+			},
+			{
+				"title": "Machine learning algorithms",
+				"description": "BitDriven uses <span>proprietary machine learning</span> algorithms to analyze past market behavior and select coins with a high correlation to Bitcoin and the potential for higher returns."
+			},
+			{
+				"title": "Automatic rebalancing",
+				"description": "The portfolio is rebalanced automatically by the machine learning algorithms to <span>maximize profitability.</span>"
+			}
+		],
+		"conditions_title": "Strategy conditions",
+		"conditions_array": [
+			"<span>up to 12-15X</span><p>Expected Return</p>",
+			"<span>5 USDT</span><p>BitDriven token price</p>",
+			"<span>150 USDT</span><p>Minimal Investment Amount</p>"
+		],
+		"terms_title": "Strategy terms",
+		"terms_array":[
+			{
+				"icon": "<span><img src=\"/pic/bitdriven/s-icon1.svg\" alt=\"12 Х\"/>12 Х</span>",
+				"title": "<p>Your profit</p>"
+			},
+			{
+				"icon": "<span><img src=\"/pic/bitdriven/s-icon2.svg\" alt=\"20%\"/>20%</span>",
+				"title": "<p>Performance fee</p>"
+			},
+			{
+				"icon": "<span><img src=\"/pic/bitdriven/s-icon3.svg\" alt=\"12 X\"/>12 X</span>",
+				"title": "<p>Your profit</p>"
+			},
+			{
+				"icon": "<span><img src=\"/pic/bitdriven/s-icon2.svg\" alt=\"15%\"/>15%</span>",
+				"title": "<p>Performance fee</p>"
+			}
+		]
+	},
+	"getting_started": {
+		"title": "getting started is easy",
+		"step": "Step",
+		"download": "Download",
+		"array": [
+			{
+				"title": "Install Choise.com App",
+				"image": "/pic/bitdriven/started-1.jpg"
+			},
+			{
+				"title": "Register in the application",
+				"image": "/pic/bitdriven/started-2.jpg"
+			},
+			{
+				"title": "Buy BitDriven index token",
+				"image": "/pic/bitdriven/started-3.jpg"
+			}
+		]
+	},
+	"information": {
+		"title": "provided by One More Fund exclusively for choise.com",
+		"descriptions": [
+			"<strong>One More Fund is a thesis-driven Hedge fund</strong> that invests in tokens and companies that leverage permissionless crypto networks and their inefficiencies to maximize the returns though the full crypto cycle.",
+			"<strong>Unique risk / reward dynamic given ability</strong> to re-balance liquid positions and ability to identify inefficiencies in the DEX space allows for higher returns during any market cycle."
+		],
+		"last_item_desc": [
+			"<strong>Fund is focused on the blockchain finance,</strong> providing a broad selection of data-driven investment opportunities, market neutral yield farming strategies, cyclical value driven investments and AI-driven trading.",
+			"Allocations are made into fully modeled, market tested tokens which are concentrated around high prospect vertices:"
+		],
+		"array": ["DeFi", "Blockchain infrastructure", "Security", "Metaverse", "Algorithmic trading", "Custody"]
+	},
+	"earn": {
+		"link": "Earn on BitDriven"
+	},
+	"faq": {
+		"title": "FAQ",
+		"array": [
+			{
+				"title": "BitDriven is an index token. What does it mean?",
+				"description": "<p>BitDriven is the token that represents Bitcoin Driven Portfolio. It comprises well-established coins that have strong fundamental reasons for outstanding performance with a successful track record, that historically grew alongside Bitcoin after every halving yet significantly outperformed it.</p><p>The Bitdriven index token is not a token in the conventional sense, but rather an index value that is calculated in proportion to the growth of the entire portfolio.</p>"
+			},
+			{
+				"title": "How can I buy BitDriven index token?",
+				"description": "<p>You can buy BitDriven in <a href='https://crypterium.onelink.me/jtmZ/bitdriven?utm_source=landing_page&utm_medium=bitdriven' target='_blank' rel='noreferrer'>Choise.com App</a> for USDT by taking the following steps</p><br/><ol><li>Open your Choise.com App.</li><li>Tap the “Show wallets” window at the Dashboard.</li><li>Tap the BitDriven icon in the list that appears.</li><li>Enter the amount you want to buy and check the transaction details.</li><li>Confirm your purchase by tapping the “Get BitDriven” button.</li></ol>"
+			},
+			{
+				"title": "Can I send BitDriven to another wallet and/or sell it on the exchange?",
+				"description": "<p>No, these options are not available. BitDriven is the unique token created by One More Fund exclusively for Choise.com, so you may only use it inside Choise.com App.</p>"
+			},
+			{
+				"title": "What tokens are inside the BitDriven portfolio?",
+				"description": "<p>The list of tokens inside the BitDriven portfolio will be provided to holders after the launch of the strategy.</p>"
+			},
+			{
+				"title": "Why does it take so long to get the expected return?",
+				"description": "<p>The BitDriven strategy is tied to market cycles and Bitcoin halving: the portfolio consists of coins that historically show a high correlation with Bitcoin, yet fluctuate with a greater amplitude. Thus, there is every reason to expect that after spring 2024 halving of Bitcoin (and its growth on top of that) these coins will grow even more, allowing you to get the expected 12X return.</p><p>At the same time, since the amplitude of the coins’ price fluctuations is greater than that of Bitcoin, it can be assumed that they have fallen even more right now, therefore creating an attractive opportunity to buy on the dips.</p>"
+			},
+			{
+				"title": "What are the withdrawal conditions?",
+				"description": "<p>You can withdraw your funds from BitDriven anytime after the 200-hour sale is over.</p><p>You will be charged the fee for early withdrawal (up to 6 months from the start of the strategy) – 2% of the withdrawal sum, and the performance fee depending on your profit:</p><ul><li>if you made less than 12X profit – 15% of the profit,</li><li>if you made 12X profit or more – 20% of the profit.</li></ul><p>Mind that there is a redemption period of 3 business days (these days are required to redeem funds from the portfolio and return them to your balance). You will get your funds back at the rate valid at the time of accrual in USDT straight to your Choise.com wallet.</p>"
+			},
+			{
+				"title": "What will happen if the projected $1M is not collected during the 200 hour sale?",
+				"description": "<p>We will launch the BitDriven strategy only if the pool reaches the $1M mark, or exceeds it. If the projected $1M is not collected during the sale, we will credit your funds back to you in USDT in Choise.com App. Also, 2% fee for early withdrawal (up to 6 months from the start of the strategy) and commissions for refund transactions will not be charged.</p>"
+			}
+		]
+	},
+	"terms": {
+		"link": "Terms of the product"
+	}
+}

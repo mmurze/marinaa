@@ -1,0 +1,40 @@
+{
+	"seo": {
+		"title": "Proteja su riesgo al comprar criptomonedas y siéntase seguro con el Seguro de Precios",
+		"description": "El Seguro de Precios es una opción para fijar un precio mínimo garantizado al comprar BTC o ETH. Si el precio de una criptomoneda determinada parece ser inferior al precio del seguro al vencimiento, Choise.com cubrirá las pérdidas."
+	},
+	"main": {
+		"success_title": "Confirmado",
+		"success_description": "Hemos recibido su solicitud y le informaremos cuando el producto esté disponible",
+		"link": "Síganos en Telegram",
+		"submit_title": "Seguro de precio de criptomonedas",
+		"phone_placeholder":"Número de teléfono",
+		"email_placeholder": "Correo electrónico",
+		"choose_placeholder": "Elija la moneda para comprar",
+		"amount_placeholder": "Cantidad",
+		"dollar": "$",
+		"check_block_title": "¿Ya está registrado en la aplicación Choise.com?",
+		"button_loading": "Cargando",
+		"button_continue": "Continuar",
+		"risk_title": "Proteja su riesgo al comprar criptomonedas y siéntase seguro con el Seguro de Precios",
+		"risk_description": "El Seguro de Precios es una opción para fijar un precio mínimo garantizado al comprar BTC o ETH. Si el precio de una criptomoneda determinada parece ser inferior al precio del seguro al vencimiento, Choise.com cubrirá las pérdidas.",
+		"risk_label": "Por ejemplo, compra 1 BTC a un precio de $20,000 y lo cubre con el seguro durante 30 días. Si después de 30 días el precio del BTC es de $20,000 o más, el seguro vencerá. Si después de 30 días el precio del BTC cae por debajo de $20,000, por ejemplo, $17,000, recibirá una cobertura de $20,000 - $17,000 = $3,000.",
+		"banner_title": "primer mes gratis",
+		"banner_description": "Limitado: para los primeros 1,000 usuarios <strong>Hasta $300 de cobertura</strong>",
+		"insurance_title": "Precio del seguro",
+		"insurance_array": [
+			"/mes",
+			"a partir del segundo mes"
+		],
+		"modal_button": "Compre BTC o ETH y asegure el precio",
+		"text1": "Primer mes gratis",
+		"text2": "0% de comisión en la primera compra",
+		"text3": "Cobertura pagada en USDT",
+		"text4": "Siéntase libre de usarlo, invertirlo o retirarlo"
+	},
+	"banner": {
+		"array": ["No, no estoy interesado en absoluto", "Tal vez. Necesito más información", "Síiii"],
+		"title": "¿Desea asegurar el precio del BTC?",
+		"item_text": "¡Ok, gracias!"
+	}
+}

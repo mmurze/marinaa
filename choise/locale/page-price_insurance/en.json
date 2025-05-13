@@ -1,0 +1,78 @@
+{
+	"seo": {
+		"title": "Crypto Price Insurance (Bitcoin & Ethereum)",
+		"description": "Hedge your risks with Choise.com Crypto Price Insurance and feel safe while going crypto."
+	},
+	"main": {
+		"title": "price insurance",
+		"description": "Hedge your risks with Choise.com Crypto Price Insurance and feel safe while going crypto.",
+		"wallet_deep_link": "Start now"
+	},
+	"what_is": {
+		"title": "what is price insurance",
+		"descriptions": [
+			"Price Insurance is an option to fix guaranteed minimum price when buying BTC or ETH.",
+			"With Choise.com Price Insurance you receive the opportunity to insure the amount of crypto you want to buy for a certain period of time. If the price of a given crypto appears to be less than the insurance price at expiry, Choise.com will cover the losses."
+		],
+		"link": "Sounds aaaaawesome, right?"
+	},
+	"work": {
+		"title": "how does price insurance work?",
+		"array": [
+			{
+				"count": "01",
+				"label": "price falls",
+				"description": "If after 30 days the BTC price falls under $18 000 to $17 000, you will receive 0.1 x (18 000 - 17 000) =  100 USDT coverage"
+			},
+			{
+				"count": "02",
+				"label": "price is growing",
+				"description": "If after 30 days the BTC price is $18 000 or more, the insurance will expire and you can earn on a growing rate"
+			},
+			{
+				"icon": "/pic/price-insurance/secure.svg",
+				"description": "You buy 0.1 BTC at a $18 000 rate and cover it with our insurance for 30 days. You pay $1 800 for 0.1 BTC and $X for the insurance (the cost will be calculated in the App via a mathematical algorithm) plus fees for the transaction. The exact amount of fees is calculated automatically for each transaction"
+			}
+		]
+	},
+	"video_banner": {
+		"title": "how-to buy btc and eth with insurance",
+		"button": "Watch the video"
+	},
+	"faq": {
+		"array": [
+			{
+				"title": "Which coins are supported?",
+				"description": "<p>BTC and ETH for now.</p>"
+			},
+			{
+				"title": "How is the insurance price quoted and how are payments made?",
+				"description": "<p>No matter how you buy your BTC or ETH -- with USD, EUR or any other fiat or crypto, the insurance conditions are always shown in USD. The insurance price will be charged with your payment asset. The insurance coverage payment on expiration is always returned in USDT.</p>"
+			},
+			{
+				"title": "How much will I pay for the service?",
+				"description": "<p>You can check the exact cost for a transaction in the App. The cost is calculated in the App via a mathematical algorithm for each transaction and considers market conditions and other factors.</p>"
+			},
+			{
+				"title": "When do price insurances expire?",
+				"description": "<p>Expiration dates -- Every Friday, at 08:00 UTC.</p>"
+			},
+			{
+				"title": "Do I need to have BTC on my wallet at the expiry date for insurance to work?",
+				"description": "<p>No. Feel free to use, invest or withdraw your base asset. Insurance is a separate product and will work disregarding your BTC position. You will simply receive a price difference for the insured volume on your wallet, that's all.</p>"
+			},
+			{
+				"title": "Can I sell the obtained insurance before expiration?",
+				"description": "<p>No. One bought insurance will be kept in your wallet till expiry.</p>"
+			},
+			{
+				"title": "Where can I see my active insurance and its history?",
+				"description": "<p>Active insurances are displayed in your wallet on the BTC or ETH page. For each transaction with insurance detailed info is available in transaction history.</p>"
+			},
+			{
+				"title": "How can I get access to price insurance?",
+				"description": "<p>You need to accept the <a href='https://choise.com/pdf/choise-insurance-terms.pdf' target='_blank' rel='noreferrer'>Crypto Insurance Terms</a> in order to be able to use it.</p>"
+			}
+		]
+	}
+}

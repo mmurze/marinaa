@@ -1,0 +1,78 @@
+{
+	"seo": {
+		"title": "Seguro de precio de criptomonedas (Bitcoin y Ethereum)",
+		"description": "Cubre tus riesgos con el Seguro de Precio de Criptomonedas de Choise.com y siéntete seguro al invertir en cripto."
+	},
+	"main": {
+		"title": "seguro de precio",
+		"description": "Cubre tus riesgos con el Seguro de Precio de Criptomonedas de Choise.com y siéntete seguro al invertir en cripto.",
+		"wallet_deep_link": "Comenzar ahora"
+	},
+	"what_is": {
+		"title": "¿qué es el seguro de precio?",
+		"descriptions": [
+			"El seguro de precio es una opción para fijar un precio mínimo garantizado al comprar BTC o ETH.",
+			"Con el Seguro de Precio de Choise.com, tienes la oportunidad de asegurar la cantidad de cripto que deseas comprar durante un cierto período de tiempo. Si el precio de una criptomoneda determinada resulta ser menor que el precio del seguro al vencimiento, Choise.com cubrirá las pérdidas."
+		],
+		"link": "¡Suena increíble, ¿verdad?"
+	},
+	"work": {
+		"title": "¿cómo funciona el seguro de precio?",
+		"array": [
+			{
+				"count": "01",
+				"label": "el precio baja",
+				"description": "Si después de 30 días el precio de BTC cae de $18,000 a $17,000, recibirás una cobertura de 0.1 x (18,000 - 17,000) = 100 USDT"
+			},
+			{
+				"count": "02",
+				"label": "el precio sube",
+				"description": "Si después de 30 días el precio de BTC es de $18,000 o más, el seguro vencerá y podrás beneficiarte de una tasa de crecimiento"
+			},
+			{
+				"icon": "/pic/price-insurance/secure.svg",
+				"description": "Compras 0.1 BTC a una tasa de $18,000 y lo cubres con nuestro seguro durante 30 días. Pagas $1,800 por 0.1 BTC y $X por el seguro (el costo se calculará en la aplicación mediante un algoritmo matemático), además de las comisiones por la transacción. El monto exacto de las comisiones se calcula automáticamente para cada transacción."
+			}
+		]
+	},
+	"video_banner": {
+		"title": "cómo comprar BTC y ETH con seguro",
+		"button": "Ver el video"
+	},
+	"faq": {
+		"array": [
+			{
+				"title": "¿Qué criptomonedas están admitidas?",
+				"description": "<p>Por ahora, BTC y ETH.</p>"
+			},
+			{
+				"title": "¿Cómo se cotiza el precio del seguro y cómo se realizan los pagos?",
+				"description": "<p>No importa cómo compres tus BTC o ETH, ya sea con USD, EUR o cualquier otra moneda fiduciaria o cripto, las condiciones del seguro siempre se muestran en USD. El precio del seguro se cargará con tu activo de pago. El pago de la cobertura del seguro al vencimiento siempre se devuelve en USDT.</p>"
+			},
+			{
+				"title": "¿Cuánto pagaré por el servicio?",
+				"description": "<p>Puedes consultar el costo exacto de una transacción en la aplicación. El costo se calcula en la aplicación mediante un algoritmo matemático para cada transacción y tiene en cuenta las condiciones del mercado y otros factores.</p>"
+			},
+			{
+				"title": "¿Cuándo vencen los seguros de precio?",
+				"description": "<p>Fechas de vencimiento: todos los viernes, a las 08:00 UTC.</p>"
+			},
+			{
+				"title": "¿Necesito tener BTC en mi billetera en la fecha de vencimiento para que el seguro funcione?",
+				"description": "<p>No. Siéntete libre de usar, invertir o retirar tu activo base. El seguro es un producto independiente y funcionará independientemente de tu posición en BTC. Simplemente recibirás la diferencia de precio por el volumen asegurado en tu billetera, eso es todo.</p>"
+			},
+			{
+				"title": "¿Puedo vender el seguro adquirido antes del vencimiento?",
+				"description": "<p>No. Un seguro comprado se mantendrá en tu billetera hasta el vencimiento.</p>"
+			},
+			{
+				"title": "¿Dónde puedo ver mi seguro activo y su historial?",
+				"description": "<p>Los seguros activos se muestran en tu billetera en la página de BTC o ETH. Para cada transacción con seguro, hay información detallada disponible en el historial de transacciones.</p>"
+			},
+			{
+				"title": "¿Cómo puedo acceder al seguro de precio?",
+				"description": "<p>Debes aceptar los <a href='https://choise.com/pdf/choise-insurance-terms.pdf' target='_blank' rel='noreferrer'>Términos de Seguro de Criptomonedas</a> de Choise.com para poder utilizarlo.</p>"
+			}
+		]
+	}
+}

@@ -1,0 +1,247 @@
+{
+	"header":{
+		"index": {
+			"get_wallet": "Get a free wallet"
+		},
+		"store_links": {
+			"qr_madal": "Scan with your phone"
+		}
+	},
+	"faq": {
+		"title": "FAQ"
+	},
+	"licensed_bit_go": {
+		"license": "EU entity & license",
+		"security": "Certified custodians - BitGo"
+	},
+	"media_slider": {
+		"learn": "learn more"
+	},
+	"check_countries_modal": "Check available countries",
+	"success_mint": {
+		"title": "total supply",
+		"cho": "cho nfts",
+		"BNB_chain": "BNB Chain",
+		"minting_cost": "Minting cost"
+	},
+	"day_left": "Days left:",
+	"footer": {
+		"links":  [
+			{
+				"title": "Reglaments",
+				"slug": "/help#reglaments",
+				"target": false
+			},
+			{
+				"title": "Restricted countries",
+				"slug": "/help/360005402279/360019668920",
+				"target": false
+			}
+		],
+		"first_description": "All B2B clients are serviced by Charism LLC, a company incorporated in St. Vincent and Grenadines with the company number 1999 LLC 2022. The registered office is located at Suite 336, Beachmont Business Centre, Kingstown, and the company's registration number is 1999 LLC 2022. Charism LLC is a limited liability company created and existing under the laws of Saint Vincent and Grenadines.",
+		"business_description": "The functionality of this service is limited to viewing only. Please note that you will not be able to access any additional features or perform any interactive actions at this time.",
+		"descriptions": "The website and mobile apps are owned by the company Crypterium AS. Crypterium AS and Choise Services UAB design and operate Choise.com website and Choise.com mobile applications jointly. Crypterium AS is incorporated in Estonia with the company number 14352837, registered office at 5 A. Lauteri, Tallinn, 10114. Cryptocurrency services offered on the website platform are provided by UAB Choise Services. UAB Choise Services is incorporated in Lithuania with the company number <a href=\"https://rekvizitai.vz.lt/imone/stilgeka/juridinis-asmuo/\" target=\"_blank\" rel=\"noreferrer\"> 305964183</a>, registered office at Vilnius, Eišiškių Sodų 18-oji g. 11.UAB Choise Services is registered as a virtual currency exchange operator and a custodian virtual currency wallet operator. Charism LLC is incorporated in St. Vincent and Grenadines with the company number 1999 LLC 2022, registered office at Suite 336, Beachmont Business Centre, Kingstown, registration number 1999 LLC 2022. Charism LLC is a limited liability company created and existing under the laws of Saint Vincent and Grenadines. Choise.com is not a bank. Your Crypterium prepaid card is issued by UAB Walletto (registration number 304686884) pursuant to license by Visa. UAB Walletto is authorized by the Bank of Lithuania to conduct electronic money service activities under the Law on Electronic Money and Electronic Money institutions (license number 33). Crypterium AS is the Card Programme Manager. Digital currency values are not static and fluctuate due to market changes. Not all products and services are available in all geographic areas and are subject to applicable terms and conditions. Choise.com does not provide services to citizens of the Russian Federation, non-EU residents. Eligibility for particular products and services is subject to final determination by Сhoise.com. Rates for Choise.com products are subject to change.",
+		"copyright": "2022 © Charism LLC, registry code: 1999 LLC 2022, Address: Beachmont Business Centre, Suite 336, Kingstown, Saint Vincent and the Grenadines",
+		"get_wallet": "Get a free wallet"
+	},
+	"wallet_links": {
+		"array":[
+			{
+				"title": "Crypto Wallet",
+				"slug": "/wallet"
+			},
+			{
+				"title": "Buy",
+				"slug": "/wallet/buy"
+			},
+			{
+				"title": "Exchange",
+				"slug": "/wallet/exchange"
+			},
+			{
+				"title": "Cashout",
+				"slug": "/wallet/cashout"
+			},
+			{
+				"title": "Send",
+				"slug": "/wallet/send"
+			},
+			{
+				"title": "Spend",
+				"slug": "/wallet/spend"
+			},
+			{
+				"title": "Referral program",
+				"slug": "/wallet/referral"
+			}
+		]
+	},
+	"wallet_coin_supported": {
+		"title": "30+ coins supported",
+		"description": "Choise.com supports 30+ most popular cryptocurrencies, including top-performing CHO, Bitcoin, Ethereum, Dash, Ripple as well as emerging coins like Augur, Tether, Dai to name a few out of too many",
+		"show": "Show more"
+	},
+	"mint_loading": {
+		"processing": "processing",
+		"description": "Transaction may take up to 2 minutes depending on the overload of the blockchain."
+	},
+	"media_news_list": {
+		"title": "media about us",
+		"link": "Read more"
+	},
+	"choiseProducts": {
+		"title": "сhoise.com products",
+		"description": "Choise.com’s wide range of global services lets you use cryptocurrencies with the same ease as traditional money",
+		"list": [
+			{
+				"title": "wallet",
+				"description": "Easily manage your digital assets with our award-winning wallet",
+				"image": "/pic/choise-products/wallet.png",
+				"width": 692,
+				"height": 520,
+				"slug": "/wallet",
+				"image_mob": "/pic/choise-products/wallet-mob.png",
+				"width_mob": 230.47,
+				"height_mob": 250
+			},
+			{
+				"title": "referral program",
+				"description": "Invite friends and earn on their commissions for a whole year",
+				"image": "/pic/choise-products/referral.png",
+				"width": 373,
+				"height": 268,
+				"slug": "/wallet/referral"
+			},
+			{
+				"title": "charism",
+				"description": "A unique platform for all your DeFi needs",
+				"image": "/pic/choise-products/charism.png",
+				"width": 232,
+				"height": 268,
+				"slug": "/charism"
+			},
+			{
+				"title": "interest accounts",
+				"description": "Time is money! Place your savings on a safe interest account and get a passive income",
+				"image": "/pic/choise-products/interest-accounts.png",
+				"width": 424,
+				"height": 263,
+				"slug": "/interest-accounts"
+			},
+			{
+				"title": "visa сard",
+				"description": "Swipe, tap, or chip — pay with your Card in over 42 million physical and online retailers worldwide",
+				"image": "/pic/choise-products/cards.png",
+				"width": 232,
+				"height": 263,
+				"slug": "/cards"
+			}
+		]
+	},
+	"businessform": {
+		"title": "Your application has been sent successfully, thank you.",
+		"description": "Personal manager will contact you within 2 business days.",
+		"title_button_1": "Continue",
+		"title_1": "let's build a",
+		"title_span": "custom plan",
+		"title_2": " around your business",
+		"description_form": "Fill the form, and we will contact you back to discuss services that can suit you best",
+		"form_heading": "It’s your choise to earn more",
+		"title_button_2": "Apply now"
+	},
+	"wallet_deep_link": {
+		"scan": "Scan with your phone"
+	},
+	"steps_slider": {
+		"step": "step"
+	},
+	"wallet_digital_assets": {
+		"title": "1,000,000 clients entrust their digital assets to us",
+		"description": "We are a licensed, fully regulated financial institution in the European Union. Your account is protected by a 3-layer security and an anti-fraud protocol.",
+		"array": [
+			{
+				"image": "<img src=\"/pic/wallet/eu.svg\" alt=\"EU entity & license\"/>",
+				"title": "EU entity & license"
+			},
+			{
+				"image": "<img src=\"/pic/wallet/bitgo.svg\" alt=\"Certified custodians\"/>",
+				"title": "Certified custodians - BitGo"
+			}
+		]
+	},
+	"verificatedProfile": {
+		"title_success": "You have successfully passed verification!",
+		"description_success": "Now you can enjoy your full profile functionality and get rewards as an Ambassador",
+		"title_button": "Got it",
+		"title": "Verify your profile",
+		"description": "To continue working in the profile, you need to pass account verification. This action is required only once!",
+		"label_1": "Phone number",
+		"label_2": "Password",
+		"label_3": "Enter code",
+		"submit_button_1": "Start verification",
+		"submit_button_2": "Verify",
+		"back_button": "Back",
+		"sub_description_1": "Don’t have an account in Choise.com app yet?",
+		"link_a": "Register",
+		"sub_description_2": " now to access all opportunities to earn and full profile functionality"
+	},
+	"connectWalletModal": {
+		"connect": "connect your wallet",
+		"description": "to get access to your NFT & Ambassador profile",
+		"array": [
+			{
+				"title": "MetaMask",
+				"icon": "/pic/nft/connect-wallet-icons/metamask.svg",
+				"wallet": "metamask",
+				"popular": true
+			},
+			{
+				"title": "WalletConnect",
+				"icon": "/pic/nft/connect-wallet-icons/wallet-connect.svg",
+				"wallet": "walletconnect"
+			},
+			{
+				"title": "Binance Smart Wallet",
+				"icon": "/pic/nft/connect-wallet-icons/binance-smart-wallet.svg",
+				"wallet": "bsc"
+			},
+			{
+				"title": "Coinbase Wallet",
+				"icon": "/pic/nft/connect-wallet-icons/coinbase-wallet.svg",
+				"wallet": "coinbase-wallet"
+			}
+		],
+		"title_span": "Popular",
+		"description_link": "How to ",
+		"link": "install Metamask?"
+	},
+	"cookiesPolicy": {
+		"description_link_a": "We use cookies to give you the most relevant experience. ",
+		"link_a": "Learn more",
+		"title_button": "Allow all"
+	},
+	"helpSearch": {
+		"title": "all that can help",
+		"title_button": "Search"
+	},
+	"helpKnowMore": {
+		"title_1": "Need to know more?",
+		"description_1_1": "Feel free to contact us 24/7 via",
+		"description_1_2": "or fill the request form",
+		"link_a": "Send request",
+		"title_2": "How-to guides",
+		"description_2": "99% questions are already covered in our detailed guides",
+		"link": "Learn more"
+	},
+	"helpBreadCrumbs":{
+		"title": "Help center"
+	},
+	"newsSearch": {
+		"title_1": "all to know ",
+		"title_2": " about crypto",
+		"title_button": "Search"
+	},
+	"newsCategories": {
+		"label": "Blog categories"
+	}
+}

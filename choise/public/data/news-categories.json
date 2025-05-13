@@ -1,0 +1,145 @@
+[
+	{
+		"title": "all",
+		"label": "#all",
+		"slug": "/news",
+		"total": 1,
+		"seo_title": "all"
+	},
+	{
+		"title": "CHO token",
+		"label": "#CHO",
+		"slug": "/news/cho-token",
+		"total": 1,
+		"fav": true,
+		"seo_title": "CHO token"
+	},
+	{
+		"title": "CRPT token",
+		"label": "#crpt",
+		"slug": "/news/crpt-token",
+		"total": 1,
+		"fav": true,
+		"seo_title": "CRPT token"
+	},
+	{
+		"title": "choise.com",
+		"label": "#choise.com",
+		"slug": "/news/updates",
+		"total": 1,
+		"fav": true,
+		"seo_title": "CRPT token"
+	},
+	{
+		"title": "Blockchain",
+		"label": "#blockchain",
+		"slug": "/news/blockchain",
+		"total": 115,
+		"seo_title": "Blockchain"
+	},
+	{
+		"title": "Buy Crypto",
+		"label": "#buycrypto",
+		"slug": "/news/buy-crypto",
+		"total": 41,
+		"seo_title": "Buy Crypto"
+	},
+	{
+		"title": "Cash Out Crypto",
+		"label": "#cashoutcrypto",
+		"slug": "/news/cash-out-crypto",
+		"total": 4,
+		"seo_title": "Cash Out Crypto"
+	},
+	{
+		"title": "Crypto Lifestyle",
+		"label": "#cryptolifestyle",
+		"slug": "/news/crypto-lifestyle",
+		"total": 53,
+		"seo_title": "Crypto Lifestyle"
+	},
+	{
+		"title": "Crypto Wallets",
+		"label": "#cryptowallets",
+		"slug": "/news/crypto-wallets",
+		"total": 18,
+		"seo_title": "Crypto Wallets"
+	},
+	{
+		"title": "Crypto World",
+		"label": "#cryptoworld",
+		"slug": "/news/crypto-world",
+		"total": 57,
+		"seo_title": "Crypto World"
+	},
+	{
+		"title": "Daily Analysis",
+		"label": "#dailyanalysis",
+		"slug": "/news/dailyanalysis",
+		"total": 350,
+		"seo_title": "Cryptocurrency Market Daily Analysis (Technical & Fundamental)"
+	},
+	{
+		"title": "Earn",
+		"label": "#earn",
+		"slug": "/news/earn",
+		"total": 5,
+		"seo_title": "Earn"
+	},
+	{
+		"title": "Featured",
+		"label": "#featured",
+		"slug": "/news/featured",
+		"total": 84,
+		"seo_title": "Featured"
+	},
+	{
+		"title": "Insights",
+		"label": "#insights",
+		"slug": "/news/insights",
+		"total": 125,
+		"seo_title": "Insights"
+	},
+	{
+		"title": "Latest",
+		"label": "#latest",
+		"slug": "/news/latest",
+		"total": 274,
+		"seo_title": "Latest"
+	},
+	{
+		"title": "Market Prices",
+		"label": "#marketprices",
+		"slug": "/news/market-prices",
+		"total": 162,
+		"seo_title": "Market Prices"
+	},
+	{
+		"title": "Opinions",
+		"label": "#opinions",
+		"slug": "/news/opinions",
+		"total": 63,
+		"seo_title": "Opinions"
+	},
+	{
+		"title": "Tutorials",
+		"label": "#tutorials",
+		"slug": "/news/tutorials",
+		"total": 26,
+		"seo_title": "Tutorials"
+	},
+	{
+		"title": "Uncategorised",
+		"label": "#uncategorised",
+		"slug": "/news/uncategorised",
+		"total": 26,
+		"seo_title": "Uncategorised"
+	},
+	{
+		"title": "Urgent updates",
+		"label": "#urgentupdates",
+		"slug": "/news/urgent-updates",
+		"total": 2,
+		"seo_title": "Urgent updates"
+	}
+]

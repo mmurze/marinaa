@@ -1,0 +1,187 @@
+{
+	"seo": {
+		"title": "cho en los principales intercambios",
+		"description": "El token que crece en medio del invierno cripto — CHO es un token de utilidad del ecosistema de Choise.com. Compra, envía, gasta, intercambia, obtén ingresos pasivos de tus tenencias de criptomonedas y obtén bonificaciones adicionales como titular de CHO."
+	},
+	"main": {
+		"title_1": "CHO en ",
+		"title_span": "PRINCIPALES",
+		"title_2": " intercambios",
+		"description": "El token que crece en medio del invierno cripto — CHO es un token de utilidad del ecosistema de Choise.com. Compra, envía, gasta, intercambia, obtén ingresos pasivos de tus tenencias de criptomonedas y obtén bonificaciones adicionales como titular de CHO.",
+		"array" : [
+			"Tarjeta Crypterium",
+			"Yield Farming",
+			"Cuentas de Interés Multimoneda",
+			"Cartera de criptomonedas",
+			"Staking",
+			"Índices",
+			"Minería Hash"
+		]
+	},
+	"description": {
+		"title": "token cho — un punto de entrada a las ventajas de los productos de choise.com",
+		"description_1": "Con su disponibilidad global y una variedad de rampas de entrada y salida, Choise.com ofrece productos de rendimiento y criptobanca complejos a través de una interfaz de usuario amigable y divertida.",
+		"description_2": "Choise.com — una puerta de entrada al universo YIELD para clientes minoristas e institucionales."
+	},
+	"banner": {
+		"title": "compra cho sin comisiones"
+	},
+	"tokenomics": {
+		"title": "tokenomics cho",
+		"description": "basado en prácticas de vanguardia de la industria",
+		"array" : [
+			{
+				"description": "Los tokenomics de CHO se presentan mediante un modelo deflacionario con un número total de 1 mil millones de tokens sujetos a quemarse con el tiempo.",
+				"image": "/pic/cho-exchanges/tokenomics-1.png"
+			},
+			{
+				"description": "Los titulares de CHO se benefician de los APY dinámicos, beneficios especiales para usuarios y socios, descuentos en comisiones y otras bonificaciones.",
+				"image": "/pic/cho-exchanges/tokenomics-2.png"
+			},
+			{
+				"description": "El peso de voto en el DAO es proporcional a la cantidad de tokens veCHO distribuidos como LP-tokens por los CHO tokens bloqueados en Charism. Cada titular de CHO puede contribuir a la evolución significativa del proyecto.",
+				"image": "/pic/cho-exchanges/tokenomics-3.png"
+			}
+		]
+	},
+	"token": {
+		"title": "token cho",
+		"description": "Los tokenomics de CHO se basan en las mejores prácticas de la industria y en nuestra experiencia en la gestión de una empresa cripto de 6 años.",
+		"title_span_1": "suministro total",
+		"description_span_1": "1 mil millones",
+		"title_span_2": "Estándares del token",
+		"description_span_2": "ERC20, SPL (Solana)",
+		"array" : [
+			{
+				"title": "a pedido",
+				"description": "Agotado en las rondas de preventa",
+				"image": "/pic/cho-exchanges/token-1.png",
+				"width": 255,
+				"height": 268,
+				"slug": "/cho"
+			},
+			{
+				"title": "equipo",
+				"description": "Cuenta con el respaldo del equipo de más de 160 profesionales con un historial de éxito",
+				"image": "/pic/cho-exchanges/token-2.png",
+				"width": 341.17,
+				"height": 268
+			},
+			{
+				"title": "discutido",
+				"description": "Alabado por los principales medios globales de cripto y fintech.",
+				"logos": true,
+				"image": "/pic/cho-exchanges/token-3.png",
+				"width": 203.06,
+				"height": 191
+			},
+			{
+				"title": "único",
+				"description": "Se mueve en contra del mercado bajista en medio del invierno cripto",
+				"image": "/pic/cho-exchanges/token-4.png",
+				"width": 344,
+				"height": 268
+			}
+		]
+	},
+	"storeList": {
+		"array" : [
+			{
+				"title": "Gate.io",
+				"icon": "/pic/cho-exchanges/store-item-1.svg",
+				"description": "Gate.io es un intercambio centralizado bien establecido que ofrece una gran cantidad de criptomonedas y pares de negociación, así como una variedad de productos de minería DeFi. Está clasificado como uno de los mejores intercambios en términos de ciberseguridad por CER.",
+				"slug": "https://choise.ink/3wtKAua",
+				"list":[
+					{
+						"value": "10M+",
+						"description": "usuarios en todo el mundo",
+						"sub_content": "Confianza en todo el mundo"
+					},
+					{
+						"value": "$12B+",
+						"description": "volumen de negociación diario",
+						"sub_content": "Uno de los 10 principales intercambios de cripto en términos de volumen de negociación"
+					}
+				]
+			},
+			{
+				"title": "Uniswap",
+				"icon": "/pic/cho-exchanges/store-item-2.svg",
+				"description": "Uniswap es uno de los intercambios descentralizados más populares que opera en la cadena de bloques de Ethereum y permite a los usuarios intercambiar rápidamente tokens ERC-20 y negociar criptomonedas sin intermediarios.",
+				"slug": "https://choise.ink/3TgvYYQ",
+				"list":[
+					{
+						"value": "$1.1T+",
+						"description": "volumen de negociación",
+						"sub_content": "Uno de los DEX más grandes del mundo"
+					},
+					{
+						"value": "3.9M+",
+						"description": "usuarios",
+						"sub_content": "Un líder dentro del espacio DeFi"
+					}
+				]
+			},
+			{
+				"title": "MexcGlobal",
+				"icon": "/pic/cho-exchanges/store-item-3.svg",
+				"description": "MEXC Global es un intercambio centralizado conocido por un motor de negociación de alto rendimiento capaz de procesar 1.4 millones de transacciones por segundo.",
+				"slug": "https://bit.ly/3dW1ElL",
+				"list":[
+					{
+						"value": "6M+",
+						"description": "usuarios"
+					},
+					{
+						"value": "$2.9B+",
+						"description": "volumen de negociación diario"
+					}
+				]
+			},
+			{
+				"title": "Lbank",
+				"icon": "/pic/cho-exchanges/store-item-4.svg",
+				"description": "Lbank es una plataforma de intercambio de criptomonedas centralizada especializada en la gestión de operaciones de activos digitales. Está clasificada como 'A', lo que significa 'Transparente'.",
+				"slug": "https://bit.ly/3dVM0XQ",
+				"list":[
+					{
+						"value": "7M+",
+						"description": "usuarios"
+					},
+					{
+						"value": "$150M+",
+						"description": "volumen de negociación diario"
+					}
+				]
+			}
+		],
+		"link_a": "Comienza a operar",
+		"title_banner": "facilítalo",
+		"description_banner": "Compra CHO en la aplicación de Choise.com directamente desde tu tarjeta sin comisiones"
+	},
+	"priceTracking": {
+		"title": "¿Seguimiento del precio de cho? Verifica aquí",
+		"array" : [
+			{
+				"title": "CoinMarketCap",
+				"icon": "/pic/cho-exchanges/coin-market-cap.svg",
+				"slug": "https://choise.ink/coinmarketcap"
+			},
+			{
+				"title": "CoinGecko",
+				"icon": "/pic/cho-exchanges/coin-gecko.svg",
+				"slug": "https://choise.ink/coingeko"
+			}
+		]
+	},
+	"howBuy": {
+		"title": "cómo comprar tokens cho",
+		"text": "paso",
+		"array" : [
+			"Elige cualquier intercambio que te resulte conveniente",
+			"Sigue el enlace y regístrate",
+			"Recarga tu cuenta utilizando una tarjeta o billeteras electrónicas",
+			"Elige el par CHO/USDT y comienza a operar"
+		]
+	}
+}

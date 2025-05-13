@@ -1,0 +1,53 @@
+{
+	"seo": {
+		"title": "forma fácil y rápida de comprar criptomonedas",
+		"description": "Compra criptomonedas en línea con moneda fiduciaria a través de Choise.com. Obtén información sobre las comisiones de la billetera en las compras de moneda fiduciaria a criptomonedas, las monedas disponibles y cómo Choise.com logra ofrecer tasas tan atractivas en el comercio de criptomonedas"
+	},
+	"wallet_main_heading": {
+		"title": "forma más fácil y rápida de comprar criptomonedas",
+		"description": "Compra criptomonedas en línea con moneda fiduciaria a través de Choise.com. Obtén información sobre las comisiones de la billetera en las compras de moneda fiduciaria a criptomonedas, las monedas disponibles y cómo Choise.com logra ofrecer tasas tan atractivas en el comercio de criptomonedas",
+		"linkTitle": "Comprar criptomonedas"
+	},
+	"array": [
+		{
+			"title": "excelente precio de mercado",
+			"description": "El sistema monitorea dinámicamente los precios de las criptomonedas en los principales intercambios en línea, lo que te permite comparar y elegir una buena tasa para tus transacciones. Comprar criptomonedas en Choise.com siempre es justo y transparente"
+		},
+		{
+			"image": "/pic/wallet/wallet-buy-description-1.jpg",
+			"alt": "excelente precio de mercado"
+		},
+		{
+			"image": "/pic/wallet/wallet-buy-description-2.jpg",
+			"alt": "0% de comisión en la primera compra"
+		},
+		{
+			"title": "0% de comisión en la primera compra",
+			"description": "La billetera no cobra comisiones en tu primera compra de criptomonedas cuando pagas con USD, EUR o cualquier otra moneda fiduciaria de tu Visa o MasterCard. Y todas las compras posteriores incurren en una comisión increíblemente pequeña"
+		},
+		{
+			"title": "compra criptomonedas desde €2",
+			"description": "Puedes comprar más de 30 monedas digitales con tan solo €2. Una vez que confirmes la transacción, los activos comprados aparecerán instantáneamente en el saldo de tu billetera"
+		},
+		{
+			"image": "/pic/wallet/wallet-buy-description-3.jpg"
+		},
+		{
+			"image": "/pic/wallet/wallet-buy-description-4.jpg"
+		},
+		{
+			"title": "entrega instantánea en la billetera",
+			"description": "Los tokens aparecen en el saldo de tu billetera en el momento en que completas la transacción de compra"
+		},
+		{
+			"title": "aprende cómo comprar criptomonedas",
+			"description": "Nunca es tarde para aprender algo increíble. Mira este video o lee nuestro tutorial para descubrir por qué esta función es genial",
+			"link": "/news/buy-crypto/how-to-buy-cryptocurrency-with-a-debit-card-or-credit-card",
+			"linkTitle": "Leer la guía"
+		},
+		{
+			"youtube": "CGv-as9NnSM",
+			"youtubeImage": "/pic/wallet/buy-video.jpg"
+		}
+	]
+}

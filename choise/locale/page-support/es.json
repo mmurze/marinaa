@@ -1,0 +1,104 @@
+{
+	"seo": {
+		"title": "Soporte de Choise.com | permítenos ayudarte",
+		"description": "Por favor, responde algunas preguntas para que podamos ayudarte mejor con tu problema o solicitud"
+	},
+	"platform": "Selecciona la plataforma:",
+	"request": "Selecciona la solicitud:",
+	"problem": "Selecciona el subtipo de problema:",
+	"describe": "Describe el problema:",
+	"email": "Correo electrónico del usuario:",
+	"phone": "Teléfono del usuario:",
+	"business": "Negocio:",
+	"true": "Verdadero",
+	"channel": "Canal social:",
+	"step": "Paso",
+	"step0": {
+		"title": "permítenos ayudarte",
+		"description": "Por favor, responde algunas preguntas para que podamos ayudarte mejor con tu problema o solicitud",
+		"button": "Comencemos"
+	},
+	"step1": {
+		"title": "¿En qué plataforma utilizas Choise.com?",
+		"submit_button": "Siguiente",
+		"buttons": [
+			{
+				"icon": "/pic/support/apple-icon.svg",
+				"label": "iOS"
+			},
+			{
+				"icon": "/pic/support/android-icon.svg",
+				"label": "Android"
+			},
+			{
+				"icon": "/pic/support/web-icon.svg",
+				"label": "Web"
+			},
+			{
+				"icon": false,
+				"label": "Otro"
+			}
+		]
+	},
+	"step2": {
+		"title": "Por favor, selecciona el tipo de solicitud",
+		"buttons": [
+			"Tarjeta Crypterium",
+			"Enviar cripto",
+			"Comprar cripto con tarjeta",
+			"Recargar billetera",
+			"Operación de intercambio",
+			"Retirar cripto a una tarjeta",
+			"Problema de cuenta",
+			"Verificación de identidad",
+			"Relaciones con inversores",
+			"Otro problema"
+		],
+		"submit_button": "Siguiente"
+	},
+	"step3": {
+		"title": "Por favor, selecciona el subtipo de solicitud",
+		"back": "Volver",
+		"skip": "Omitir paso",
+		"submit_button": "Siguiente",
+		"buttons": {
+			"case1": ["Pedido", "Activación", "Saldo", "Verificación de identidad", "Desactivación", "Entrega", "Carga de dinero", "Otro problema"],
+			"case3": ["Validación de tarjeta", "Eliminar tarjeta", "Función desactivada", "Otro problema"],
+			"case6": ["Pendiente", "Cancelado", "Otro problema"],
+			"case7": ["No puedo usar mi cuenta", "Cambiar teléfono o correo electrónico", "Cierre de cuenta", "Cambiar datos personales", "Recuperación de cuenta", "Otro problema"],
+			"case8": ["Pendiente", "Motivo de rechazo", "Otro problema"],
+			"case10": ["Predicciones de precios de IA", "Cancelar suscripción a lista de correo", "Cotizaciones", "Préstamos", "Tarjeta UnionPay", "SWAP | ERC 20 o BEP 2", "Depósitos", "Programa de referidos", "Otro problema"]
+		},
+		"subtitle": {
+			"case1": "para Tarjeta Crypterium",
+			"case3": "para comprar cripto con tarjeta",
+			"case6": "para retirar a tarjeta bancaria",
+			"case7": "para problema de cuenta",
+			"case8": "para verificación de identidad",
+			"case10": "para otro problema"
+		}
+	},
+	"step4": {
+		"title": "Describe tu problema o solicitud",
+		"description": "Podemos ayudar más rápido si sabemos más",
+		"back": "Volver",
+		"submit_button": "Siguiente",
+		"messege": {
+			"case2": "Por favor, describe tu problema, incluyendo el importe, la moneda y la fecha de la transacción",
+			"case5": "Por favor, describe tu problema, incluyendo el importe, la moneda y la fecha de la transacción",
+			"case4": "Por favor, describe tu problema y agrega un enlace de transacción"
+		}
+	},
+	"step5": {
+		"title": "Deja tus datos de cuenta",
+		"description": "número de teléfono registrado en la aplicación Crypterium y correo electrónico de contacto",
+		"placeholder_phone": "Ingresa el número de teléfono",
+		"placeholder_email": "Ingresa el correo electrónico aquí",
+		"back": "Volver",
+		"submit_button": "Enviar"
+	},
+	"step_final": {
+		"title": "Gracias",
+		"description": "Hemos recibido tu solicitud.<br/>Te responderemos en 24 horas o antes"
+	}
+}

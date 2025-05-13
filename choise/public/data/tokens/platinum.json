@@ -1,0 +1,54 @@
+[
+	{
+		"pieces": 4,
+		"tokenType": 13,
+		"traits": {
+			"token_category": "Platinum",
+			"initunlock": 100,
+			"totalcho": 1500
+		}
+	},
+	{
+		"pieces": 6,
+		"tokenType": 14,
+		"traits": {
+			"token_category": "Platinum",
+			"initunlock": 50,
+			"totalcho": 1500,
+			"vesting": 1
+		}
+	},
+	{
+		"pieces": 20,
+		"tokenType": 15,
+		"traits": {
+			"token_category": "Platinum",
+			"bonus": 500,
+			"lockup": 6,
+			"totalcho": 2000,
+			"vesting": 9
+		}
+	},
+	{
+		"pieces": 10,
+		"tokenType": 16,
+		"traits": {
+			"token_category": "Platinum",
+			"bonus": 1000,
+			"lockup": 6,
+			"totalcho": 2500,
+			"vesting": 6
+		}
+	},
+	{
+		"pieces": 5,
+		"tokenType": 17,
+		"traits": {
+			"token_category": "Platinum",
+			"bonus": 2000,
+			"lockup": 6,
+			"totalcho": 3500,
+			"vesting": 3
+		}
+	}
+]

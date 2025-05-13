@@ -1,0 +1,151 @@
+{
+	"seo": {
+		"title": "Obtén hasta un 1 200% de rendimiento esperado con la cartera BitDriven",
+		"description": "Aprovecha una oportunidad limitada para ingresar a la cartera BitDriven con las monedas más prometedoras que históricamente han superado el crecimiento de Bitcoin después de cada reducción a la mitad. Los usuarios de Choise.com tienen una oportunidad excepcional de ganar simplemente al mantener el token de índice BitDriven. Exclusivamente en Choise.com."
+	},
+	"main": {
+		"title": "obtén hasta <span>1 200%</span> de rendimiento esperado con la cartera bitdriven",
+		"descriptions": [
+			"Mientras Bitcoin experimenta regularmente un crecimiento del precio de x5, algunas monedas muestran un crecimiento de x10 o incluso x15.",
+			"Exclusivamente para Choise.com, One More Fund ha creado el algoritmo de inteligencia artificial que selecciona monedas que se supone que crecerán hasta x12 junto con el próximo crecimiento de Bitcoin. Las monedas seleccionadas se agrupan en una prometedora cartera BitDriven y los usuarios de Choise.com tienen una oportunidad excepcional de ganar simplemente al mantener los activos de BitDriven."
+		],
+		"total_title": "El pool se cierra en",
+		"total_already": "Ya en el pool",
+		"total_price": "Precio del token",
+		"total_button": "Gana con BitDriven",
+		"live": "La venta está activa",
+		"closed_title": "La venta ha finalizado",
+		"closed_description": "¿Te perdiste la oportunidad? No te preocupes. Suscríbete a nuestro <a href='https://t.me/+ENTdxo0JpvpmNDQy' target='_blank' rel='noreferrer'>canal de noticias</a> y aprovecha las próximas oportunidades para ganar más.",
+		"closed_telegram": "Síguenos en Telegram"
+	},
+	"fund": {
+		"title": "Cartera impulsada por Bitcoin",
+		"descriptions": [
+			"Cada 4 años, hay una reducción a la mitad en la red de Bitcoin, seguida de un crecimiento activo del mercado cuando Bitcoin actualiza sus máximos históricos.",
+			"La estrategia más común para los inversores de criptomonedas es comprar BTC durante la caída antes de la reducción a la mitad.",
+			"La estrategia más lucrativa para los inversores de criptomonedas es comprar tokens que históricamente superen el rendimiento de Bitcoin en sus máximos después de la reducción a la mitad."
+		]
+	},
+	"how_works": {
+		"title": "Cómo funciona",
+		"description":"Técnica especial de selección de monedas + rebalanceo automático permanente = resultados destacados de la estrategia",
+		"selected_title": "Cómo se seleccionan las monedas",
+		"portfolio": "Cartera",
+		"selected1Array": ["Lanzadas entre 2018 y 2021", "Capitalización de mercado superior a $50M"],
+		"selected2Array": ["Lanzadas en 2018 o antes", "Tuvo al menos dos incrementos en el precio", "Capitalización de mercado superior a $50M "],
+		"portfolio_title": "Cómo se gestiona la cartera",
+		"portfolioArray": [
+			{
+				"title": "Rendimiento esperado alto",
+				"description": "El rendimiento esperado de la estrategia de trading de BitDriven es <span>12 veces</span> la inversión inicial."
+			},
+			{
+				"title": "Diversificación de la cartera",
+				"description": "La estrategia implica dividir las monedas seleccionadas en diferentes segmentos de la industria de las criptomonedas para lograr una diversificación de la cartera y <span>reducir el riesgo sistemático.</span>"
+			},
+			{
+				"title": "Algoritmos de aprendizaje automático",
+				"description": "BitDriven utiliza algoritmos de aprendizaje automático <span>proprietarios</span> para analizar el comportamiento pasado del mercado y seleccionar monedas con una alta correlación con Bitcoin y un potencial de rendimiento superior."
+			},
+			{
+				"title": "Rebalanceo automático",
+				"description": "La cartera se rebalancea automáticamente mediante los algoritmos de aprendizaje automático para <span>maximizar la rentabilidad.</span>"
+			}
+		],
+		"conditions_title": "Condiciones de la estrategia",
+		"conditions_array": [
+			"<span>hasta 12-15 veces</span><p>Rendimiento esperado</p>",
+			"<span>5 USDT</span><p>Precio del token BitDriven</p>",
+			"<span>150 USDT</span><p>Monto mínimo de inversión</p>"
+		],
+		"terms_title": "Términos de la estrategia",
+		"terms_array":[
+			{
+				"icon": "<span><img src=\"/pic/bitdriven/s-icon1.svg\" alt=\"12 Х\"/>12 Х</span>",
+				"title": "<p>Tu ganancia</p>"
+			},
+			{
+				"icon": "<span><img src=\"/pic/bitdriven/s-icon2.svg\" alt=\"20%\"/>20%</span>",
+				"title": "<p>Comisión de rendimiento</p>"
+			},
+			{
+				"icon": "<span><img src=\"/pic/bitdriven/s-icon3.svg\" alt=\"12 X\"/>12 X</span>",
+				"title": "<p>Tu ganancia</p>"
+			},
+			{
+				"icon": "<span><img src=\"/pic/bitdriven/s-icon2.svg\"alt=\"15%\"/>15%</span>",
+				"title": "<p>Comisión de rendimiento</p>"
+			}
+		]
+	},
+	"getting_started": {
+		"title": "comenzar es fácil",
+		"step": "Paso",
+		"download": "Descargar",
+		"array": [
+			{
+				"title": "Instala la aplicación Choise.com",
+				"image": "/pic/bitdriven/started-1.jpg"
+			},
+			{
+				"title": "Regístrate en la aplicación",
+				"image": "/pic/bitdriven/started-2.jpg"
+			},
+			{
+				"title": "Compra el token de índice BitDriven",
+				"image": "/pic/bitdriven/started-3.jpg"
+			}
+		]
+	},
+	"information": {
+		"title": "proporcionado por One More Fund exclusivamente para choise.com",
+		"descriptions": [
+			"<strong>One More Fund es un fondo de cobertura basado en tesis</strong> que invierte en tokens y empresas que aprovechan las redes criptográficas sin permisos y sus ineficiencias para maximizar los rendimientos a lo largo del ciclo completo de las criptomonedas.",
+			"<strong>Dinámica de riesgo / recompensa única dada la capacidad</strong> para reequilibrar posiciones líquidas y la capacidad de identificar ineficiencias en el espacio DEX permite obtener mayores rendimientos durante cualquier ciclo de mercado."
+		],
+		"last_item_desc": [
+			"<strong>El fondo se centra en las finanzas basadas en blockchain,</strong> proporcionando una amplia selección de oportunidades de inversión impulsadas por datos, estrategias de granjas de rendimiento de mercado neutro, inversiones impulsadas por el valor cíclico y operaciones comerciales impulsadas por IA.",
+			"Las asignaciones se realizan en tokens totalmente modelados y probados en el mercado que se concentran alrededor de vértices de alto potencial:"
+		],
+		"array": ["DeFi", "Infraestructura de blockchain", "Seguridad", "Metaverso", "Operaciones algorítmicas", "Custodia"]
+	},
+	"earn": {
+		"link": "Gana con BitDriven"
+	},
+	"faq": {
+		"title": "Preguntas frecuentes",
+		"array": [
+			{
+				"title": "BitDriven es un token de índice. ¿Qué significa eso?",
+				"description": "<p>BitDriven es el token que representa la cartera impulsada por Bitcoin. Está compuesto por monedas consolidadas que tienen fuertes razones fundamentales para un rendimiento destacado con un historial exitoso, que históricamente crecieron junto con Bitcoin después de cada reducción a la mitad, pero superándolo significativamente.</p><p>El token de índice BitDriven no es un token en el sentido convencional, sino más bien un valor de índice que se calcula en proporción al crecimiento de toda la cartera.</p>"
+			},
+			{
+				"title": "¿Cómo puedo comprar el token de índice BitDriven?",
+				"description": "<p>Puedes comprar BitDriven en la <a href='https://crypterium.onelink.me/jtmZ/bitdriven?utm_source=landing_page&utm_medium=bitdriven' target='_blank' rel='noreferrer'>aplicación Choise.com</a> por USDT siguiendo estos pasos:</p><br/><ol><li>Abre tu aplicación Choise.com.</li><li>Toca la ventana “Show wallets” en el panel de control.</li><li>Toca el icono de BitDriven en la lista que aparece.</li><li>Ingresa la cantidad que deseas comprar y verifica los detalles de la transacción.</li><li>Confirma tu compra tocando el botón “Get BitDriven”.</li></ol>"
+			},
+			{
+				"title": "¿Puedo enviar BitDriven a otra billetera y/o venderlo en el intercambio?",
+				"description": "<p>No, estas opciones no están disponibles. BitDriven es un token único creado por One More Fund exclusivamente para Choise.com, por lo que solo puedes usarlo dentro de la aplicación Choise.com.</p>"
+			},
+			{
+				"title": "¿Qué monedas están incluidas en la cartera BitDriven?",
+				"description": "<p>La lista de monedas dentro de la cartera BitDriven se proporcionará a los titulares después del lanzamiento de la estrategia.</p>"
+			},
+			{
+				"title": "¿Por qué lleva tanto tiempo obtener el rendimiento esperado?",
+				"description": "<p>La estrategia de BitDriven está vinculada a los ciclos del mercado y a la reducción a la mitad de Bitcoin: la cartera está compuesta por monedas que históricamente muestran una alta correlación con Bitcoin, pero fluctúan con una mayor amplitud. Por lo tanto, hay todas las razones para esperar que después de la reducción a la mitad de Bitcoin en la primavera de 2024 (y su crecimiento además de eso), estas monedas crezcan aún más, lo que te permitirá obtener un rendimiento esperado de 12X.</p><p>Al mismo tiempo, dado que la amplitud de las fluctuaciones de precio de las monedas es mayor que la de Bitcoin, se puede suponer que han caído aún más en este momento, creando así una oportunidad atractiva para comprar en las caídas.</p>"
+			},
+			{
+				"title": "¿Cuáles son las condiciones de retiro?",
+				"description": "<p>Puedes retirar tus fondos de BitDriven en cualquier momento después de que finalice la venta de 200 horas.</p><p>Se te cobrará una tarifa por retiro anticipado (hasta 6 meses desde el inicio de la estrategia): el 2% de la suma del retiro, y la comisión de rendimiento dependiendo de tu ganancia:</p><ul><li>si obtuviste menos del 12X de ganancia: el 15% de la ganancia,</li><li>si obtuviste una ganancia de 12X o más: el 20% de la ganancia.</li></ul><p>Ten en cuenta que hay un período de redención de 3 días hábiles (estos días son necesarios para canjear los fondos de la cartera y devolverlos a tu saldo). Recibirás tus fondos de vuelta al tipo de cambio válido en el momento del cálculo en USDT directamente en tu billetera de Choise.com.</p>"
+			},
+			{
+				"title": "¿Qué sucederá si no se alcanza la cantidad proyectada de $1M durante la venta de 200 horas?",
+				"description": "<p>Lanzaremos la estrategia BitDriven solo si el pool alcanza o supera la marca de $1M. Si no se alcanza la cantidad proyectada de $1M durante la venta, acreditaremos tus fondos de vuelta en USDT en la aplicación Choise.com. Además, no se cobrará la tarifa del 2% por retiro anticipado (hasta 6 meses desde el inicio de la estrategia) y no se cobrarán comisiones por transacciones de reembolso.</p>"
+			}
+		]
+	},
+	"terms": {
+		"link": "Términos del producto"
+	}
+}

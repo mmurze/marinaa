@@ -1,0 +1,387 @@
+{
+	"seo": {
+		"title": "CHO MetaFi Token (CeFi): Precio, Capitalización de Mercado y Gráficos",
+		"description": "La tokenomía de CHO se basa en las mejores prácticas de la industria, una visión innovadora de las finanzas globales y nuestra experiencia en la gestión de una empresa de criptomonedas de 6 años. ¿Suena bien? Una mecánica de bloqueo reflexiva y una oferta circulante limitada lo harán aún mejor."
+	},
+	"main": {
+		"title": "Token CHO",
+		"description_1": "La tokenomía de CHO se basa en las mejores prácticas de la industria, una visión innovadora de las finanzas globales y nuestra experiencia en la gestión de una empresa de criptomonedas de 6 años.",
+		"description_2": "¿Suena bien? Una mecánica de bloqueo reflexiva y una oferta circulante limitada lo harán aún mejor."
+	},
+	"future": {
+		"title": "CHO es el futuro:",
+		"description_1": "Los proveedores de servicios centralizados son los más adecuados para atender a las amplias audiencias minoristas: una experiencia de usuario amigable, facilidad de incorporación, etc.",
+		"description_2": "Sin embargo, es DeFi el segmento clave de crecimiento de las criptomonedas: el efecto de base reducida, el respaldo institucional y una propuesta atractiva.",
+		"array": [
+			{
+				"label": "Mercado CeFi",
+				"title": "APY del 5-12%",
+				"array": [
+					{
+						"value": "$2+ billones",
+						"label": "capitalización de mercado"
+					},
+					{
+						"value": "100M",
+						"label": "usuarios"
+					}
+				]
+			},
+			{
+				"label": "Mercado DeFi",
+				"title": "APY del 100-500%",
+				"array": [
+					{
+						"value": "$100B",
+						"label": "valor total bloqueado"
+					},
+					{
+						"value": "4M",
+						"label": "solo usuarios"
+					}
+				]
+			}
+		]
+	},
+	"tradedOn": {
+		"title": "CHO se negocia en"
+	},
+	"services": {
+		"title": "nuestros servicios actuales",
+		"leftArray" : [
+			{
+				"title": "comprar criptomonedas",
+				"description": "desde cualquier tarjeta bancaria",
+				"icon": "/pic/cho/cho-services-1.jpg"
+			},
+			{
+				"title": "enviar criptomonedas",
+				"description": "a nivel mundial de forma gratuita",
+				"icon": "/pic/cho/cho-services-2.jpg"
+			},
+			{
+				"title": "intercambiar criptomonedas",
+				"description": "a las mejores tasas",
+				"icon": "/pic/cho/cho-services-3.jpg"
+			},
+			{
+				"title": "retirar criptomonedas",
+				"description": "para obtener efectivo en cualquier momento",
+				"icon": "/pic/cho/cho-services-4.jpg"
+			}
+		],
+		"rightArray": [
+			{
+				"title": "depositar criptomonedas",
+				"description": "de forma segura",
+				"icon": "/pic/cho/cho-services-5.jpg"
+			},
+			{
+				"title": "obtener un préstamo en criptomonedas",
+				"description": "con tasas de interés atractivas",
+				"icon": "/pic/cho/cho-services-6.jpg"
+			},
+			{
+				"title": "gastar criptomonedas",
+				"description": "con la tarjeta Crypterium",
+				"icon": "/pic/cho/cho-services-7.jpg"
+			},
+			{
+				"title": "predecir precios",
+				"description": "con un algoritmo basado en IA",
+				"icon": "/pic/cho/cho-services-8.jpg"
+			}
+		]
+	},
+	"dao": {
+		"title": "dao. tu elección para tener un impacto",
+		"description": "El ecosistema de Choise.com está gobernado por DAO con el objetivo de incorporar nuevos usuarios y poner en marcha proyectos.",
+		"description_1": "El DAO de Choise.com decide en qué pools de liquidez invertir y qué beneficios ofrecer a la comunidad. Se establece para gestionar el ecosistema con los tokens CHO que impulsan la utilidad, la gobernanza y los mecanismos de promoción.",
+		"description_2": "El peso de voto de CHO en la plataforma DAO es proporcional a la cantidad de tokens veCHO distribuidos como LP-tokens para el CHO bloqueado en Charism. Estos tokens permitirán a los usuarios contribuir a la evolución significativa del proyecto."
+	},
+	"combined": {
+		"title": "hemos combinado todo",
+		"description": "Hemos combinado nuestra billetera CeFi y nuestras soluciones DeFi de Charism en el producto Choise.com para facilitar la adopción de DeFi para 100 millones de usuarios en todo el mundo.",
+		"crypteriumArray" : [
+			{
+				"title": "Billetera custodial",
+				"icon": "/pic/cho/combined/cho-icon-1.jpg"
+			},
+			{
+				"title": "CEX",
+				"icon": "/pic/cho/combined/cho-icon-2.jpg"
+			},
+			{
+				"title": "Intercambio",
+				"icon": "/pic/cho/combined/cho-icon-3.jpg"
+			},
+			{
+				"title": "Depósito (fiat a cripto)",
+				"icon": "/pic/cho/combined/cho-icon-4.jpg"
+			},
+			{
+				"title": "Retiro (cripto a fiat)",
+				"icon": "/pic/cho/combined/cho-icon-5.jpg"
+			},
+			{
+				"title": "Tarjetas",
+				"icon": "/pic/cho/combined/cho-icon-6.jpg"
+			},
+			{
+				"title": "Cuentas de interés",
+				"icon": "/pic/cho/combined/cho-icon-7.jpg"
+			},
+			{
+				"title": "Préstamos",
+				"icon": "/pic/cho/combined/cho-icon-8.jpg"
+			},
+			{
+				"title": "Predicciones",
+				"icon": "/pic/cho/combined/cho-icon-9.jpg"
+			},
+			{
+				"title": "Cuentas empresariales",
+				"icon": "/pic/cho/combined/cho-icon-10.jpg"
+			},
+			{
+				"title": "White label",
+				"icon": "/pic/cho/combined/cho-icon-11.jpg"
+			}
+		],
+		"charismArray" : [
+			{
+				"title": "Billetera no custodial multiplataforma",
+				"icon": "/pic/cho/combined/cho-icon-12.jpg"
+			},
+			{
+				"title": "DEX",
+				"icon": "/pic/cho/combined/cho-icon-13.jpg"
+			},
+			{
+				"title": "Constructor TRX",
+				"icon": "/pic/cho/combined/cho-icon-14.jpg"
+			},
+			{
+				"title": "Agregador de protocolos DeFi",
+				"icon": "/pic/cho/combined/cho-icon-15.jpg"
+			},
+			{
+				"title": "Agregador de Staking/Yield farming",
+				"icon": "/pic/cho/combined/cho-icon-16.jpg"
+			},
+			{
+				"title": "Seguro de precios DeFi",
+				"icon": "/pic/cho/combined/cho-icon-17.jpg"
+			},
+			{
+				"title": "Plataforma de lanzamiento DeFi",
+				"icon": "/pic/cho/combined/cho-icon-18.jpg"
+			},
+			{
+				"title": "Puentes",
+				"icon": "/pic/cho/combined/cho-icon-19.jpg"
+			},
+			{
+				"title": "NFT",
+				"icon": "/pic/cho/combined/cho-icon-20.jpg"
+			},
+			{
+				"title": "Derivados DeFi",
+				"icon": "/pic/cho/combined/cho-icon-21.jpg"
+			},
+			{
+				"title": "Moneda dual",
+				"icon": "/pic/cho/combined/cho-icon-22.jpg"
+			}
+		]
+	},
+	"burn": {
+		"title": "quema ",
+		"stageArray" : [
+			{
+				"title": "1ª etapa",
+				"description": "Quemamos CHO como una fracción del volumen (ya que Charism no debe generar ganancias en la primera etapa)."
+			},
+			{
+				"title": "2ª etapa",
+				"description": "Reducimos la cantidad de CHO quemados como una fracción del volumen y comenzamos a quemar CHO como una fracción de los ingresos."
+			},
+			{
+				"title": "3ª etapa",
+				"description": "Quemamos CHO como una fracción de los ingresos solamente."
+			}
+		],
+		"title_span_1": "Volumen",
+		"description_span_1": "La cantidad de transacciones de compra y venta en los productos Earn, Swap y Bridge de Charism.",
+		"title_span_2": "Ingresos",
+		"description_span_2": "El conjunto de ganancias de Charism.",
+		"sub_description": "Para junio de 2027, quemaremos no menos del 6.5% de la emisión total de tokens (65,000,000 CHO) de acuerdo con el programa permanente de quema.",
+		"title_price_1": "Precio de CHO",
+		"title_price_2": "aumentó 35 veces",
+		"description_price": "CHO tiene altas tasas de cuentas de interés y un precio creciente en tiempos de caída en el mercado de criptomonedas. El precio de CHO aumentó 35 veces desde su listado en junio de '22.",
+		"link_a": "Comprar CHO"
+	},
+	"distribution": {
+		"title": "Distribución de tokens CHO",
+		"title_desktop": "Distribución de tokens CHO",
+		"array" : [
+			{
+				"title": "Promoción",
+				"percent": "43.775%",
+				"background": "#5CEE9C",
+				"color": "#191B20"
+			},
+			{
+				"title": "Colaboradores principales",
+				"percent": "2.0%",
+				"background": "#FF6464",
+				"color": "#FFFFFF"
+			},
+			{
+				"title": "Semilla",
+				"percent": "7.0%",
+				"background": "#67B6FE",
+				"color": "#FFFFFF"
+			},
+			{
+				"title": "CRPT Airdrop",
+				"percent": "10.0%",
+				"background": "#FF8A00",
+				"color": "#FFFFFF"
+			},
+			{
+				"title": "Privado",
+				"percent": "4.0%",
+				"background": "#0278E4",
+				"color": "#FFFFFF"
+			},
+			{
+				"title": "Venta de CHO NFT",
+				"percent": "0.153%",
+				"background": "#FFFB1F",
+				"color": "#191B20"
+			},
+			{
+				"title": "Ronda estratégica",
+				"percent": "0.25%",
+				"background": "#80D8FF",
+				"color": "#191B20"
+			},
+			{
+				"title": "Preventa comunitaria",
+				"percent": "0.30%",
+				"background": "#C6CAD3",
+				"color": "#191B20"
+			},
+			{
+				"title": "Equipo",
+				"percent": "8.0%",
+				"background": "#7C4DFF",
+				"color": "#FFFFFF"
+			},
+			{
+				"title": "Venta comunitaria",
+				"percent": "0.35%",
+				"background": "#A2A8B7",
+				"color": "#FFFFFF"
+			},
+			{
+				"title": "Fundación",
+				"percent": "23.847%",
+				"background": "#BEFF04",
+				"color": "#191B20"
+			},
+			{
+				"title": "IDO",
+				"percent": "0.325%",
+				"background": "#656D81",
+				"color": "#FFFFFF"
+			}
+		]
+	},
+	"distributionContent": {
+		"aArray" : [
+			{
+				"title": "Rondas de venta",
+				"description": "(una parte significativa de los fondos recaudados se destina a piscinas para propósitos de liquidez del token CHO)",
+				"color": "#191B20",
+				"background": "#FFFB1F"
+			},
+			{
+				"title": "Preventa comunitaria",
+				"description": "Bloqueo: bloqueo de 12 meses con posterior distribución lineal durante 12 meses",
+				"color": "#191B20",
+				"background": "#FFFB1F"
+			},
+			{
+				"title": "Venta comunitaria",
+				"description": "Bloqueo: desbloqueo inicial del 15%, la parte restante tiene un bloqueo de 6 meses con distribución lineal durante 6 meses",
+				"color": "#191B20",
+				"background": "#FFFB1F"
+			}
+		],
+		"bArray" : [
+			{
+				"title": "Ronda estratégica",
+				"description": "Bloqueo: desbloqueo inicial del 10%, la parte restante tiene un bloqueo de 6 meses con distribución lineal durante 12 meses",
+				"color": "#FFFFFF",
+				"background": "#67B6FE"
+			},
+			{
+				"title": "Rondas semilla/privada",
+				"description": "Bloqueo: bloqueo de 12 meses con distribución lineal durante 24 meses",
+				"color": "#FFFFFF",
+				"background": "#0278E4"
+			}
+		],
+		"cArray" : [
+			{
+				"title": "CRPT Airdrop",
+				"description": "El principal método público para ganar tokens CHO es tener tokens CRPT. <strong>Habrá 3 partes:</strong>",
+				"color": "#FFFFFF",
+				"background": "#FF8A00",
+				"list": ["Retrodrop basado en instantáneas de tenencia de CRPT durante 12 meses - bloqueo de 24 meses", "Programa de airdrop de 3 años para titulares de CRPT - bloqueo de 12 meses", "Airdrop basado en actividad transaccional en Crypterium CeFi - bloqueo de 12 meses"]
+			},
+			{
+				"title": "Equipo / Colaboradores principales",
+				"description": "Bloqueo: bloqueo de 12 meses con distribución lineal durante 48 meses",
+				"color": "#191B20",
+				"background": "#BEFF04"
+			}
+		],
+		"dArray" : [
+			{
+				"title": "Fundación",
+				"description": "Los tokens que se asignan como incentivos iniciales para descentralizar y mejorar los protocolos del ecosistema. Se utilizarán para propósitos de liquidez del token y actividades como marketing, subvenciones iniciales y otros incentivos coordinados por la fundación. Bloqueo: distribución lineal durante 24 meses",
+				"color": "#191B20",
+				"background": "#FFFB1F"
+			},
+			{
+				"title": "Promoción",
+				"description": "Los tokens que se asignan al Tesoro de DAO, Programa de Embajadores, actividades Learn2Earn, minería de liquidez, programas de desarrollo, agradecimiento a los primeros probadores, desarrollo del ecosistema comunitario. Bloqueo: bloqueo de 12 meses con distribución posterior durante 48 meses",
+				"color": "#191B20",
+				"background": "#5CEE9C"
+			}
+		]
+	},
+	"teamedWithUs": {
+		"title": "se han unido a nosotros"
+	},
+	"team": {
+		"title": "el equipo detrás de CHO. en el momento adecuado, en el lugar adecuado. sin excusas.",
+		"array" : [
+			{
+				"value": "50+",
+				"description": "desarrolladores"
+			},
+			{
+				"value": "10+",
+				"description": "países"
+			},
+			{
+				"value": "160+",
+				"description": "personas están construyendo productos"
+			}
+		]
+	}
+}

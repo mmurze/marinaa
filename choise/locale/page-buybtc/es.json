@@ -1,0 +1,32 @@
+{
+	"seo": {
+		"title": "¡Bitcoin con un descuento del 10%! Más barato que en cualquier otro lugar",
+		"description": "¡Hemos reinventado la compra de BTC de una manera única y rentable! Cuando compras BTC con descuento, se bloquea en tu billetera durante 12 meses. Puedes retirarlo en cualquier momento sin comisiones, pero por el precio original sin el descuento. Una vez que finalice el período de bloqueo, puedes retirar la cantidad completa."
+	},
+	"main": {
+		"success_title": "Confirmado",
+		"success_description": "Hemos recibido tu solicitud y te informaremos cuando el producto esté disponible",
+		"link": "Síguenos en Telegram",
+		"form_title": "Comprar BTC",
+		"phone_placeholder":"Número de teléfono",
+		"email_placeholder": "Correo electrónico",
+		"amount_placeholder": "Monto en $",
+		"form_description": "Cuando compras BTC con descuento, se bloquea en tu billetera durante 12 meses. Puedes retirarlo en cualquier momento sin comisiones, pero por el precio original sin descuento. Una vez que finalice el período de bloqueo, puedes retirar la cantidad completa.",
+		"check_description": "¿Ya estás registrado en la aplicación Choise.com?",
+		"button_check": "Continuar",
+		"modal_title": "¡Bitcoin con un descuento del 10%! Más barato que en cualquier otro lugar",
+		"modal_description": [
+			"¡Hemos reinventado la compra de BTC de una manera única y rentable! Cuando compras BTC con descuento, se bloquea en tu billetera <span>durante 12 meses.</span>",
+			"Puedes retirarlo en cualquier momento sin comisiones, pero por el precio original sin el descuento. Una vez que finalice el período de bloqueo, puedes retirar la cantidad completa."
+		],
+		"modal_label": "Cómpralo con descuento usando tarjeta bancaria, transferencia bancaria o transferencia de criptomonedas con la fácil de usar aplicación Choise.com.",
+		"price_label": "Precio de BTC con",
+		"price_value": "10% de descuento",
+		"button_buy": "Comprar ahora"
+	},
+	"banner": {
+		"title": "¿Quieres dejar de pagar el precio completo por BTC?",
+		"array": ["No, no estoy interesado en absoluto", "Tal vez. Necesito más información", "¡Síiiii!"],
+		"text": "¡Ok, gracias!"
+	}
+}

@@ -1,0 +1,388 @@
+{
+	"seo": {
+		"title": "the easiest and safest way to buy and earn crypto",
+		"description": "Almost one million users take advantage of Choise.com to buy crypto, earn interest on their holdings, or boost their income with attractive earn products and ultimate security."
+	},
+	"main_block": {
+		"label": "Your crypto – your choise",
+		"title": "buy and earn<br/>crypto – safe and easy",
+		"description": "Choise.com is a gateway crypto platform that combines CeFi and DeFi solutions. We give you the best of the two worlds – seamless crypto purchasing and swapping, interest accounts, passive income on your holdings, access to liquidity pools, and a multitude of other earning tools. <br/><br/><b>Get return on your money by simply owning crypto.</b>",
+		"link_name": "Start earning"
+	},
+	"main_tabs_information": {
+		"tabs_array": ["Earn", "Buy", "Exchange", "Insure", "Predict", "Card", "CHO"],
+		"step_earn": {
+			"array": [
+				{
+					"percent": 10,
+					"apy": "1 year",
+					"income_label": "Flexible",
+					"income": "USDT · USDC · DAI · BUSD",
+					"slug": "/interest-accounts"
+				},
+				{
+					"percent": 5.4,
+					"apy": "2 years",
+					"income_label": "Fixed",
+					"income": "BTC",
+					"slug": "/interest-accounts"
+				},
+				{
+					"percent": 13.5,
+					"apy": "2 years",
+					"income_label": "Fixed",
+					"income": "CHO",
+					"slug": "/interest-accounts"
+				},
+				{
+					"percent": 12,
+					"apy": "2 years",
+					"income_label": "Fixed",
+					"income": "USDT · USDC · DAI · BUSD",
+					"slug": "/interest-accounts"
+				}
+			],
+			"block_link": "Start earning",
+			"title": "your choise to earn more",
+			"descriptions": [
+				"Choise.com offers a range of products designed to help users earn more from their involvement in the world of crypto. Our platform has been built with ease of use and security in mind, making it a safe and straightforward choice for anyone looking to increase their crypto earnings.",
+				"We have carefully curated a selection of trusted products that users can choose from, each designed to help them maximize their earnings and take advantage of the latest opportunities in the market."
+			],
+			"earn_link_block": "Start earning",
+			"percent_block": "APY in",
+			"invest_link_button": "Invest"
+		},
+		"step_buy": {
+			"title": "your choise to buy crypto cheaper",
+			"description": "Buy crypto online with fiat. Learn more about the fees on crypto-to-fiat purchases and enjoy zero fees for the first purchase.",
+			"array": ["1st purchase 0% fee", "Instantly"],
+			"link_buy": "Buy crypto with 0% fee"
+		},
+		"step_exchange": {
+			"title": "your choise to exchange crypto with low fees",
+			"description": "Exchange your digital holdings for fiat or any other crypto at attractive rates any time you want. Choise.com supports 35+ most popular cryptocurrencies and emerging coins. Choose the one you like.",
+			"array": ["35 tokens", "Instant exchange", "Сompetitive rates"],
+			"link_exchange": "Exchange now"
+		},
+		"step_insure": {
+			"title": "your choise to fix price of your assets",
+			"description": "Fix a guaranteed minimum price when buying BTC or ETH for a selected time period. And Choise.com will cover the losses in case the market price appears to be less than the insurance price at expiry.",
+			"link_insure": "Insure your crypto"
+		},
+		"step_predict": {
+			"title": "your choise to predict prices with 80%+ accuracy",
+			"description": "Put the chances on your side with daily AI-powered price predictions. Identify attractive opportunities for over 150 digital currencies with an accuracy rate of above 80%.",
+			"array": ["150 tokens", "3-module system"],
+			"link_predict": "Predict now",
+			"coin_heading": "Ethereum",
+			"profit_heading": "<span>Annual Total Profit</span>"
+		},
+		"step_card": {
+			"title": "your choise to get card with the best features",
+			"description": "Apply for a plastic or virtual card and enjoy turning your digital assets into cash easier and faster than ever before. Top it up straight from your Wallet, connect to ApplePay and pay anywhere anytime.",
+			"link_description": "<span className=\"soon\">Soon</span>",
+			"link_card": "Get the Card"
+		},
+		"step_cho": {
+			"title": "your choise to get the highest interest in CHO",
+			"description": "Buy CHO to earn by simply holding one of the most attractive tokens which moves against the broad market during the current crypto winter or open an interest account in CHO to receive increased APY.",
+			"link_cho": "Buy CHO"
+		}
+	},
+	"main_user_earned": {
+		"title": "close to 1M active users",
+		"array": [
+			{
+				"coin": "USDC",
+				"coin_icon": "/pic/earn-users-icon//usdc.svg",
+				"apy": 16.8,
+				"value": 471215,
+				"earned_date": "3 months",
+				"list": [
+					{
+						"title": "Mark Pitman",
+						"date": "19.10.2021",
+						"description": "Great product really allowing to earn more. Never seen greater APY on the market!",
+						"image": "/pic/earn-users-icon/earn-user-1-1.jpg"
+					},
+					{
+						"title": "Eric Rid",
+						"date": "20.12.2021",
+						"description": "Very good product. Continue like this. I started investigating the crypto universe with you 4 years ago. Always believing you are a capable team.",
+						"image": "/pic/earn-users-icon/earn-user-1-2.jpg"
+					},
+					{
+						"title": "Kate Stateman",
+						"date": "10.12.2020",
+						"description": "I liked most of all the simplicity of entering any product. All its features are well-explained and displayed in one interface. Easy to enter, easy to earn.",
+						"image": "/pic/earn-users-icon/earn-user-1-3.jpg"
+					},
+					{
+						"title": "Daniil Bron",
+						"date": "11.12.2020",
+						"description": "Amazing interest rate! Passive income has never been so easy.",
+						"image": "/pic/earn-users-icon/earn-user-1-4.jpg"
+					}
+				]
+			},
+			{
+				"coin": "CRPT",
+				"coin_icon": "/pic/earn-users-icon//crpt.svg",
+				"apy": 21,
+				"value": 1479243,
+				"earned_date": "12-month",
+				"list": [
+					{
+						"title": "Dan",
+						"date": "19.03.2021",
+						"description": "So far so good! Easy to load money and buy crypto. Identity check was fast and simple. Savings account opened with an impressive rate too.",
+						"image": "/pic/earn-users-icon/earn-user-2-1.jpg"
+					},
+					{
+						"title": "Umesh Jashnani",
+						"date": "24.02.2021",
+						"description": "Great experience easy to purchase and hassle free. Nice idea of earning through crypto and excellent rate of interest.",
+						"image": "/pic/earn-users-icon/earn-user-2-2.jpg"
+					},
+					{
+						"title": "Karen State",
+						"date": "09.07.2021",
+						"description": "Works fine for crypto purchases and transferring cryptocurrency to other wallets. Very quick transactions and the fixed savings account has high interest rate.",
+						"image": "/pic/earn-users-icon/earn-user-2-3.jpg"
+					},
+					{
+						"title": "Man Leonardo",
+						"date": "15.02.2021",
+						"description": "I think this is the best app to store CRPT. I am stacking CRPT with high rate, it is value added.",
+						"image": "/pic/earn-users-icon/earn-user-2-4.jpg"
+					},
+					{
+						"title": "Anastasia",
+						"date": "27.04.2021",
+						"description": "Fantastic experience. I have enjoyed purchasing CRPT and then staking at it a 21% intro rate.",
+						"image": "/pic/earn-users-icon/earn-user-2-5.jpg"
+					}
+				]
+			},
+			{
+				"coin": "USDT",
+				"coin_icon": "/pic/earn-users-icon//usdt.svg",
+				"apy": 15,
+				"value": 195325,
+				"earned_date": "1 month",
+				"list": [
+					{
+						"title": "Enrique Palicero",
+						"date": "01.07.2022",
+						"description": "In my opinion, the combination of high rate and easy-to-start product are the best features. I like the history of transactions in the App, very detailed, very good.",
+						"image": "/pic/earn-users-icon/earn-user-3-1.jpg"
+					},
+					{
+						"title": "Miller",
+						"date": "01.12.2019",
+						"description": "If you still doubt to open an interest account or not, I’s say: to open. Everything is clear and nothing superfluous.",
+						"image": "/pic/earn-users-icon/earn-user-3-2.jpg"
+					},
+					{
+						"title": "Frank Berger",
+						"date": "01.08.2021",
+						"description": "What I liked the most is that I can see the changes in the value of my assets in real time. Comfortable to enter, easy to earn.",
+						"image": "/pic/earn-users-icon/earn-user-3-3.jpg"
+					},
+					{
+						"title": "Nataly",
+						"date": "01.11.2020",
+						"description": "Easy access with appropriate explanations and convenient calculator. Everything is provided to people in an orderly and convenient manner, as well as high security.",
+						"image": "/pic/earn-users-icon/earn-user-3-4.jpg"
+					}
+				]
+			},
+			{
+				"coin": "USDT",
+				"coin_icon": "/pic/earn-users-icon//usdt.svg",
+				"apy": 15,
+				"value": 191419,
+				"earned_date": "3 months",
+				"list": [
+					{
+						"title": "Franky",
+						"date": "19.07.2022",
+						"description": "One of the best solutions to hedge your risks on the volatile crypto market. I started with the minimum amount, and now I’ve got three interest account with different conditions with Choise.com",
+						"image": "/pic/earn-users-icon/earn-user-4-2.jpg"
+					},
+					{
+						"title": "Igor Faranda",
+						"date": "03.06.2022",
+						"description": "Don’t wait for the sign, start earning right now. I was stuck by crypto winter as a hodler, but found my way with interest accounts.",
+						"image": "/pic/earn-users-icon/earn-user-4-4.jpg"
+					}
+				]
+			}
+		],
+		"link": "How do I earn?"
+	},
+	"main_benefits": {
+		"array": [
+			{
+				"value": "1 000 000",
+				"description": "registered users"
+			},
+			{
+				"value": "1B+",
+				"description": "transaction turnover"
+			},
+			{
+				"value": "160+",
+				"description": "team members"
+			},
+			{
+				"value": "$1B+",
+				"description": "fully diluted market cap"
+			}
+		],
+		"descriptions": ["6 years of success", "We have been developing our ecosystem since April 2017 to provide you with unique reliable products aimed at simplifying your path in crypto."],
+		"heading_description": "choise.com is the leading company with users who enjoy earn and payment solutions in <span>170+ countries</span>"
+	},
+	"main_security": {
+		"title": "state-of-the-art<br/>security",
+		"descriptions": ["We're committed to providing our users with the highest levels of security and protection.", "Our 3-layer security system and anti-fraud protocol provide a robust line of defense against unauthorized access and fraud; our comprehensive network of insurance providers, including BitGo and Ledger Vault, offers an extra layer of protection."]
+	},
+	"main_markets": {
+		"title_1": "cho markets",
+		"title_2": "crpt markets"
+	},
+	"main_community": {
+		"title": "join our community"
+	},
+	"main_ecosystem": {
+		"title": "choise.com ecosystem",
+		"array": [
+			{
+				"title": "Wallet",
+				"header_link": "/wallet",
+				"target": false,
+				"image": "/pic/main-new/ecosystem-1.png",
+				"width": 321,
+				"height": 173,
+				"top": [
+					{
+						"title": "Buy crypto",
+						"slug": "/wallet/buy",
+						"soon": false,
+						"target": false
+					},
+					{
+						"title": "Exchange",
+						"slug": "/wallet/exchange",
+						"soon": false,
+						"target": false
+					},
+					{
+						"title": "Send",
+						"slug": "/wallet/send",
+						"soon": false,
+						"target": false
+					},
+					{
+						"title": "Spend",
+						"slug": "/wallet/spend",
+						"soon": false,
+						"target": false
+					},
+					{
+						"title": "Cash out",
+						"slug": "/wallet/cashout",
+						"soon": false,
+						"target": false
+					}
+				],
+				"bottom": [
+					{
+						"title": "Cards",
+						"slug": "/cards",
+						"soon": false,
+						"target": false
+					},
+					{
+						"title": "Crypto price insurance",
+						"slug": "/price-insurance",
+						"soon": false,
+						"target": false
+					},
+					{
+						"title": "Savings accounts",
+						"slug": "/interest-accounts",
+						"soon": false,
+						"target": false
+					},
+					{
+						"title": "Price predictions",
+						"slug": "/predictions",
+						"soon": false,
+						"target": false
+					},
+					{
+						"title": "Dual currency interest accounts ",
+						"slug": "/dual-currency-interest-account",
+						"soon": false,
+						"target": false
+					},
+					{
+						"title": "Earn marketplace",
+						"slug": "https://marketplace.choise.com",
+						"soon": false,
+						"target": true
+					}
+				]
+			},
+			{
+				"title": "Charism",
+				"header_link": "https://defi.choise.com/",
+				"target": true,
+				"image": "/pic/main-new/ecosystem-2.png",
+				"width": 527,
+				"height": 386,
+				"top": [
+					{
+						"title": "Earn",
+						"slug": "https://defi.choise.com/earn",
+						"soon": false,
+						"target": true
+					},
+					{
+						"title": "Bridge",
+						"slug": "https://defi.choise.com/bridge",
+						"soon": false,
+						"target": true
+					},
+					{
+						"title": "Swap",
+						"slug": "https://defi.choise.com/swap",
+						"soon": false,
+						"target": true
+					},
+					{
+						"title": "Web 3.0 interest accounts",
+						"slug": "/earn",
+						"soon": false,
+						"target": false
+					}
+				],
+				"bottom": [
+					{
+						"title": "DAO",
+						"slug": "/dao",
+						"soon": false,
+						"target": false
+					},
+					{
+						"title": "Staking",
+						"slug": "#",
+						"soon": true,
+						"target": false
+					}
+				]
+			}
+		]
+	}
+}

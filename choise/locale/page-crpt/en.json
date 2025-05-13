@@ -1,0 +1,119 @@
+{
+	"seo": {
+		"title": "сrypterium (crpt) token",
+		"description": "CRPT is one of the key players inside the Choise.com ecosystem, ensuring fast and secure value transfer while maintaining crypto-to-fiat transactions. Every time such a transaction appears inside Choise.com Wallet, a 0.5% gas fee in CRPT tokens is charged and burned monthly."
+	},
+	"main": {
+		"title": "сrypterium (crpt) token",
+		"description": "CRPT is one of the key players inside the Choise.com ecosystem, ensuring fast and secure value transfer while maintaining crypto-to-fiat transactions. Every time such a transaction appears inside Choise.com Wallet, a 0.5% gas fee in CRPT tokens is charged and burned monthly.",
+		"link": "Learn more",
+		"wallet_deep_link": "Buy now"
+	},
+	"data": {
+		"total_price": "current price",
+		"total_supply": "total supply",
+		"current_supply": "current supply",
+		"top_label": "up to 12-month",
+		"frozen": "frozen on deposits"
+	},
+	"markets": {
+		"title": "crypterium <img src=\"/pic/decor/round-arrow-right.svg\" alt=\"CRPT markets\"/> markets"
+	},
+	"burn_it": {
+		"title": "we looooove it,<br/>yet we buuuuurn it",
+		"description": "Every time the crypto-to-fiat transaction appears inside Choise.com Wallet, a 0.5% gas fee in CRPT tokens is charged and burned monthly.",
+		"total_crpt": "total crpt burned",
+		"transaction": "transaction fuel"
+	},
+	"token": {
+		"title": "сrypterium (crpt) token"
+	},
+	"purchases_banner": {
+		"title": "0% fee for all crpt purchases",
+		"wallet_deep_link": "Buy now"
+	},
+	"holding": {
+		"title": "why hodling crpt?",
+		"array": [
+			{
+				"title": "deposit crpt & earn up to 7,2% annually",
+				"description": "Keep your CRPT tokens on interest accounts and get more CRPT. A low-risk strategy that helps to boost your interest earnings"
+			},
+			{
+				"title": "always in demand",
+				"description": "CRPT token is one of the key players inside our ecosystem. Since crypto-to-fiat transactions are fueled by the token, Choise.com burn CRPT on a monthly basis, increasing the demand"
+			},
+			{
+				"title": "limited supply",
+				"description": "CRPT tokens cannot be printed or seized. The total number of tokens is constantly declining, giving a positive impact on the tokenomics fundamentals"
+			}
+		]
+	},
+	"steps": {
+		"title": "how to buy crpt with 0% fee",
+		"link": "Buy CRPT",
+		"array":  [
+			{
+				"image": "/pic/crpt/crpt-step-1.png",
+				"title": "sign in to choise.com wallet",
+				"description": "Launch your Choise.com Wallet. Press ‘Top up’ at the top of the Dashboard and continue",
+				"children": true
+			},
+			{
+				"image": "/pic/crpt/crpt-step-2.png",
+				"title": "buy crypto",
+				"description": "Press on ‘Buy crypto’ to safely purchase CRPT Token with a bank card and get your tokens instantly",
+				"children": true
+			},
+			{
+				"image": "/pic/crpt/crpt-step-3.png",
+				"title": "select the amount",
+				"description": "Enter your card details and verify it. Then choose CRPT from a currency list and enter the amount of CRPT you want to get. Press ‘Buy’ to confirm",
+				"children": true
+			},
+			{
+				"image": "/pic/crpt/crpt-step-4.png",
+				"title": "get your crpt",
+				"description": "Our system offers you the best exchange rate available and the lowest commission out there. Your CRPT will be credited to your balance in a matter of seconds",
+				"children": true
+			}
+		]
+	},
+	"loyalty_program": {
+		"title": "monthly loyalty program (mlp)",
+		"list_level": [
+			"Diego Tores", "level <span>silver</span>"
+		],
+		"array": [
+			{
+				"title": "total mlp",
+				"value": "+318"
+			},
+			{
+				"title": "transactions made",
+				"value": 12
+			},
+			{
+				"title": "total crpt",
+				"value": "6,482"
+			},
+			{
+				"title": "mlp percent",
+				"value": "10%"
+			}
+		],
+		"title_content": "your loyalty pays off",
+		"list_content": [
+			"Up to 30% of the wallet crypto-fiat transactional income goes to the MLP fund and is distributed among users later.",
+			"The half of the MLP fund (50%) is distributed among users depending on the loyalty group. Each loyalty group reflects how much percent of CRPT tokens you will get. Keep in mind that only CRPT held in Choise.com Wallet are taken into account.",
+			"The more transactions you make, the more CRPT goes to the MLP fund — the higher your cashback will be."
+		]
+	},
+	"banner": {
+		"title": "get up to 10% annually for your crpt interest account",
+		"link": "Deposit now"
+	},
+	"supported_services": {
+		"title": "supported by services"
+	}
+}

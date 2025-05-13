@@ -1,0 +1,40 @@
+{
+	"seo": {
+		"title": "Hedge your risk while buying crypto and feel safe with Price Insurance",
+		"description": "Price Insurance is an option to fix guaranteed minimum price when buying BTC or ETH. If the price of a given crypto appears to be less than the insurance price at expiry, Choise.com will cover the losses."
+	},
+	"main": {
+		"success_title": "Confirmed",
+		"success_description": "We’ve received your application and will inform you when the product is available",
+		"link": "Follow us on Telegram",
+		"submit_title": "Crypto price insurance",
+		"phone_placeholder":"Phone number",
+		"email_placeholder": "Email",
+		"choose_placeholder": "Choose the currency to buy",
+		"amount_placeholder": "Amount",
+		"dollar": "$",
+		"check_block_title": "Are you already registered in Choise.com App?",
+		"button_loading": "Loading",
+		"button_continue": "Continue",
+		"risk_title": "Hedge your risk while buying crypto and feel safe with Price Insurance",
+		"risk_description": "Price Insurance is an option to fix guaranteed minimum price when buying BTC or ETH. If the price of a given crypto appears to be less than the insurance price at expiry, Choise.com will cover the losses.",
+		"risk_label": "For example, you buy 1 BTC at a $20,000 rate and cover it with the insurance for 30 days.  If after 30 days the BTC price is $20,000 or more, the insurance will expire. If after 30 days the BTC price falls under $20,000, e.g. $17,000, you will receive $20,000 – $17,000 = $3,000 coverage.",
+		"banner_title": "first month for free",
+		"banner_description": "Limited: for the first 1K users <strong>Up to $300 coverege</strong>",
+		"insurance_title": "Insurance Price",
+		"insurance_array": [
+			"/mo",
+			"starting from the second month"
+		],
+		"modal_button": "Buy BTC or ETH and insure the price",
+		"text1": "First month for free",
+		"text2": "0% fee for the 1st purchase",
+		"text3": "Coverage paid in USDT",
+		"text4": "Feel free to use, invest or withdraw it"
+	},
+	"banner": {
+		"array": ["No, not interested at all", "Maybe. I need more information", "Yeeeeees"],
+		"title": "Do you want to insure the BTC price?",
+		"item_text": "Ok, Thanks!"
+	}
+}

@@ -1,0 +1,68 @@
+{
+	"seo": {
+		"title": "crypto interest accounts for earning up to 13.5% APY",
+		"description": "Open an interest account and get profitable APY on your digital assets. Enjoy outstanding rates for USDT, USDC, BUSD, DAI, CHO, CRPT, BTC, ETH."
+	},
+	"main": {
+		"title": "crypto interest accounts for earning up to 13.5% APY",
+		"description": "Open an interest account and get profitable APY on your digital assets. Enjoy outstanding rates for USDT, USDC, BUSD, DAI, CHO, CRPT, BTC, ETH.",
+		"link_a": "Start earning",
+		"description_fast": "Outpace traditional market yields with Choise.com"
+	},
+	"savingsAccount": {
+		"title": "safe and secure",
+		"description_1": "We are a licensed, fully regulated financial institution in the European Union.",
+		"description_2": "We provide the best crypto interest accounts that are protected with a 3-layer security and an anti-fraud protocol."
+	},
+	"benefits": {
+		"array" :[
+			{
+				"image": "/pic/deposits/benefits-1.png",
+				"title": "savings account with no minimum balance",
+				"description": "Feel comfortable while earning with the Choise.com interest account with no minimum balance",
+				"content": "Use any amount of crypto you want and get up to 13.5% APY at the end of the period",
+				"width": 159,
+				"height": 142
+			},
+			{
+				"image": "/pic/deposits/benefits-2.png",
+				"title": "earn interest – no concerns about extra fees",
+				"description": "Forget about extra fees",
+				"content": "Do not worry about additional costs while opening your interest account. Just choose the cryptocurrency and start making profit",
+				"width": 159,
+				"height": 142
+			},
+			{
+				"image": "/pic/deposits/benefits-3.png",
+				"title": "flexible & Fixed options",
+				"description": "Manage your interest account the way you like",
+				"content": "Withdraw any time with our Flexible interest accounts, or receive higher yield and more terms variety with Fixed.",
+				"width": 265,
+				"height": 156
+			}
+		]
+	},
+	"steps": {
+		"array" : [
+			{
+				"image": "/pic/deposits/slider-1.png",
+				"title": "sign up in Choise.com App",
+				"description": "Launch your Choise.com App. Go to the “Earn” section and click on “Interest accounts”",
+				"children": true
+			},
+			{
+				"image": "/pic/deposits/slider-2.png",
+				"title": "select an asset",
+				"description": "Check the list of available assets and rates upon its duration and APR. Choose the coin that best fits your goals and estimate its interest rate based on your deposit",
+				"children": true
+			},
+			{
+				"image": "/pic/deposits/slider-3.png",
+				"title": "open the interest account",
+				"description": "You can close the deposit at any time and return your deposit without an accumulated interest. All your earned interest wouldn’t be calculated",
+				"children": true
+			}
+		],
+		"link_a": "Start earning"
+	}
+}

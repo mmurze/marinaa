@@ -1,0 +1,144 @@
+{
+	"seo": {
+		"title": "Predicciones de precios de criptomonedas 2022 (BTC, ETH y más de 150 monedas)",
+		"description": "Aumenta tus posibilidades con predicciones diarias de precios basadas en inteligencia artificial para más de 150 criptomonedas. Reduce el ruido del mercado e identifica oportunidades atractivas con una precisión superior al 80%."
+	},
+	"main": {
+		"title": "predice precios, gana grandes premios",
+		"description": "Aumenta tus posibilidades con predicciones diarias de precios basadas en inteligencia artificial para más de 150 criptomonedas. Reduce el ruido del mercado e identifica oportunidades atractivas con una precisión superior al 80%.",
+		"wallet_deep_link": "Comienza ahora"
+	},
+	"list": {
+		"array": [
+			{
+				"image": "/pic/predictions/predictions-list-1.png",
+				"title": "Más de 150 monedas cotizadas en Bitcoin"
+			},
+			{
+				"image": "/pic/predictions/predictions-list-2.png",
+				"title": "Predicciones diarias de precios"
+			},
+			{
+				"image": "/pic/predictions/predictions-list-3.png",
+				"title": "Hasta un 96% de precisión con un promedio del 70%"
+			},
+			{
+				"image": "/pic/predictions/predictions-list-4.png",
+				"title": "Historial de predicciones durante 1 año"
+			}
+		]
+	},
+	"how_works": {
+		"title": "cómo funciona",
+		"description": "Nuestras predicciones de precios son el resultado de un complejo sistema de 3 módulos que recopilan, analizan y procesan datos de mercado.",
+		"array": [
+			{
+				"title": "análisis de datos",
+				"description": "A continuación, procesamos y examinamos los datos utilizando más de 200 factores. Con una combinación de indicadores fundamentales y técnicos, analizamos todos los eventos que influyen en los precios."
+			},
+			{
+				"title": "recolector de datos",
+				"description": "Nuestro sistema recopila y mide datos de mercado para más de 1000 criptomonedas de 8 intercambios diferentes. Eso son casi 200 TB de datos sin procesar."
+			},
+			{
+				"title": "algoritmo predictivo",
+				"description": "Finalmente, nuestro algoritmo de autoaprendizaje prepara predicciones para cada una de las monedas en la plataforma. Esta tecnología es capaz de reconocer patrones, aprender de los datos de mercado e incrementar su precisión con el tiempo."
+			}
+		]
+	},
+	"profit": {
+		"title": "ganancias de predicciones",
+		"description": "Este indicador muestra cuánto podrías haber ganado si hubieras utilizado nuestras predicciones para operar. Oh, no hace falta poner cara de tristeza... ¡Nunca es tarde para comenzar!",
+		"graph": {
+			"total": "Ganancia Total Anual"
+		},
+		"graph_select": {
+			"title": "Elige una moneda para la predicción"
+		}
+	},
+	"how_to_use": {
+		"title": "cómo usar",
+		"array": [
+			{
+				"title": "explora y selecciona activos",
+				"description": "Identifica los mejores activos para operar de nuestra lista de más de 150 monedas. Filtra los resultados para elegir oportunidades atractivas en poco tiempo.",
+				"sub_image": "/pic/predictions/how-use-sub-1.svg",
+				"image": "/pic/predictions/how-use-1.jpg"
+			},
+			{
+				"title": "evalúa la fortaleza de las predicciones",
+				"description": "Nuestro sistema de IA te brinda una predicción clara y fácil de entender para cada activo. Observa la Fuerza de la Predicción para medir la precisión potencial.",
+				"sub_image": "/pic/predictions/how-use-sub-2.svg",
+				"image": "/pic/predictions/how-use-2.jpg"
+			},
+			{
+				"title": "que conste en acta",
+				"description": "Echa un vistazo rápido al rendimiento de nuestras predicciones basadas en IA en los últimos días y meses.",
+				"sub_image": "/pic/predictions/how-use-sub-3.svg",
+				"image": "/pic/predictions/how-use-3.jpg"
+			},
+			{
+				"title": "pon a prueba las predicciones",
+				"description": "No esperes ni un minuto más. Actúa directamente desde la Cartera de Choise.com y benefíciate de la ejecución instantánea de operaciones y las mejores tasas de cambio del mercado.",
+				"image": "/pic/predictions/how-use-4.jpg"
+			},
+			{
+				"title": "obtén la imagen completa",
+				"description": "Accede a un historial de todas las predicciones realizadas por nuestro sistema para un activo específico y su rentabilidad general. ¡Puedes utilizar estos datos para planificar tu siguiente movimiento!",
+				"sub_image": "/pic/predictions/how-use-sub-5.svg",
+				"image": "/pic/predictions/how-use-5.jpg"
+			}
+		]
+	},
+	"plan": {
+		"title": "encuentra tu plan",
+		"link": "Comienza ahora",
+		"unlock": "Desbloquear",
+		"array": [
+			{
+				"title": "gratis",
+				"description": "prueba gratis",
+				"list": ["Predicciones diarias para 5 monedas", "<img src='/pic/predictions/plan-list-icons.svg' alt='Predicciones diarias para 5 monedas'/>", "Datos históricos del último año"],
+				"slug": "https://crypterium.onelink.me/jtmZ/predictions?app_screen=predictions"
+			},
+			{
+				"title": "$60",
+				"description": "suscripción mensual",
+				"list": ["Predicciones diarias para más de 150 monedas", "Datos históricos del último año", "Soporte 24/7"],
+				"calendar": "mes",
+				"percent": "-30% de descuento"
+			},
+			{
+				"title": "$2.99",
+				"description": "acceso diario",
+				"calendar": "día",
+				"list": ["Predicciones diarias para más de 150 monedas", "Datos históricos del último año", "Soporte 24/7"]
+			}
+		]
+	},
+	"learn_about_crypto": {
+		"title": "aprende todo sobre las criptomonedas aquí",
+		"description": "No importa cuánto sepas sobre criptomonedas, Choise.com te brinda las herramientas para aprender conceptos básicos y perfeccionar tus conocimientos sofisticados. Guías, cursos y artículos para ayudarte en cada paso del camino.",
+		"array": [
+			{
+				"title": "preguntas frecuentes",
+				"description": "No dejes que las preguntas te detengan. Visita nuestras preguntas frecuentes para obtener respuestas.",
+				"slug": "/help",
+				"image": "/pic/learn-everything-about-card-1.png"
+			},
+			{
+				"title": "lee nuestro blog",
+				"description": "Refuerza tus conocimientos con ideas y análisis detallados.",
+				"slug": "/news",
+				"image": "/pic/learn-everything-about-card-2.png"
+			},
+			{
+				"title": "mira videos",
+				"description": "Aprovecha al máximo nuestros servicios con nuestros tutoriales en video dinámicos.",
+				"slug": "https://www.youtube.com/c/Crypterium/featured",
+				"target": true,
+				"image": "/pic/learn-everything-about-card-3.png"
+			}
+		]
+	}
+}

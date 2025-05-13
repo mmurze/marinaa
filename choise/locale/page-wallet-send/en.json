@@ -1,0 +1,87 @@
+{
+	"seo": {
+		"title": "send money anywhere for free",
+		"description": "You only need the recipient’s phone number and your Choise.com Wallet to transfer crypto internationally. Recipients get the money even if they don't have the App yet. No fees. No waiting. No limits."
+	},
+	"wallet_main_heading": {
+		"title": "send money anywhere for free",
+		"description": "You only need the recipient’s phone number and your Choise.com Wallet to transfer crypto internationally. Recipients get the money even if they don't have the App yet. No fees. No waiting. No limits.",
+		"linkTitle": "Send money"
+	},
+	"map": {
+		"array": ["#nofees", "#instant", "#worldwide"]
+	},
+	"prices": {
+		"title": "compare the prices",
+		"description": "Let’s see how much you can save by sending money with Crypterium compared to other remittance services on the market",
+		"list_header": ["Fees", "Service time", "Pick up method"],
+		"information": "* The information is based on an international $1,000 transaction",
+		"array": [
+			{
+				"logo": "/pic/wallet/send-prices-1.svg",
+				"alt": "Crypypterium",
+				"fees": "0%",
+				"time": "Instant",
+				"method": "Digital wallet",
+				"active": true
+			},
+			{
+				"logo": "/pic/wallet/send-prices-2.svg",
+				"alt": "TransferWise",
+				"fees": "From 1.5%",
+				"time": "48 hours",
+				"method": "Bank account"
+			},
+			{
+				"logo": "/pic/wallet/send-prices-3.svg",
+				"alt": "Western Union",
+				"fees": "From 0.3%",
+				"time": "24 hours",
+				"method": "Bank account"
+			},
+			{
+				"logo": "/pic/wallet/send-prices-4.svg",
+				"alt": "Money Gram",
+				"fees": "From 0.4%",
+				"time": "24 hours",
+				"method": "Cash in the office"
+			}
+		]
+	},
+	"array": [
+		{
+			"image": "/pic/wallet/wallet-send-description-1.jpg",
+			"alt": "Send crypto to a phone number or a wallet address"
+		},
+		{
+			"title": "Send crypto to a phone number or a wallet address",
+			"description": "There’s no need to know the recipient’s bank account or personal details. All you need is their mobile number or wallet address"
+		},
+		{
+			"title": "how it works",
+			"description": "Pick any of the 30+ digital currencies on your Choise.com Wallet, choose the desired amount and send it. If the recipient doesn’t know much about cryptocurrencies, you can always select a stablecoin like USDC"
+		},
+		{
+			"image": "/pic/wallet/wallet-send-description-2.jpg",
+			"alt": "how it works"
+		},
+		{
+			"image": "/pic/wallet/wallet-send-description-3.jpg",
+			"alt": "send crypto as a gift"
+		},
+		{
+			"title": "send crypto as a gift",
+			"description": ["Innovative, convenient, and ever-increasing in price, cryptocurrencies make an ideal present for your loved ones!", "Send crypto as a gift to your family, friends, or business partners from Choise.com Wallet, without paying any transactional commissions. And now imagine what happens if your dear person decides to hold onto their tokens for a while? It can end up with thanking you for such a smart gift!"]
+		},
+		{
+			"title": "learn how to send money",
+			"description": "It's never too late to learn something awesome. Watch this video or read our tutorial to find out why this feature rocks!",
+			"link": "/news/tutorials/how-to-send-money-instantly-using-cryptocurrency",
+			"linkTitle": "Read the guide"
+		},
+		{
+			"youtube": "MDj1JPRsDIQ",
+			"youtubeImage": "/pic/wallet/send-video.jpg"
+		}
+	]
+}

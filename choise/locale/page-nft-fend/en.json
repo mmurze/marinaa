@@ -1,0 +1,179 @@
+{
+	"seo": {
+		"title": "Level up your savings",
+		"description": "6 years on crypto market to bring you the first-ever NFT interest accounts"
+	},
+	"main": {
+		"title": "6 years on crypto market to bring you the first-ever NFT interest accounts",
+		"link_name": "Calculate your profit",
+		"alt_pic": "Now you can open an interest account in DAI, USDC, USDT and of course CHO for a period of 12-month or more and get up to 25% APR"
+	},
+	"list": {
+		"array": [
+			{
+				"image": "/pic/fend/fend-list-1.jpg",
+				"value": "Up to 25% APY",
+				"description": "Up to 2 years lock",
+				"soon": true
+			},
+			{
+				"image": "/pic/fend/fend-list-2.jpg",
+				"value": "16% APY",
+				"description": "Up to 2 years lock"
+			},
+			{
+				"image": "/pic/fend/fend-list-3.jpg",
+				"value": "16% APY",
+				"description": "Up to 2 years lock"
+			},
+			{
+				"image": "/pic/fend/fend-list-4.jpg",
+				"value": "15% APY",
+				"description": "1 year lock"
+			}
+		]
+	},
+	"works": {
+		"array": [
+			{
+				"title": "connect wallet",
+				"description": "Connect MetaMask wallet. Make sure you are connected to the Binance Smart Chain",
+				"image": "/pic/fend/binance-icon.svg"
+			},
+			{
+				"title": "select a coin",
+				"description": "Once your wallet is connected, select a coin, term and specify the amount of the deposit. Check your profitability"
+			},
+			{
+				"title": "mint",
+				"description": "Click on the Mint button. You will be redirected to confirm this transaction using MetaMask. We will write off the interest account amount, and you will receive your exclusive NFT"
+			},
+			{
+				"title": "make a profit",
+				"description": "At the end of the interest account period, you will receive your interest account amount and interest specified in the NFT characteristics"
+			}
+		],
+		"title": "how it works",
+		"sub_description": "All you need is to mint a token to receive a unique NFT with the interest account characteristics to your MetaMask wallet. At the end of the term we will exchange your NFT for the amount of your interest account plus interest",
+		"step": "step"
+	},
+	"banner": {
+		"title": "<span>Hurry up!</span> The total amount of NFTs is limited",
+		"description": "It is important that we do not limit the number of NFT interest accounts issued to one MetaMask wallet! But the total amount of NFTs is still limited",
+		"link": "Mint"
+	},
+	"security": {
+		"title": "state-of-the-art security",
+		"description": "We are a licensed, fully regulated financial institution in the European Union. Your account is protected by a 3-layer security and an anti-fraud protocol.mited",
+		"entity": {
+			"license": "EU entity & license",
+			"security": "Certified custodians - BitGo"
+		},
+		"array": [
+			{
+				"title": "Ondato",
+				"slug": "#"
+			},
+			{
+				"title": "BitGo",
+				"slug": "#"
+			},
+			{
+				"title": "Chainalysis",
+				"slug": "#"
+			}
+		]
+	},
+	"calculator": {
+		"title": "calculate your profit and mint",
+		"description": "Calculate your profit by choosing a coin, desirable term and the interest account amount, check the characteristics, read the terms, mint your NFT and start earning",
+		"label": "Choose currency",
+		"amount": "Choose amount",
+		"fixed": "Fixed",
+		"lock": "Lock period",
+		"lock_description": "You will get your interest at the end of the lock period",
+		"months": "months",
+		"APY": "APY",
+		"total": {
+			"error": "We are very sorry that you changed your mind. Come back soon, the total amount of NFTs is limited",
+			"label": "You will earn",
+			"loading": "Loading",
+			"APY": "APY",
+			"period": "Lock period",
+			"months": "months",
+			"expires": "Expires at",
+			"agree": "I agree with",
+			"terms": "Terms of Use",
+			"earn": "Earn",
+			"no_funds": "Not enough funds on your wallet. Top up your account or connect another wallet.",
+			"soon": "Coming soon",
+			"connect_wallet": "Connect wallet",
+			"error_modal": {
+				"ops": "Oooooppsss..."
+			},
+			"verify_modal": {
+				"title": "Verify you transaction",
+				"array": ["You need to confirm the transaction. We kindly ask you to make sure that you have chosen the right blockchain network. If you make a mistake, it's okay, just reject MetaMask transaction.", "After confirmation minting will starts automatically."],
+				"steps": ["<span>Step 1</span><p>Confirmation</p>", "<span>Step 2</span><p>Minting NFT</p>" ],
+				"amount": "Amount",
+				"lock": "Lock period",
+				"months": "months",
+				"APY": "APY",
+				"verify": "Verify"
+			},
+			"loading_modal": {
+				"wait": "Please wait...",
+				"content": "We check the availability of the amount necessary for depositing on the balance of your wallet. The approximate waiting time depends on the blockchain load and can be <strong>up to 1 minute.</strong>",
+				"label": "We kindly ask you to make sure that you have chosen the right blockchain network. If you make a mistake, it's okay, just reject the next transaction.",
+				"text": "While the interest account amount is debited from your wallet we open an interest account for you and generate an NFT.",
+				"sub_text": "The approximate waiting time depends on the blockchain load and can be <strong>up to 1 minute.</strong>",
+				"description": "Current NFTs will be displayed in your Profile"
+			},
+			"success_mint": {
+				"title": "You have successfully minted",
+				"with": "with",
+				"APY": "APY",
+				"hash": "Transaction Hash",
+				"token": "Token",
+				"lock": "Lock duration",
+				"months": "months",
+				"profit": "Expected profit",
+				"profile_link": "You can check your NFT at",
+				"profile": "Profile",
+				"mint": "Mint again"
+			}
+		}
+	},
+	"faq": {
+		"array": [
+			{
+				"title": "How to install MetaMask and BNB Chain?",
+				"description": "<p>For instructions on how to install MetaMask and BNB Chain, watch this <a href='#' target='_blank' rel='noreferrer'>YouTube video</a></p>"
+			},
+			{
+				"title": "How to mint NFTs?",
+				"description": "<ol><li>Click on “Connect MetaMask” and complete your MetaMask login action.</li><li>Now that your MetaMask is connected, make sure you are on the Binance Smart Chain. Here is the link to the instructions on how to install MetaMask and choose the Binance Smart Chain.</li><li>Next, select a coin, specify the amount of NFTs you wish to mint and click on “Mint”.</li><li>Confirm the transaction on MetaMask.</li><li>Done! Go back to your profile page to see the minted NFTs!</li></ol>"
+			},
+			{
+				"title": "Why does my mint transaction fail?",
+				"description": "<p>If your minting transaction fails, the most likely reason is that you have too little gas fees on your MetaMask. Do not worry! Once you click on \"Mint\" and you are redirected to MetaMask, click on “Edit” where the estimated gas fee is and simply increase the Gas Price (GWEI) by 1 value (for example, from 5 GWEI to 6 GWEI). This will increase your gas fees, but only by a small amount (a couple of cents).</p>"
+			},
+			{
+				"title": "How do I see my NFTs after minting?",
+				"description": "<p>Connect your MetaMask wallet and visit your profile page.</p>"
+			},
+			{
+				"title": "How to add an NFT to your MetaMask wallet?",
+				"description": "<p>Open your MetaMask wallet, then choose NFTs tab a click “Import NFTs” link. After that enter the contract address (USDT - 0x5ed2facc7885aebeb267f91fa243a55aff3c0e47 / USDC - 0xe22E36Db11a52068b4244c58d203a38C561e4988 / DAI - 0x1B1151560b10E1a9718E1bF6dF74E74131Ba7afE) and ID of the minted NFT. After confirmation, it will be displayed in your wallet.</p>"
+			},
+			{
+				"title": "When do I claim my profit?",
+				"description": "<p>At the end of the interest account period, click on the minted NFTs and then on “Claim”. The token will be burned. You will receive your interest account amount and your interest specified in the NFT characteristics.</p>"
+			},
+			{
+				"title": "How can I contact support?",
+				"description": "<p>If you have any questions, contact Choise.com Support <a href='mailto:support@choise.com' target='_blank' rel='noreferrer'>support@choise.com.</a> We will reply at the earliest.</p>"
+			}
+		]
+	}
+}

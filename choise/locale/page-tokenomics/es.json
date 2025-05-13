@@ -1,0 +1,132 @@
+{
+	"seo": {
+		"title": "Tokenómica de choise.com",
+		"description": "En el rápido crecimiento del mercado de criptomonedas, Choise.com lidera el camino como una plataforma de entrada única para productos de rendimiento. Choise.com ofrece productos complejos centrados en el rendimiento y la criptobanca a través de una interfaz de usuario atractiva y amigable."
+	},
+	"main": {
+		"title": "Tokenómica de choise.com",
+		"description_img_1": "CRPT",
+		"description_img_2": "CHO"
+	},
+	"description": {
+		"description": "En el rápido crecimiento del mercado de criptomonedas, Choise.com lidera el camino como una plataforma de entrada única para productos de rendimiento. En pocas palabras, aquí puedes ganar con tus tenencias de criptomonedas a través de las mismas herramientas anteriormente reservadas para usuarios avanzados de criptomonedas. Todo a través de una interfaz clara, por supuesto.",
+		"title": "Ecosistema de choise.com"
+	},
+	"underlyingTokens": {
+		"title": "Tokenómica. Tokens subyacentes",
+		"description": "La tokenómica de Choise.com se basa en dos tokens fundamentales del proyecto: CRPT y CHO.",
+		"list_1_1": "Estándar del token: ",
+		"list_1_2": "Dirección del contrato ERC-20:",
+		"list_1_3": "Suministro total: ",
+		"list_1_3_span": " tokens",
+		"list_1_4": "Modelo de tokenómica: ",
+		"list_1_4_span": "deflacionario",
+		"link_a_1": "Comprar CRPT",
+		"list_2_1": "Estándar del token: ",
+		"list_2_2": "Dirección del contrato ERC-20:",
+		"list_2_3": "Dirección del contrato SPL:",
+		"list_2_4": "Suministro total: ",
+		"list_2_4_span": " tokens",
+		"list_2_5": "Modelo de tokenómica: ",
+		"list_2_5_span": "deflacionario",
+		"link_a_2": "Comprar CHO",
+		"link_a_3": "Detalles completos de la tokenómica",
+		"description_crpt": "CRPT es uno de los actores clave dentro del ecosistema de Choise.com, garantizando transferencias de valor rápidas y seguras mientras mantiene transacciones de cripto a fiat. Cada vez que se realiza una transacción de este tipo dentro de la billetera de Choise.com, se cobra y quema una tarifa de gas del 0.5% en tokens CRPT mensualmente.",
+		"description_crpt_heading": "Tokenómica de CRPT",
+		"description_crpt_1": "Quema",
+		"description_crpt_2": "Programa de lealtad mensual (MLP)",
+		"description_crpt_3": "Cuentas de interés en CRPT",
+		"description_cho": "El token CHO es el punto de entrada a las ventajas de los productos DeFi de Choise.com. Su tokenómica se basa en prácticas de vanguardia de la industria y se presenta mediante un modelo deflacionario. El número total de tokens está limitado a 1 mil millones y puede ser quemado con el tiempo.",
+		"description_cho_heading": "Tokenómica de CHO",
+		"description_cho_1": "Participación",
+		"description_cho_2": "Descuento en tarifas",
+		"description_cho_3": "DAO"
+	},
+	"interconnection": {
+		"title": "Interconexión CRPT - CHO",
+		"description": "se implementa a través de",
+		"link_a_1": "Programa Retrodrop",
+		"link_a_2": "Programa de airdrop"
+	},
+	"ceFiEcosystem": {
+		"title": "Choise.com hoy. Ecosistema MetaFi",
+		"array" : [
+			{
+				"title": "centralizado",
+				"list":[
+					{
+						"title": "Skrill / Advcash",
+						"icon": "/pic/tokenomics/centralized-1.png"
+					},
+					{
+						"title": "Tarjetas VISA",
+						"icon": "/pic/tokenomics/centralized-2.png"
+					},
+					{
+						"title": "Billetera custodia de criptomonedas",
+						"icon": "/pic/tokenomics/centralized-3.png"
+					},
+					{
+						"title": "Seguro de precios de criptomonedas",
+						"icon": "/pic/tokenomics/centralized-4.png"
+					},
+					{
+						"title": "Comprar criptomonedas",
+						"icon": "/pic/tokenomics/centralized-5.png"
+					},
+					{
+						"title": "Cuentas de interés",
+						"icon": "/pic/tokenomics/centralized-6.png"
+					},
+					{
+						"title": "Retirar dinero",
+						"icon": "/pic/tokenomics/centralized-7.png"
+					},
+					{
+						"title": "Predicciones de precios",
+						"icon": "/pic/tokenomics/centralized-8.png"
+					},
+					{
+						"title": "Intercambio",
+						"icon": "/pic/tokenomics/centralized-9.png"
+					},
+					{
+						"title": "Cuenta IBAN",
+						"icon": "/pic/tokenomics/centralized-10.png"
+					}
+				]
+			},
+			{
+				"title": "descentralizado",
+				"list": [
+					{
+						"title": "Cuentas de interés NFT",
+						"icon": "/pic/tokenomics/decentralized-1.png"
+					},
+					{
+						"title": "Participación",
+						"icon": "/pic/tokenomics/decentralized-2.png"
+					},
+					{
+						"title": "Acceso",
+						"icon": "/pic/tokenomics/decentralized-3.png"
+					},
+					{
+						"title": "Cuentas de interés Web 3.0",
+						"icon": "/pic/tokenomics/decentralized-4.png"
+					},
+					{
+						"title": "Intercambio",
+						"icon": "/pic/tokenomics/decentralized-5.png"
+					},
+					{
+						"title": "Agregadores de puentes",
+						"icon": "/pic/tokenomics/decentralized-6.png"
+					}
+				]
+			}
+		],
+		"link_a_1": "Google play",
+		"link_a_2": "App store"
+	}
+}

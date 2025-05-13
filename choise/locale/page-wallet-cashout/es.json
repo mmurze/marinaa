@@ -1,0 +1,47 @@
+{
+	"seo": {
+		"title": "retira criptomonedas en cualquier momento, al instante",
+		"description": "Cuando necesites dinero extra, utiliza Choise.com para enviar criptomonedas directamente a tu tarjeta bancaria en segundos. Tarifas bastante bajas garantizadas."
+	},
+	"wallet_main_heading": {
+		"title": "retira criptomonedas en cualquier momento, al instante",
+		"description": "Cuando necesites dinero extra, utiliza Choise.com para enviar criptomonedas directamente a tu tarjeta bancaria en segundos. Tarifas bastante bajas garantizadas.",
+		"linkTitle": "Retirar dinero"
+	},
+	"array": [
+		{
+			"image": "/pic/wallet/wallet-cashout-description-1.jpg",
+			"alt": "la forma más rápida de retirar criptomonedas"
+		},
+		{
+			"title": "la forma más rápida de retirar criptomonedas",
+			"description": "Accede a tu dinero en segundos al retirar tus criptomonedas a cualquiera de tus tarjetas. La entrega instantánea está garantizada."
+		},
+		{
+			"title": "sorprendentemente asequible",
+			"description": "Incluimos una pequeña tarifa para ayudarte a retirar criptomonedas al instante. Sin restricciones ni límites en tu próxima retirada de criptomonedas. ¡Pruébalo ahora!"
+		},
+		{
+			"image": "/pic/wallet/wallet-cashout-description-2.jpg",
+			"alt": "sorprendentemente asequible"
+		},
+		{
+			"image": "/pic/wallet/wallet-cashout-description-3.jpg",
+			"alt": "transferencias bancarias"
+		},
+		{
+			"title": "transferencias bancarias",
+			"description": "También puedes enviar tus criptomonedas a cuentas bancarias personales o empresariales. Trabajamos arduamente para ofrecer esta característica única lo antes posible."
+		},
+		{
+			"title": "aprende cómo retirar criptomonedas",
+			"description": "Nunca es tarde para aprender algo increíble. Mira este video o lee nuestro tutorial para descubrir por qué esta función es genial.",
+			"link": "/news/tutorials/how-to-cash-out-cryptocurrency-instantly-to-your-bank-card",
+			"linkTitle": "Lee la guía"
+		},
+		{
+			"youtube": "cJ_SXzDyn0E",
+			"youtubeImage": "/pic/wallet/cashout-video.jpg"
+		}
+	]
+}

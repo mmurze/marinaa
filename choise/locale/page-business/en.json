@@ -1,0 +1,231 @@
+{
+	"seo": {
+		"title": "Accelerate Investment Performance of your business",
+		"description": "Maximize your returns with secure B2B crypto interest accounts & loans. Leading-edge institutional offer with competitive interest rates. Insured and regulated by EU financial institutions."
+	},
+	"main": {
+		"title": "accelerate investment performance of your business",
+		"description": "Maximize your returns with secure B2B crypto interest accounts & loans. Leading-edge institutional offer with competitive interest rates.",
+		"title_button": "Apply now",
+		"title_link": "Already have a business account?",
+		"link": "Sign in",
+		"list": [
+			{
+				"icon": "/pic/business/main-icon-1.svg",
+				"description": "Personal account management"
+			},
+			{
+				"icon": "/pic/business/main-icon-2.svg",
+				"description": "Virtual assets operational license"
+			},
+			{
+				"icon": "/pic/business/main-icon-3.svg",
+				"description": "Family office solution"
+			},
+			{
+				"icon": "/pic/business/main-icon-4.svg",
+				"description": "AI risk management"
+			}
+		]
+	},
+	"banner": {
+		"title_1": "let's build a",
+		"title_2": "around your business",
+		"title": "custom plan",
+		"title_button": "Apply now"
+	},
+	"benefits": {
+		"title":"how market neutral liquidity strategies work",
+		"modalContent": [
+			{
+				"title": "Currency exposure",
+				"coins": true
+			},
+			{
+				"title": "Source of return",
+				"description": "Protocol fees for providing liquidity"
+			},
+			{
+				"title": "When does the strategy earn?",
+				"description": "Always: more in bull market, less in bear market"
+			},
+			{
+				"title": "Drawdown risk",
+				"description": "No"
+			},
+			{
+				"title": "Market exposure profit",
+				"description": "No"
+			}
+		],
+		"stepArray": [
+			{
+				"title": "AI researches through a number of Liquidity Pools (LP) on reputable DEXs to discover the most effective portfolio allocation"
+			},
+			{
+				"title": "The investment occurs"
+			},
+			{
+				"title": "Monitoring 24/7",
+				"description": "After the allocation, a mix of in-house and outsourced specialized software monitors pools and chains. Emergency on-chain and MEV-resistant withdraw automation is triggered by any suspicious activity — an additional layer of safety."
+			},
+			{
+				"title": "The protocol fees from LPs are gainer and reinvested"
+			}
+		],
+		"array": [
+			{
+				"icon": "/pic/business/benefits-icon-1.svg",
+				"title": "ai risk adjustment",
+				"description": "Get risk adjusted returns with low correlation to traditional equities, commodities, and other investment strategies by deploying delta neutral strategies utilizing Choise.com proprietary AI technology.",
+				"modal": true
+			},
+			{
+				"icon": "/pic/business/benefits-icon-2.svg",
+				"title": "transparency and flexibility",
+				"description": "Go big and adjust your portfolio at any time with a few clicks. We provide full transparency into every aspect of the process."
+			},
+			{
+				"icon": "/pic/business/benefits-icon-3.svg",
+				"title": "priority customer support",
+				"description": "Dedicated customer service team is available 24/7 to provide page-business assistance in case of any question or concern"
+			}
+		],
+		"title_button": "Check how it works"
+	},
+	"regulations": {
+		"title": "family office solution in full compliance with global regulations",
+		"description": "Choise.com is fully licensed for Virtual assets operations. We adhere to all applicable laws and regulations set forth by the EU government, including Anti Money Laundering (AML) Compliance and Know Your Business (KYB) requirements.",
+		"label_1": "Certified custodians",
+		"label_2": "Absolute funds protection",
+		"description_label_2": "Security Layer 3",
+		"description_img": "EU Licensed",
+		"title_license": "EU license for providing a virtual asset operations",
+		"link_1": "www.rekvizitai.vz.lt",
+		"title_registered": "Registered by FCA UK ",
+		"title_span": "since 4.10.21",
+		"description_item": "*one of only 50 companies to have such registration",
+		"link_2": "www.register.fca.org.uk"
+	},
+	"cryptoBank": {
+		"title": "trust a leading crypto firm",
+		"description": "Choise.com is a trusted company with a strong vision to give everyone a choise to earn more on crypto",
+		"list": [
+			{
+				"value": "6 years",
+				"title": "of strong market expertise"
+			},
+			{
+				"value": "1M",
+				"title": "registered users"
+			},
+			{
+				"value": "$1B",
+				"title": "turnover"
+			},
+			{
+				"value": "170+",
+				"title": "countries"
+			},
+			{
+				"value": 160,
+				"title": "professionals in the team"
+			},
+			{
+				"value": "$50M+",
+				"title": "invested in Choise.com"
+			},
+			{
+				"value": "$1B",
+				"title": "under management"
+			},
+			{
+				"value": "fully licensed",
+				"title": "for providing a virtual asset operations"
+			}
+		]
+	},
+	"certificates": {
+		"title": "Choise.com certificates",
+		"array": [
+			"BitGo",
+			"EU licensed",
+			"Ledger Vault",
+			"FinTech Alliance (UK)",
+			"ISO/IEC",
+			"Compliance Control Ltd.",
+			"SSL",
+			"SOC2",
+			"PCI DSS",
+			"Chainanalysis"
+		]
+	},
+	"supported": {
+		"title": "supported",
+		"label": "by 20+ institutional investors"
+	},
+	"partners": {
+		"array": [
+			{
+				"title": "fintech-alliance",
+				"link": "https://fintech-alliance.com/news-insights/article/choise-com-simplifying-crypto-for-an-improved-customer-experience",
+				"icon": "/pic/business/partners/p-1.svg"
+			},
+			{
+				"title": "dailyhodl",
+				"link": "https://dailyhodl.com/2023/01/11/why-institutional-investors-are-already-preparing-for-the-next-bull-run/",
+				"icon": "/pic/business/partners/p-2.svg"
+			},
+			{
+				"title": "entrepreneur",
+				"link": "https://www.entrepreneur.com/money-finance/5-bear-market-lessons-from-a-crypto-entrepreneur/442131",
+				"icon": "/pic/business/partners/p-3.svg"
+			},
+			{
+				"title": "cointelegraph",
+				"link": "https://cointelegraph.com/news/the-elon-effect-shows-how-opinion-leaders-shape-the-fintech-market",
+				"icon": "/pic/business/partners/p-4.svg"
+			},
+			{
+				"title": "fxempire",
+				"link": "https://www.fxempire.com/news/article/get-passive-income-on-these-top-5-crypto-earning-platforms-1183842",
+				"icon": "/pic/business/partners/p-5.svg"
+			},
+			{
+				"title": "fintechmagazine",
+				"link": "https://fintechmagazine.com/crypto/choise-com-md-talks-cryptocurrency-future-trends-for-2023",
+				"icon": "/pic/business/partners/p-6.svg"
+			},
+			{
+				"title": "finance",
+				"link": "https://finance.yahoo.com/news/nft-market-gets-ready-big-140000615.html?.tsrc=fin-srch",
+				"icon": "/pic/business/partners/p-7.svg"
+			},
+			{
+				"title": "hackernoon",
+				"link": "https://hackernoon.com/nfts-are-not-dying-they-are-evolving",
+				"icon": "/pic/business/partners/p-8.svg"
+			},
+			{
+				"title": "watcher",
+				"link": "https://watcher.guru/news/would-cbdcs-eventually-lead-to-the-demise-of-crypto",
+				"icon": "/pic/business/partners/p-9.svg"
+			},
+			{
+				"title": "fxstreet",
+				"link": "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-price-fell-27-how-to-insure-crypto-assets-202211240833 ",
+				"icon": "/pic/business/partners/p-10.svg"
+			},
+			{
+				"title": "crypto.news",
+				"link": "https://crypto.news/binance-ceo-discusses-genesis-collapse-impact-on-crypto-markets/",
+				"icon": "/pic/business/partners/p-11.svg"
+			},
+			{
+				"title": "coincodex",
+				"link": "https://coincodex.com/article/21034/top-5-altcoins-to-watch-out-for-in-november-2022/",
+				"icon": "/pic/business/partners/p-12.svg"
+			}
+		]
+	}
+}

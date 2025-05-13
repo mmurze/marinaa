@@ -1,0 +1,53 @@
+{
+	"seo": {
+		"title": "crypto exchange you can trust",
+		"description": "Our wallet allows you to exchange your digital holdings for fiat or other cryptos, without worrying that you overpay for mediation. Choise.com integrates with the world’s TOP 10 cryptocurrency exchanges to let you pick fair rate for your transaction"
+	},
+	"wallet_main_heading": {
+		"title": "crypto exchange you can trust",
+		"description": "Our wallet allows you to exchange your digital holdings for fiat or other cryptos, without worrying that you overpay for mediation. Choise.com integrates with the world’s TOP 10 cryptocurrency exchanges to let you pick fair rate for your transaction",
+		"linkTitle": "Exchange now"
+	},
+	"array": [
+		{
+			"title": "200+ exchange pairs for 30+ coins",
+			"description": "The Choise.com wallet is equipped with a proprietary bid-ask matching engine, powered by Artificial Intelligence. The system unceasingly monitors exchange rates for over 200 crypto pairs"
+		},
+		{
+			"image": "/pic/wallet/wallet-exchange-description-1.jpg",
+			"alt": "200+ exchange pairs for 30+ coins"
+		},
+		{
+			"image": "/pic/wallet/wallet-exchange-description-2.jpg",
+			"alt": "affordable rates with small fees"
+		},
+		{
+			"title": "affordable rates with small fees",
+			"description": "Along with offering moderate rates on cryptocurrencies, Choise.com charges small commissions on transactions with electronic funds. Purchase crypto, cash it out to your bank card – no matter how you use your digital holdings, do it with fair rates"
+		},
+		{
+			"title": "price predictions for trading",
+			"description": [
+				"Wallet comes with daily AI-powered price predictions for over 140 coins. You can effortlessly identify lucrative investment opportunities and trade with an accuracy rate close to 95%.",
+				"Don’t want to merely hold your tokens until the next price surge? Make your digital finances work for you right now! You can set up a crypto savings account directly from the wallet and earn a 15.6% APR on your electronic funds. With Choise.com, you can turn your virtual tokens into a powerful investment vehicle and spend gains with the same ease as cash"
+			]
+		},
+		{
+			"description": [
+				"The wallet comes with daily AI-powered price predictions for over 140 coins. You can effortlessly identify lucrative investment opportunities and trade with an accuracy rate close to 95%",
+				"The price prediction feature presents a sophisticated engine that captures, analyses, and processes market data by over 100 metrics from the most reputable crypto exchanges, giving you a clear, intuitive forecast on the asset of your interest.",
+				"You can instantly identify the top performers among cryptocurrencies, explore their price history, and take appropriate measures directly from Choise.com wallet. All with instant trade execution and the best exchange rates in the industry."
+			]
+		},
+		{
+			"title": "learn how to exchange crypto",
+			"description": "It's never too late to learn something awesome. Watch this video or read our tutorial to find out why this feature rocks!",
+			"link": "/news/buy-crypto/how-to-exchange-crypto-with-best-rates",
+			"linkTitle": "Read the guide"
+		},
+		{
+			"youtube": "4EOHbvMhcqA",
+			"youtubeImage": "/pic/wallet/exchange-video.jpg"
+		}
+	]
+}

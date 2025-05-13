@@ -1,0 +1,65 @@
+{
+	"seo": {
+		"title": "tu elección para ganar moooás",
+		"description": "Encuentra las mejores oportunidades de rendimiento en todas las redes EVM. Invierte en cualquiera de ellas con un solo clic."
+	},
+	"main": {
+		"title": "tu elección para ganar moooás",
+		"description": "Encuentra las mejores oportunidades de rendimiento en todas las redes EVM. Invierte en cualquiera de ellas con un solo clic.",
+		"link": "Comenzar a ganar"
+	},
+	"fingerprints": {
+		"title": "todos los rendimientos al alcance de tus dedos",
+		"title_first": "encuentra el mejor producto de ganancias que se adapte a ti",
+		"description_1_1": "No más malabarismos entre diferentes protocolos DeFi, no más búsqueda en diferentes cuentas de saldo y paneles de usuario: el agregador de staking y yield farming de Charism es un único punto de entrada a todo el espacio DeFi.",
+		"description_1_2": "Encuentra y analiza productos de ganancias en diferentes protocolos en una interfaz unificada. Compara diferentes protocolos por parámetros principales como APY, TVL y elige el que más te convenga.",
+		"title_second": "gana en todas las cadenas",
+		"description_2": "No más necesidad de cambiar entre diferentes blockchains e interfaces, una interfaz unificada para todos los protocolos y todas las blockchains.",
+		"title_third": "gana con facilidad",
+		"description_3": "Ingresa a cualquier producto de ganancias con facilidad a través de nuestro protocolo de construcción de transacciones. Nosotros nos encargaremos de interactuar con protocolos DeFi complejos mientras disfrutas de altos APYs."
+	},
+	"dex": {
+		"title": "intercambia con las mejores tasas",
+		"description": "El explorador unificado para las mejores tasas y liquidez ofrecidas por los intercambios descentralizados (DEXs), el agregador DEX del protocolo Charism permite a los traders intercambiar criptomonedas a las tasas más bajas y evitar comisiones excesivas por transacciones. Ahora puedes intercambiar activos digitales, asegurándote de la menor deslizamiento en DEXs de alta liquidez. Opera directamente desde tu billetera no custodial y mantén el control completo sobre tus fondos virtuales.",
+		"link": "Intercambiar"
+	},
+	"chain": {
+		"title": "puente hacia cualquier cadena",
+		"description": "Encuentra los mejores puentes en 10 cadenas mientras disfrutas de la extrema simplicidad y los mejores precios de mercado.",
+		"list": [
+			{
+				"icon": "/pic/charism/chains/binance.jpg",
+				"title": "binance"
+			},
+			{
+				"icon": "/pic/charism/chains/avalanche.jpg",
+				"title": "avalanche"
+			},
+			{
+				"icon": "/pic/charism/chains/polygon.jpg",
+				"title": "polygon"
+			},
+			{
+				"icon": "/pic/charism/chains/ethereum.jpg",
+				"title": "ethereum"
+			},
+			{
+				"icon": "/pic/charism/chains/arbitrum.jpg",
+				"title": "arbitrum"
+			},
+			{
+				"icon": "/pic/charism/chains/fantom.jpg",
+				"title": "fantom"
+			},
+			{
+				"icon": "/pic/charism/chains/gnosis.jpg",
+				"title": "gnosis"
+			}
+		],
+		"link": "Puente"
+	},
+	"analyze": {
+		"title": "analiza tu cartera en todas las cadenas",
+		"description": "Realiza un seguimiento de tu billetera y cartera de ganancias en todas las cadenas."
+	}
+}

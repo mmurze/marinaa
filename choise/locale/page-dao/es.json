@@ -1,0 +1,47 @@
+{
+	"seo": {
+		"title": "Foro DAO para ti — Comunícate, Decide, Elige",
+		"description": "Choise.com DAO es una organización autónoma descentralizada que brindará a todos los usuarios la oportunidad de tener un impacto en el desarrollo del ecosistema."
+	},
+	"main": {
+		"title": "dao. tu elección para tener un impacto",
+		"description": "Choise.com DAO es una organización autónoma descentralizada que brindará a todos los usuarios la oportunidad de tener un impacto en el desarrollo del ecosistema.",
+		"label": "Piensa en grande y únete a DAO",
+		"title_span": "hagamos que nuestro futuro valga la pena contar",
+		"link_a": "Únete a DAO"
+	},
+	"information": {
+		"array" : [
+			{
+				"title": "¿Por qué DAO?",
+				"description": ["La misión de DAO es brindar a todos igualdad de oportunidades para ganar con activos criptográficos en un entorno libre de riesgos, independientemente del nivel de experiencia en cripto."],
+				"image": "/pic/dao/dao-information-1.png",
+				"width": 198,
+				"height": 209
+			},
+			{
+				"title": "¿Qué es el foro DAO?",
+				"description": ["En nuestro camino hacia un Choise.com DAO plenamente desarrollado, lanzamos el Foro DAO.", "El foro es una parte esencial de DAO y el principal canal de comunicación donde la comunidad de Choise.com tendrá libertad de expresión."],
+				"image": "/pic/dao/dao-information-2.png",
+				"width": 201,
+				"height": 257
+			}
+		]
+	},
+	"banner": {
+		"array" : [
+			{
+				"title": "cada voz es importante",
+				"description": "Los miembros de Choise.com DAO nos ayudarán a establecer nuestras prioridades."
+			},
+			{
+				"image": true
+			},
+			{
+				"title": "decisión común",
+				"description": "Proporciona decisiones colectivas y las aceptaremos en la medida en que se puedan implementar financieramente, legalmente o técnicamente."
+			}
+		],
+		"link_a": "Comienza a tener un impacto"
+	}
+}

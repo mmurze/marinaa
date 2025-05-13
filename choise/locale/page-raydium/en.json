@@ -1,0 +1,71 @@
+{
+	"seo": {
+		"title": "$40k CHO Airdrop",
+		"description": "$40 000 in CHO is up for grabs now, as we celebrate the CHO TGE and listing on Raydium with a grand Airdrop"
+	},
+	"main": {
+		"title": "$40k CHO Airdrop",
+		"description": "meet choise.com on Raydium",
+		"arrow_description": "$40 000 in CHO is up for grabs now, as we celebrate the CHO TGE and listing on Raydium with a grand Airdrop",
+		"link_a": "Go to Raydium",
+		"link_a_1": "Read",
+		"text_1": "or ",
+		"link_a_2": "watch",
+		"text_2": "how to trade"
+	},
+	"manual": {
+		"title": "how to trade on Raydium",
+		"item_1_title_1": "Trade here:",
+		"item_1_links": "add CHO token if you don’t see CHO/USDT pair:",
+		"item_1_title_2": "Market Id:",
+		"item_1_description_2_1": "Don’t worry if you see ",
+		"item_1_span": "Warning: unknown token",
+		"item_1_description_2_2": ", just keep adding “Market label” and “Base label” to add CHO token",
+		"item_1_title_3": "Market Label:",
+		"item_1_title_4": "Base Label:",
+		"item_2_title_1": "Still cannot find the token?",
+		"item_2_information_1": "Follow the instruction:",
+		"item_2_link_a": "How to trade",
+		"item_2_pair": "Trading pair: ",
+		"item_2_span": "CHO/USDT",
+		"item_2_title_2": "Prefer swap to trading?",
+		"item_2_information_2": "Swap CHO on Raydium:",
+		"item_3_title_1": "CHO Contract Address in Solana blockchain:",
+		"item_3_title_2": "Mint address",
+		"item_3_description_1": "Name of a token: ",
+		"item_3_span_1": "CHO",
+		"item_3_description_2": "Pair: ",
+		"item_3_span_2": "CHO/USDT"
+	},
+	"prize": {
+		"description_1": "perform any transaction with CHO between",
+		"title_span": "June 7th and June 21st",
+		"description_2": "on Raydium and share",
+		"description_3": "over $40 000 prize pool"
+	},
+	"banner": {
+		"title": "choise.com - the world's 1st MetaFi platform",
+		"description": "we’ve combined all the benefits of CeFi and DeFi services and are launching a grand Airdrop celebrating  CHO Token Generating Event and listing on Raydium exchange"
+	},
+	"form": {
+		"title_success": "you are in!",
+		"description_success": "Start trading CHO on Raydium. Share the Airdrop prize pool!",
+		"link_a_success_1": "Start trading",
+		"link_a_success_2": "How to trade CHO on Raydium",
+		"title": "fill in the form to confirm your participation:",
+		"title_button": "I am in",
+		"link_a_1": "Terms of Participation",
+		"trade_link": "Participating already? ",
+		"link_a_2": "Start trading",
+		"link_a_3": "How to trade CHO on Raydium"
+	},
+	"tryLuck": {
+		"description": "100 000 CHO will be distributed among 1000 random wallets between ",
+		"title_span": "June 7th and June 21st",
+		"slogan": "It’s your choise to earn moooore",
+		"description_img": "100k CHO tokens for 1000 Winners ",
+		"title_span_img": "try your luck",
+		"link": "Join and win",
+		"link_a": "Check the terms"
+	}
+}

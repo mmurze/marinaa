@@ -1,0 +1,99 @@
+{
+	"seo": {
+		"title": "Plataforma de Afiliados de Criptomonedas",
+		"description": "¡Conviértete en un socio confiable de Choise.com y gana con una de las plataformas de CPA más rentables del mundo!"
+	},
+	"main": {
+		"title": "Plataforma de Afiliados de Criptomonedas <span><p>Afiliado</p></span>",
+		"description": "¡Conviértete en un socio confiable de Choise.com y gana con una de las plataformas de CPA más rentables del mundo!",
+		"join": "Unirse",
+		"alt": "Plataforma de Afiliados de Criptomonedas"
+	},
+	"benefits": {
+		"title": "Benefíciate al utilizar Choise.com CPA",
+		"sub_title": "Los programas de afiliados de Bitcoin y criptomonedas son una forma poderosa de monetizar la experiencia de tus clientes atrayendo a un público específico para que utilice un producto o servicio determinado.",
+		"description": "Descubre las fortalezas de nuestra plataforma de afiliados y trabaja con un equipo en el que puedes confiar.",
+		"array": [
+			{
+				"image": "/pic/cpa/cpa-benefits-1.png",
+				"description": "Equipo interno de webmasters que garantiza un volumen estable de tráfico"
+			},
+			{
+				"image": "/pic/cpa/cpa-benefits-2.png",
+				"description": "Leads en socios B2B y monetización adicional mediante la venta de bloques separados de CPA y referencias"
+			},
+			{
+				"image": "/pic/cpa/cpa-benefits-3.png",
+				"description": "10 años de experiencia y todas las herramientas necesarias para utilizar CPA"
+			},
+			{
+				"image": "/pic/cpa/cpa-benefits-4.png",
+				"description": "Red offline de 600.000 agentes con un alto potencial para alcanzar a 1 millón de personas"
+			},
+			{
+				"image": "/pic/cpa/cpa-benefits-5.png",
+				"description": "No dependencia de decisiones de terceros"
+			}
+		]
+	},
+	"solution": {
+		"title": "Nuestra solución de afiliados ofrece:",
+		"array": [
+			"Plataforma de CPA",
+			"Programa de lealtad",
+			"Mecánica de subastas",
+			"Mecánica de bonificaciones",
+			"Programa de referidos multinivel",
+			"Seguimiento interno"
+		]
+	},
+	"advantages": {
+		"title": "Ventajas para los afiliados",
+		"sub_title": "La plataforma brinda al socio acceso a la base de datos y contenido educativo, así como a la posibilidad de establecer tarifas personales para las ofertas.",
+		"description": "Ahora, podemos observar una demanda constante de criptomonedas por parte de los afiliados, lo cual justifica plenamente la necesidad de crear una plataforma como esta.",
+		"array": [
+			{
+				"image": "/pic/cpa/advantages-1.jpg",
+				"width": 385,
+				"height": 375,
+				"title": "Solución única y listo para usar para los afiliados"
+			},
+			{
+				"image": "/pic/cpa/advantages-2.jpg",
+				"width": 385,
+				"height": 375,
+				"title": "El proceso de toma de decisiones es completamente independiente"
+			},
+			{
+				"image": "/pic/cpa/advantages-3.jpg",
+				"width": 385,
+				"height": 426,
+				"title": "Recompensa a los clientes por referidos atraídos que utilizan los productos de la empresa",
+				"link": "#",
+				"link_title": "Pruébalo"
+			}
+		]
+	},
+	"how_works": {
+		"title": "Cómo funciona",
+		"list": [
+			{
+				"title": "socio",
+				"array": ["Anunciante"]
+			},
+			{
+				"title": "nosotros",
+				"array": ["Como Plataforma de Afiliados, cobramos una comisión del 20 al 40%"]
+			},
+			{
+				"title": "ejecutor",
+				"array": ["Agentes", "Webmasters", "Compradores de medios", "Influencers"]
+			},
+			{
+				"title": "el público objetivo",
+				"array": ["Cliente", "Cliente", "Cliente", "Cliente", "Cliente", "Cliente"]
+			}
+		]
+	},
+	"register": "Regístrate en el programa de afiliados de Choise"
+}

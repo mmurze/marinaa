@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Circular-BoldItalic';
+  src: url('Circular-BoldItalic.eot');
+  src: url('Circular-BoldItalic.eot?#iefix') format('embedded-opentype'),
+       url('Circular-BoldItalic.svg#Circular-BoldItalic') format('svg'),
+       url('Circular-BoldItalic.ttf') format('truetype'),
+       url('Circular-BoldItalic.woff') format('woff'),
+       url('Circular-BoldItalic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

@@ -1,0 +1,185 @@
+{
+	"seo": {
+		"title": "dual currency interest accounts",
+		"description": "Dual currency interest account (DCIA) is a short-term product with floating returns that can provide very high returns through an income generation yield strategy based on dual currency interest account pricing. Enjoy all benefits of dual currency interest account for Bitcoin and Ethereum"
+	},
+	"main": {
+		"title": "dual currency interest accounts",
+		"description": "Dual Currency Interest Accounts (DCIA) is a product with floating returns that can provide very high returns through an income generation yield strategy based on dual currency interest account pricing. Enjoy all benefits of Dual Currency Interest Account for Bitcoin and Ethereum."
+	},
+	"benefits": {
+		"array" : [
+			{
+				"image": "/pic/dual-product/dual-benefits-1.jpg",
+				"description": "what is<br/>dualcurrency<br/>interestaccounts?"
+			},
+			{
+				"image": "/pic/dual-product/dual-benefits-2.jpg",
+				"description": "advantages"
+			},
+			{
+				"image": "/pic/dual-product/dual-benefits-3.jpg",
+				"description": "who should<br/>consider DCIA?"
+			},
+			{
+				"image": "/pic/dual-product/dual-benefits-4.jpg",
+				"description": "limitations & risks"
+			},
+			{
+				"image": "/pic/dual-product/dual-benefits-5.jpg",
+				"description": "sample<br/>scenarios"
+			}
+		]
+	},
+	"advantages": {
+		"title": "advantages of dual currency interest accounts",
+		"description": "More attractive exchange rates than spot or forward ones",
+		"array" : [
+			{
+				"title": "earning yield that is significantly higher than for a standard time interest account",
+				"description": "The Yield is secured at the moment of purchase, while the Settlement Currency is being altered depending on how the Settlement Price and the Linked Price relate to each other.",
+				"image": "/pic/dual-product/dual-advantages-1.png",
+				"width": 163,
+				"height": 126
+			},
+			{
+				"title": "an opportunity to select the investment period",
+				"description": "BTC acts as the Investment Currency in our BTC dual currency products. In other words, you purchase the product with BTC and then see how the Settlement Price (the price of BTC at the moment of settlement) compares with the Linked Price (or the benchmark price) at expiry.",
+				"image": "/pic/dual-product/dual-advantages-2.png",
+				"width": 143,
+				"height": 126
+			},
+			{
+				"title": "exposure to an alternate currency",
+				"description": "If the Settlement Price is higher than the Linked Price, you will receive the return in the Investment Currency. Otherwise, you will receive your yields in USD.",
+				"image": "/pic/dual-product/dual-advantages-3.png",
+				"width": 98,
+				"height": 97
+			}
+		],
+		"link_a": "Start earning"
+	},
+	"risks": {
+		"title": "protection and security",
+		"description": "Choise.com is a licensed, fully regulated financial institution in the European Union. Your interest account is well-protected by a 3-layer security and an anti-fraud protocol."
+	},
+	"steps": {
+		"array" : [
+			{
+				"title": "sign in to your сhoise.com wallet",
+				"description": "Go to the special “Earn” section and find Dual Currency Interest Accounts",
+				"image": "/pic/dual-product/dual-slider-1.png",
+				"children": true
+			},
+			{
+				"title": "select the investment currency",
+				"description": "Dual Currency Interest Accounts are available for BTC and ETH only",
+				"image": "/pic/dual-product/dual-slider-2.png",
+				"children": true
+			},
+			{
+				"title": "enter amount of the base asset (for conventional investment or interest account)",
+				"description": "The interest account calculator will display Yield and APY in the relevant dual currency deposit rates.",
+				"image": "/pic/dual-product/dual-slider-3.png",
+				"children": true
+			},
+			{
+				"title": "confirm interest account opening and terms",
+				"description": "The yield is fixed at the moment. Further Dual Currency Interest Accounts reporting will be available in the active interest account section.",
+				"image": "/pic/dual-product/dual-slider-4.png",
+				"children": true
+			}
+		]
+	},
+	"examples": {
+		"title": "examples",
+		"array" : [
+			{
+				"title": "conventional interest account",
+				"label": "Example A",
+				"list": [
+					{
+						"title": "Interest Account & Amount",
+						"value": "2 BTC"
+					},
+					{
+						"title": "Other Currency",
+						"value": "USD"
+					},
+					{
+						"title": "Term",
+						"value": "30 days"
+					},
+					{
+						"title": "Linked Price",
+						"value": "$20,000"
+					},
+					{
+						"title": "DCIA Enhanced Yield",
+						"value": "3.0%"
+					}
+				],
+				"content_title": "what happens at the expiry date",
+				"content_description": ["<strong>Expiry date scenario 1:</strong> If the BTC rate is below $20,000, the investment and the interest earned will be returned to you (2 BTC + 5% Yield).", "<strong>Expiry date scenario 2:</strong> If the BTC rate is above $20,000, the investment will be converted and returned in USD with the interest earned (2 * 25,000 USD + 5% Yield)."],
+				"content_sub_description": "Either way, you receive the same interest"
+			},
+			{
+				"title": "reversed interest account",
+				"label": "Example B",
+				"list": [
+					{
+						"title": "Interest Account",
+						"value": "120,000 USD"
+					},
+					{
+						"title": "Other Currency",
+						"value": "BTC"
+					},
+					{
+						"title": "Term",
+						"value": "30 days"
+					},
+					{
+						"title": "Linked Price",
+						"value": "$20,000"
+					},
+					{
+						"title": "DCP or DCIA Enhanced Yield",
+						"value": "5.0%"
+					}
+				],
+				"content_title": "what happens at the expiry date",
+				"content_description": ["<strong>Expiry date scenario 1:</strong> If the USD rate is above $20,000, the investment and the interest earned will be returned to you (120,000 USD + 5% Yield).", "<strong>Expiry date scenario 2:</strong> If the USD rate is below $20,000, the investment will be converted and returned in BTC with the interest earned (120,000 / 60,000 BTC + 5% Yield)."],
+				"content_sub_description": "Either way, you receive the same interest"
+			}
+		]
+	},
+	"faq": {
+		"array" : [
+			{
+				"title": "What is dual currency interest accounts?",
+				"description": "<p>Dual Currency Interest Account is a non-principal protected product with floating return. The yield of the product is secured at the time of purchase, while the currency in which the product will be settled changes depending on how the Settlement Price compares with the Linked Price.</p><p>A short-term investment product, Dual Currency could potentially provide very high returns.</p>"
+			},
+			{
+				"title": "Which terms should I know?",
+				"description": "<p>Currency</p><p>Investment Currency is the currency in which the investment is made into the product. In Dual Currency - BTC, it would always be BTC.</p><br/><p>Settlement Currency</p><p>Settlement Currency is the currency that you will receive when the product expires.</p><br/><p>Expiry Date</p><p>Expiry Date is the date when your investment product is settled. Your return from this product will be automatically credited into your account on this day.</p><br/><p>Yield</p><p>Yield is the income returned on an investment. It is expressed in percentage and is used to calculate the Settlement Amount.</p><br/><p>Annualized Yield</p><p>Annualized Yield is calculated as the equivalent annual return you get if you continue purchasing this product with the given yield for a whole year. Its calculation formula is: Annualized Yield = Yield / (Expiry Date - Today) * 365.</p><br/><p>Linked Price</p><p>Linked Price is a benchmark price. On Expiry Day, the Settlement Price will be compared against this benchmark price. If the Settlement Price is below the Linked Price, the product will be settled in Investment Currency (i.e. BTC in this case); otherwise, it will be settled in USDC.</p><br/><p>Underlying Asset</p><p>An asset on which a Dual Investment product is based. For instance, if you are making a reference to BTC current price and BTC target price, then the underlying asset is BTC..</p><p>Currency</p><p>The currency you have used to subscribe to a Dual Investment product.</p><br/><p>Settlement Price</p><p>Average of the current price in the last 30 minutes before 08:00 (UTC) on the settlement date. Settlement price and target price determines whether a product is exercised or not.</p>"
+			},
+			{
+				"title": "Can I redeem the investment early before the expiry date?",
+				"description": "<p>No early redemption is allowed.  It will be settled by 8:00 UTC on the Expiry Date.</p>"
+			},
+			{
+				"title": "What are the potential risks?",
+				"description": "<p>The only uncertainty is the currency in which the product will be settled, which is determined by how the Settlement Price compares with the Linked Price. The risk of this product mainly comes from the volatility of the market: the higher the volatility, the harder it is to predict the Settlement Price and where it might be compared with the Linked Price on the Expiry Date.</p>"
+			},
+			{
+				"title": "When can I get my settlement, and how?",
+				"description": "<p>You will get your principal and return settled by 8:00 UTC on the Expiry Date. It will be credited into your wallet automatically and no manual redemption is required.</p>"
+			},
+			{
+				"title": "Are the products with a higher rate the better choice?",
+				"description": "<p>Strike price and term are the two main and correlated parameters of Dual Investment. Products with a higher return means they have a higher probability of being settled in the alternative currency. Investors need to make the investment decision based on their own preferences.</p>"
+			}
+		]
+	}
+}

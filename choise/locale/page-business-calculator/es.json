@@ -1,0 +1,30 @@
+{
+	"business_calculator": {
+		"title_button_1": "Ganar",
+		"text": "o",
+		"title_button_2": "Pedir prestado"
+	},
+	"earn": {
+		"title_coinSelectValue": "Selecciona la cantidad",
+		"duration_information": "Selecciona la duración",
+		"flexible_heading_1": "Hazlo flexible",
+		"flexible_heading_2": "Obtén ganancias en cualquier momento que desees",
+		"total_label_1": "Cantidad para todo el período",
+		"total_label_2": "Tus ganancias",
+		"link": "Abrir una cuenta de negocios"
+	},
+	"borrow": {
+		"title_coinSelectValue": "Cuánto deseas pedir prestado",
+		"label_coins": "Moneda de garantía",
+		"span_coins": "La moneda de garantía es un activo digital que el prestamista retiene como seguridad para el préstamo. Para continuar con la solicitud de préstamo, elige la moneda de garantía que deseas utilizar para asegurar el préstamo.",
+		"label_duration": "Selecciona la duración",
+		"label_loans": "Relación préstamo-valor",
+		"span_loans": "La relación préstamo-valor (LTV) es la cantidad del préstamo en comparación con el valor de la moneda de garantía que se utiliza para asegurar el préstamo. Un porcentaje de LTV más alto puede resultar en una tasa de interés más alta. Elige el porcentaje de LTV que mejor se adapte a tus necesidades y situación financiera.",
+		"title_total_1": "Cantidad total del préstamo",
+		"title_total_2": "Interés total",
+		"title_total_3": "Llamada de margen",
+		"total_description": "Si Ethereum llega a ",
+		"span": ", necesitarás recargar el margen actual",
+		"title_button": "Aplicar ahora"
+	}
+}

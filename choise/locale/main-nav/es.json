@@ -1,0 +1,196 @@
+[
+	{
+		"title": "Ganar",
+		"array": [
+			{
+				"title": "\uD83D\uDE80 Bitdriven",
+				"description": "Gana en una cartera impulsada por BTC. ¡Exclusivamente en Choise.com!",
+				"label": "hasta 1200%",
+				"label_color": "yellow",
+				"slug": "/bitdriven"
+			},
+			{
+				"title": "\uD83D\uDD25 Cuentas de interés de doble moneda",
+				"description": "Las tasas de ingresos más altas",
+				"slug": "/dual-currency-interest-account",
+				"label": "hasta 50% APY",
+				"label_color": "black"
+			},
+			{
+				"title": "Cuentas de interés de Web 3.0",
+				"description": "Apuesta y gana en la plataforma DeFi interna",
+				"slug": "/earn",
+				"label": "hasta 10.7% APY",
+				"label_color": "black"
+			},
+			{
+				"title": "Cuentas de interés",
+				"description": "Obtén ingresos pasivos con tu criptomoneda, fácilmente",
+				"slug": "/interest-accounts",
+				"label": "hasta 13.5% APY",
+				"label_color": "black"
+			},
+			{
+				"title": "Cuenta de interés de NFT",
+				"description": "Crea tus NFT y comienza a ganar",
+				"slug": "/nft/fend"
+			},
+			{
+				"title": "Predicciones de precios de IA",
+				"description": "¿Prefieres el trading diario? Predice precios y gana grandes premios",
+				"slug": "/predictions"
+			},
+			{
+				"title": "Seguro de precios",
+				"description": "Protección contra la caída del precio de BTC y ETH",
+				"slug": "/price-insurance"
+			}
+		]
+	},
+	{
+		"title": "Explorar",
+		"array": [
+			{
+				"title": "Billetera",
+				"description": "Billetera multi-moneda todo en uno",
+				"array": [
+					{
+						"title": "Acerca de la billetera",
+						"description": "La billetera criptográfica definitiva",
+						"slug": "/wallet"
+					},
+					{
+						"title": "Comprar criptomoneda",
+						"description": "Visa, Mastercard",
+						"slug": "/wallet/buy"
+					},
+					{
+						"title": "Intercambio",
+						"description": "Disfruta de las mejores tasas",
+						"slug": "/wallet/exchange"
+					},
+					{
+						"title": "Retirar efectivo",
+						"description": "Retira fondos a tarjetas bancarias",
+						"slug": "/wallet/cashout"
+					},
+					{
+						"title": "Enviar",
+						"description": "Utiliza transferencias internacionales de dinero gratuitas",
+						"slug": "/wallet/send"
+					},
+					{
+						"title": "Gastar",
+						"description": "Paga con tarjetas VISA, tanto de plástico como virtuales",
+						"slug": "/wallet/spend"
+					}
+				]
+			},
+			{
+				"title": "Tarjeta VISA",
+				"description": "Tarjeta de plástico y virtual",
+				"slug": "/cards"
+			},
+			{
+				"title": "Plataforma Charism",
+				"description": "Gana con los mejores productos DeFi",
+				"slug": "/charism"
+			},
+			{
+				"title": "NFT",
+				"description": "Colecciones Choise.com",
+				"array": [
+					{
+						"title": "\uD83D\uDD25 Cuenta de interés de NFT",
+						"description": "CHO, DAI, USDC y USDT",
+						"slug": "/nft/fend",
+						"label": "Hasta 25%",
+						"label_color": "yellow"
+					},
+					{
+						"title": "NFT para probadores beta",
+						"description": "Oferta exclusiva para probadores de Charism",
+						"slug": "/charism/beta"
+					},
+					{
+						"title": "Colección de NFT CHO",
+						"description": "La primera venta de tokens NFT en el espacio",
+						"slug": "/nft"
+					}
+				]
+			},
+			{
+				"title": "DAO",
+				"description": "Tu voz importa",
+				"slug": "/dao"
+			}
+		]
+	},
+	{
+		"title": "Tokens",
+		"array": [
+			{
+				"title": "CHO",
+				"array": [
+					{
+						"title": "Acerca de CHO",
+						"description": "Token de Choise.com",
+						"slug": "/cho"
+					},
+					{
+						"title": "Mercados de CHO",
+						"description": "Listado en los mejores exchanges",
+						"slug": "/cho/exchanges"
+					}
+				]
+			},
+			{
+				"title": "CRPT",
+				"slug": "/crpt"
+			},
+			{
+				"title": "\uD83D\uDD25 Gana $1,000,000 por 1 tuit",
+				"slug": "/million4cho",
+				"description": "Literalmente, solo publica 1 tuit"
+			}
+		]
+	},
+	{
+		"title": "Negocios",
+		"slug": "/business"
+	},
+	{
+		"title": "Acerca de",
+		"array": [
+			{
+				"title": "Blog",
+				"description": "Infórmate tanto como nuestro CEO",
+				"slug": "/news"
+			},
+			{
+				"title": "Cambio de imagen de marca",
+				"description": "6 años de éxito",
+				"slug": "/rebranding"
+			},
+			{
+				"title": "Programa de referidos",
+				"description": "Invita a tus amigos y gana con nosotros",
+				"slug": "/wallet/referral"
+			},
+			{
+				"title": "Programa de embajadores",
+				"description": "Invierte esfuerzo y obtén recompensas",
+				"slug": "/ambassador"
+			},
+			{
+				"title": "Seguridad",
+				"description": "Manteniendo tus activos seguros",
+				"slug": "/security"
+			}
+		]
+	},
+	{
+		"title": "Soporte",
+		"slug": "/help"
+	}
+]

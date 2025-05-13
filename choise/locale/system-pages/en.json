@@ -1,0 +1,89 @@
+{
+	"bonus_fail": {
+		"seo_title": "sorry, no bonuses for now",
+		"title": "sorry, no bonuses for now",
+		"description": "We apologize, but at the moment, you have no bonuses from Choise.com yet."
+	},
+	"bonus_success": {
+		"seo_title": "you’ve got it!",
+		"title": "<span></span> you’ve got it!",
+		"description": "You successfully received a bonus from Choise.com Log in to your Choise.com account and find your gift in a transaction history"
+	},
+	"email_logout": {
+		"seo_title": "you’ve successfully logged out from all devices",
+		"title": "you’ve successfully logged out from all devices",
+		"description": "To re-access your account, reset your password during the sign in process"
+	},
+	"email_resend": {
+		"seo_title": "oops! action needed",
+		"title": "oops!<span></span> action needed",
+		"description": "Your verification link has expired. No need to panic, let’s get you a new one! Here is how to do it",
+		"array": [
+			"Go to the Profile section",
+			"Click on Profile<br/>details",
+			"Click Resend and check your email inbox"
+		]
+	},
+	"email_signedup": {
+		"seo_title": "your email is already verified",
+		"title": "your email is already verified",
+		"description": "Now you can use the Choise.com Wallet as the ultimate solution to store, send, receive, buy, exchange and cash out the world’s most popular cryptocurrencies anytime and anywhere."
+	},
+	"email_success": {
+		"seo_title": "thank you! your email is verified",
+		"title": "thank you!<br/>your email is verified",
+		"description": "Now your account is even better protected, you will get news about product updates and special offers"
+	},
+	"kyc_blocked": {
+		"seo_title": "verification is blocked",
+		"title": "verification is blocked",
+		"description": "We are very sorry but your identity verification was rejected as you attempted to pass it for more than 4 times unsuccessfully.",
+		"chat": "Start in-app chat",
+		"email": "Write an email"
+	},
+	"kyc_success": {
+		"seo_title": "successful verification",
+		"title": "successful <span></span> verification",
+		"description": "Now you can enjoy all features of Choise.com App"
+	},
+	"confirmation": {
+		"seo_title": "thank you! your email address is verified",
+		"title": "thank you!<br/>your email address is verified",
+		"description": "Now your account is even better protected, you will get news about product updates and special offers"
+	},
+	"logout": {
+		"seo_title": "you’ve successfully logged out from all devices",
+		"title": "you’ve successfully<br/>logged out from all devices",
+		"description": "To re-access your account, reset your password during the sign in process"
+	},
+	"resend": {
+		"seo_title": "oops! action needed",
+		"title": "oops!<span></span> action needed",
+		"description": "Your verification link has expired. No need to panic, let’s get you a new one!"
+	},
+	"signedup": {
+		"seo_title": "thank you! your email is already verified",
+		"title": "thank you!<br/> your email is already verified",
+		"description": "You're all set to store, send, buy and spend crypto with our award-winning wallet!"
+	},
+	"successful_withdrawal": {
+		"seo_title": "successful withdrawal",
+		"title": "successful withdrawal",
+		"description": "You're all set to store, send, buy and spend crypto with our award-winning wallet!"
+	},
+	"unsuccessful_withdrawal": {
+		"seo_title": "ouch! try one more time",
+		"title": "ouch!<br/>try one more time",
+		"description": "This link has already expired... Please go back to the Choise.com Wallet and initiate a new withdrawal request!"
+	},
+	"withdrawal_confirmation": {
+		"seo_title": "successful withdrawal",
+		"title": "successful withdrawal",
+		"description": "Your withdrawal request was successfully confirmed. The funds should arrive very soon!"
+	},
+	"withdrawal_confirmation_fail": {
+		"seo_title": "ouch! try one more time",
+		"title": "ouch!<br/>try one more time",
+		"description": "This link has already expired... Please go back to the Choise.com Wallet and initiate a new withdrawal request!"
+	}
+}

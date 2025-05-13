@@ -1,0 +1,89 @@
+{
+	"bonus_fail": {
+		"seo_title": "lo sentimos, no hay bonos por ahora",
+		"title": "lo sentimos, no hay bonos por ahora",
+		"description": "Nos disculpamos, pero por el momento no tienes bonos de Choise.com todavía."
+	},
+	"bonus_success": {
+		"seo_title": "¡lo tienes!",
+		"title": "<span></span> ¡lo tienes!",
+		"description": "Has recibido con éxito un bono de Choise.com. Inicia sesión en tu cuenta de Choise.com y encuentra tu regalo en el historial de transacciones."
+	},
+	"email_logout": {
+		"seo_title": "has cerrado sesión correctamente en todos los dispositivos",
+		"title": "has cerrado sesión correctamente en todos los dispositivos",
+		"description": "Para volver a acceder a tu cuenta, restablece tu contraseña durante el proceso de inicio de sesión."
+	},
+	"email_resend": {
+		"seo_title": "¡ups! se necesita acción",
+		"title": "¡ups!<span></span> se necesita acción",
+		"description": "Tu enlace de verificación ha caducado. No hay necesidad de entrar en pánico, ¡vamos a obtener uno nuevo para ti! Aquí te explicamos cómo hacerlo",
+		"array": [
+			"Ve a la sección de Perfil",
+			"Haz clic en Detalles<br/>de perfil",
+			"Haz clic en Reenviar y verifica tu bandeja de entrada de correo electrónico"
+		]
+	},
+	"email_signedup": {
+		"seo_title": "tu correo electrónico ya está verificado",
+		"title": "tu correo electrónico ya está verificado",
+		"description": "Ahora puedes usar el monedero Choise.com como la solución definitiva para almacenar, enviar, recibir, comprar, intercambiar y retirar las criptomonedas más populares del mundo en cualquier momento y lugar."
+	},
+	"email_success": {
+		"seo_title": "¡gracias! tu correo electrónico está verificado",
+		"title": "¡gracias!<br/>tu correo electrónico está verificado",
+		"description": "Ahora tu cuenta está aún mejor protegida, recibirás noticias sobre actualizaciones de productos y ofertas especiales."
+	},
+	"kyc_blocked": {
+		"seo_title": "la verificación está bloqueada",
+		"title": "la verificación está bloqueada",
+		"description": "Lamentablemente, tu verificación de identidad fue rechazada, ya que intentaste pasarla más de 4 veces sin éxito.",
+		"chat": "Iniciar chat en la aplicación",
+		"email": "Escribir un correo electrónico"
+	},
+	"kyc_success": {
+		"seo_title": "verificación exitosa",
+		"title": "verificación exitosa<span></span>",
+		"description": "Ahora puedes disfrutar de todas las funciones de la aplicación Choise.com."
+	},
+	"confirmation": {
+		"seo_title": "¡gracias! tu dirección de correo electrónico está verificada",
+		"title": "¡gracias!<br/>tu dirección de correo electrónico está verificada",
+		"description": "Ahora tu cuenta está aún mejor protegida, recibirás noticias sobre actualizaciones de productos y ofertas especiales."
+	},
+	"logout": {
+		"seo_title": "has cerrado sesión correctamente en todos los dispositivos",
+		"title": "has cerrado sesión correctamente<br/>en todos los dispositivos",
+		"description": "Para volver a acceder a tu cuenta, restablece tu contraseña durante el proceso de inicio de sesión."
+	},
+	"resend": {
+		"seo_title": "¡ups! se necesita acción",
+		"title": "¡ups!<span></span> se necesita acción",
+		"description": "Tu enlace de verificación ha caducado. ¡No hay necesidad de entrar en pánico, vamos a obtener uno nuevo para ti!"
+	},
+	"signedup": {
+		"seo_title": "¡gracias! tu correo electrónico ya está verificado",
+		"title": "¡gracias!<br/> ¡tu correo electrónico ya está verificado",
+		"description": "¡Ya estás listo para almacenar, enviar, comprar y gastar criptomonedas con nuestra galardonada billetera!"
+	},
+	"successful_withdrawal": {
+		"seo_title": "retiro exitoso",
+		"title": "retiro exitoso",
+		"description": "¡Ya estás listo para almacenar, enviar, comprar y gastar criptomonedas con nuestra galardonada billetera!"
+	},
+	"unsuccessful_withdrawal": {
+		"seo_title": "¡ouch! intenta una vez más",
+		"title": "¡ouch!<br/> ¡intenta una vez más",
+		"description": "Este enlace ya ha caducado... ¡Vuelve a la billetera Choise.com e inicia una nueva solicitud de retiro!"
+	},
+	"withdrawal_confirmation": {
+		"seo_title": "retiro exitoso",
+		"title": "retiro exitoso",
+		"description": "Tu solicitud de retiro se confirmó correctamente. ¡Los fondos deberían llegar muy pronto!"
+	},
+	"withdrawal_confirmation_fail": {
+		"seo_title": "¡ouch! intenta una vez más",
+		"title": "¡ouch!<br/> ¡intenta una vez más",
+		"description": "Este enlace ya ha caducado... ¡Vuelve a la billetera Choise.com e inicia una nueva solicitud de retiro!"
+	}
+}

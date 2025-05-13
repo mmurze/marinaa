@@ -1,0 +1,65 @@
+{
+	"seo": {
+		"title": "your choice to earn moooore",
+		"description": "Find the best yield opportunities across all EVM networks. Invest in any of them with one click."
+	},
+	"main":{
+		"title": "your choise to earn moooore",
+		"description": "Find the best yield opportunities across all EVM networks. Invest in any of them with one click.",
+		"link": "Start earning"
+	},
+	"fingerprints": {
+		"title": "all the yields at your finger-tips",
+		"title_first": "find the best earning product that suits you",
+		"description_1_1": "No more juggling across different DeFi protocols, no more scrambling across different balance accounts and user dashboards – the Charism staking & yield farming aggregato is a single entry point to the entire DeFi space.",
+		"description_1_2": "Find and analyze earning products across different protocols in one unified interface. Compare different protocols by main parameters such as APY, TVL, and choose the one that suits you best.",
+		"title_second": "earn on all chains",
+		"description_2": "No more need to switch between different blockchains and interfaces, one unified interface for all protocols and all blockchains.",
+		"title_third": "earn with ease",
+		"description_3": "Enter any earning product with ease via our transaction builder protocol. We’ll take the heavy lifting of interacting with complex DeFi protocols while you are enjoying high APYs."
+	},
+	"dex": {
+		"title": "swap with the best rates",
+		"description": "The unified explorer for the best rates and liquidity offered by decentralized exchanges (DEXs), the DEX Aggregator of the Charism protocol enables traders to exchange cryptocurrencies at the lowest rates and avoid exuberant transaction commissions. Now you can swap digital assets, being sure of the lowest slippage on high-liquidity DEXs. Trade straight from and to your non-custodial wallet and retain complete control over your virtual funds.",
+		"link": "Swap"
+	},
+	"chain": {
+		"title": "bridge to any chain",
+		"description": "Find the best bridges across 10 chains while enjoying the extreme simplicity, and the best market prices.",
+		"list": [
+			{
+				"icon": "/pic/charism/chains/binance.jpg",
+				"title": "binance"
+			},
+			{
+				"icon": "/pic/charism/chains/avalanche.jpg",
+				"title": "avalanche"
+			},
+			{
+				"icon": "/pic/charism/chains/polygon.jpg",
+				"title": "polygon"
+			},
+			{
+				"icon": "/pic/charism/chains/ethereum.jpg",
+				"title": "ethereum"
+			},
+			{
+				"icon": "/pic/charism/chains/arbitrum.jpg",
+				"title": "arbitrum"
+			},
+			{
+				"icon": "/pic/charism/chains/fantom.jpg",
+				"title": "fantom"
+			},
+			{
+				"icon": "/pic/charism/chains/gnosis.jpg",
+				"title": "gnosis"
+			}
+		],
+		"link": "Bridge"
+	},
+	"analyze": {
+		"title": "analyze your portfolio across all chains",
+		"description": "Track your wallet and earning portfolio across all chains."
+	}
+}
